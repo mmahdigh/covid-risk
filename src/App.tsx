@@ -21,7 +21,7 @@ const DefaultEventSize = 5;
 function App() {
   const [location, setLocation] = useState<string[]>([]);
   const [eventSize, setEventSize] = useState(DefaultEventSize)
-  const [result, setResult] = useState<number>();
+  const [result, setResult] = useState<string>();
 
   const selectRef = useRef<RefSelectProps | null>();
 
@@ -37,13 +37,26 @@ function App() {
   const handleSliderChange = (size: number) => setEventSize(size);
 
   const handleButtonSubmit = () => {
-    setResult(Number(contractionChanceRegion(location[0], eventSize).toFixed(2)) * 100)
+    setResult((contractionChanceRegion(location[0], eventSize) * 100).toFixed(2))
+  }
+
+  const startOver = () => {
+    setResult(undefined);
   }
 
   return (
     <div className="App">
-      <div style={{height: 35, width: "100%", backgroundColor: "#000"}}></div>
-      <h1 style={{ marginTop: 25, marginBottom: 50 }}> Covid Event Risk Calculator </h1>
+      <div style={{display: 'flex', flexDirection: 'row',marginBottom: 50, justifyContent: 'space-evenly', height: 100, width: "100%", backgroundColor: "#000"}}>
+        <div style={{margin: "auto 50px"}}>
+          <span style={{color: '#fff', verticalAlign:"super", marginRight: 5}}> Support: </span>
+          <a className="github-button" 
+          href="https://github.com/mmahdigh/covid-risk" data-icon="octicon-star" 
+          data-size="large" 
+          data-show-count="true"
+          aria-label="Star mmahdigh/covid-risk on GitHub">Star</a>
+        </div>
+        <h1 style={{ marginTop: 25, color: '#fff' }}> Covid Event Risk Calculator </h1>
+      </div>
       <div style={{ display: "flex", justifyContent: 'space-evenly' }}>
         <div style={{ boxShadow: result === undefined ? "1px 1px 10px 1px rgb(180, 204, 248)" :
       "1px 1px 10px 1px #19cb94"}} className="inputCard">
@@ -53,12 +66,19 @@ function App() {
             <p> Odds There Is One Person  </p>
             <p> Infected With Covid19 Is: </p>
           </div>
-          <div style={{color: `rgb(${Math.min(256, result * 5)}, 0, 0)`, borderBottom: "2px solid #eee"}} className="result">
+          <div style={{color: `rgb(${Math.min(256, Number(result) * 5)}, 0, 0)`, borderBottom: "2px solid #eee"}} className="result">
             <p id="result"> {`${result}%`} </p>
           </div>
-          <div style={{fontSize: 14, color: "#fff",fontWeight: 500, padding: 25, backgroundColor: "#222"}}>
-            <p> It's close to the odds that  </p>
-            <p> {getTrivia(result)} </p>
+          <div style={{display: 'flex', justifyContent: 'space-evenly', 
+          alignItems: 'center' ,fontSize: 14, color: "#fff",
+          fontWeight: 500, padding: 25, backgroundColor: "#222"}}>
+            <div>
+              <p> It's close to the odds that  </p>
+              <p> {getTrivia(Number(result))} </p>
+            </div>
+            <button onClick={startOver} className="startOver">
+              Start Over!
+            </button>
           </div>
         </div>
         }

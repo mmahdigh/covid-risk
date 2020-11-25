@@ -67,6 +67,25 @@ body {
   /* background-color: #0e6449; */
 }
 
+.startOver {
+  padding: 15px;
+  color: white;
+  /* box-shadow: 1px 1px 10px 5px #ddd; */
+  border: 1px solid #17b381;
+  border-radius: 10px;
+  /* border: 0; */
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+  background-color: #19cb94;
+  transition: all 0.2s;
+}
+
+.startOver:hover {
+  background-color: #17b381;
+  /* background-color: #0e6449; */
+}
+
 .rowContainer > div {
   display: flex;
   align-items: center;
