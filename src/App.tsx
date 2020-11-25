@@ -9,8 +9,46 @@ import { calcRegionName } from "./utils/index";
 import { RefSelectProps } from "antd/lib/select";
 import { contractionChanceRegion } from "./logic/main";
 import { trivia, TriviaPercentage,  } from './logic/trivia';
+import { createUseStyles } from "react-jss";
 
 const { Option } = Select;
+
+const useStyles = createUseStyles({
+  mainContainer: {
+    display: "flex",
+    justifyContent: 'space-evenly',
+  },
+  inputCard: {
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    // font-family: apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,
+    width: 700,
+    /* margin: auto; */
+    backgroundColor: "rgb(250, 250, 250)",
+    height: 400,
+  },
+  title: {
+    marginTop: 25, 
+    color: '#fff'
+  },
+  '@media screen and (max-width: 600px)': {
+    mainContainer: {
+      flexDirection: 'column',
+      justifyContent: 'space-between',
+      alignItems: 'center',
+    },
+    inputCard: {
+      width: "95%",
+      marginBottom: 50,
+    },
+    title: {
+      fontSize: 24,
+      margin: 'auto',
+    }
+
+  },
+})
 
 const getTrivia = (result: number) => {
   if (result < 5 && result > 1) return trivia['1'][0]
@@ -24,6 +62,8 @@ function App() {
   const [result, setResult] = useState<string>();
 
   const selectRef = useRef<RefSelectProps | null>();
+
+  const classes = useStyles()
 
   const handleChange = (val: string[]) => {
     if (!val.length) {
@@ -55,11 +95,11 @@ function App() {
           data-show-count="true"
           aria-label="Star mmahdigh/covid-risk on GitHub">Star</a>
         </div>
-        <h1 style={{ marginTop: 25, color: '#fff' }}> Covid Event Risk Calculator </h1>
+        <h1 className={classes.title}> Covid Event Risk Calculator </h1>
       </div>
-      <div style={{ display: "flex", justifyContent: 'space-evenly' }}>
+      <div className={classes.mainContainer}>
         <div style={{ boxShadow: result === undefined ? "1px 1px 10px 1px rgb(180, 204, 248)" :
-      "1px 1px 10px 1px #19cb94"}} className="inputCard">
+      "1px 1px 10px 1px #19cb94"}} className={classes.inputCard}>
         {result !== undefined &&
         <div style={{display: 'flex', flexDirection: 'column', width: "100%"}}>
           <div style={{fontSize: 24, color: "#0e6449",fontWeight: 500, padding: "12px 25px"}}>
