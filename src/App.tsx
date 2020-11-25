@@ -26,6 +26,7 @@ const useStyles = createUseStyles({
     // font-family: apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,
     width: 700,
     /* margin: auto; */
+    justifyContent: 'space-between',
     backgroundColor: "rgb(250, 250, 250)",
     height: 400,
   },
@@ -52,6 +53,30 @@ const useStyles = createUseStyles({
       borderRadius: "80%",
     },
   },
+  resultContainer: {
+    display: 'flex',
+    padding: "20px 0",
+      justifyContent: 'space-evenly',
+    borderBottom: "2px solid #eee",
+    width: '100%'
+  },
+  table: {
+    width: 300,
+    fontSize: 14,
+    border: "1px solid #000",
+    ['&:nth-child(even)']: {backgroundColor: "#f2f2f2"},
+    ['& td:hover']: {backgroundColor: "#ddd"},
+    ['& th']: {
+      paddingTop: 12,
+      paddingBottom: 12,
+      textAlign: "center",
+      backgroundColor: "#76cdb2",
+      color: "#000",
+    },
+    ['& td']: {
+      padding: "12px 0",
+    },
+  },
   select: {
     marginLeft: 15,
     width: 250,
@@ -64,11 +89,16 @@ const useStyles = createUseStyles({
     },
     inputCard: {
       width: "95%",
+      height: 'initial',
       marginBottom: 50,
     },
     title: {
       fontSize: 24,
       margin: 'auto',
+    },
+    resultContainer: {
+      flexDirection: 'column',
+      alignItems: 'center',
     },
     select: {
       width: 200,
@@ -80,6 +110,14 @@ const useStyles = createUseStyles({
 const getTrivia = (result: number) => {
   if (result < 5 && result > 1) return trivia['1'][0]
   else return trivia[`${Math.min(50, (Math.floor(result / 5) + 1) * 5)}` as TriviaPercentage][0]
+}
+
+const getLastWeekDeaths = (location: string) => {
+  return RegionCovidData[location].lastWeekAverageDeathPerMillionEachDay
+}
+
+const getAllDeaths = (location: string) => {
+  return RegionCovidData[location].allDeathPerMillion
 }
 
 const DefaultEventSize = 5;
@@ -128,16 +166,36 @@ function App() {
         <div style={{ boxShadow: result === undefined ? "1px 1px 10px 1px rgb(180, 204, 248)" :
       "1px 1px 10px 1px #19cb94"}} className={classes.inputCard}>
         {result !== undefined &&
-        <div style={{display: 'flex', flexDirection: 'column', width: "100%"}}>
-          <div style={{fontSize: 24, color: "#0e6449",fontWeight: 500, padding: "12px 25px"}}>
-            <p> Odds There Is One Person  </p>
-            <p> Infected With Covid19 Is: </p>
+        <>
+          <div style={{display: 'flex', fontSize: 30, color: "#0e6449",fontWeight: 650, padding: "12px 25px"}}>
+            <p style={{marginBottom: 0}}> Odds: </p>
           </div>
-          <div style={{color: `rgb(${Math.min(256, Number(result) * 5)}, 0, 0)`, borderBottom: "2px solid #eee"}} className="result">
-            <p id="result"> {`${result}%`} </p>
+          <div className={classes.resultContainer}>
+            <div style={{color: `rgb(${Math.min(256, Number(result) * 5)}, 0, 0)`}} className="result">
+              <p id="result"> {`${result}%`} </p>
+            </div>
+            <table className={classes.table}>
+            <thead>
+              <tr>
+                <th colSpan={2}>
+                  {location[0]} 
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td> Last Week Average Deaths Per 1M </td>
+                <td> {getLastWeekDeaths(location[0])} </td>
+              </tr>
+              <tr>
+                <td> All Time Deaths Per 1M </td>
+                <td> {getAllDeaths(location[0])} </td>
+              </tr>
+            </tbody>
+            </table>
           </div>
           <div style={{display: 'flex', justifyContent: 'space-evenly', 
-          alignItems: 'center' ,fontSize: 14, color: "#fff",
+          alignItems: 'center' , width: "100%", fontSize: 14, color: "#fff",
           fontWeight: 500, padding: 25, backgroundColor: "#222"}}>
             <div>
               <p> It's close to the odds that  </p>
@@ -147,7 +205,7 @@ function App() {
               Start Over!
             </button>
           </div>
-        </div>
+        </>
         }
         {result === undefined && <> <div className={classes.rowContainer}>
              <div>
@@ -194,7 +252,7 @@ function App() {
           <button onClick={handleButtonSubmit} className="riskButton"> Calculate </button> </>}
           </div>
       <div className="info">
-        <p> This calculator predicts the odds that there's already at least one
+        <p style={{fontWeight: 700}}> This calculator predicts the odds that there's already at least one
           person infected with Covid19 in an event or party.
         </p>
         <p> Since testing capacity isn't distributed evenly in the world,

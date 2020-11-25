@@ -40,7 +40,7 @@ body {
 
 .riskButton {
   padding: 15px;
-  margin-top: 30px;
+  margin: 25px 0;
   color: white;
   /* box-shadow: 1px 1px 10px 5px #ddd; */
   border: 1px solid #17b381;
@@ -60,7 +60,7 @@ body {
 
 .startOver {
   padding: 15px;
-  color: white;
+  color: black;
   /* box-shadow: 1px 1px 10px 5px #ddd; */
   border: 1px solid #17b381;
   border-radius: 10px;
@@ -68,7 +68,7 @@ body {
   font-weight: 600;
   cursor: pointer;
   outline: none;
-  background-color: #19cb94;
+  background-color: #76ceb2;
   transition: all 0.2s;
 }
 
