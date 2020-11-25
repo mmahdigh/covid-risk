@@ -17,7 +17,7 @@ another wave of covid, but this time, south of Italy is affected too. whereas th
 it harmed the north of the country the most.
 
 In order to add a region, you need to go to src/logic/data.ts, add a region
-and fill in the needed data. please attach source of your data in your pull request.
+and fill in the needed data (average daily deaths in the previous week per million, all time deaths per million, median age of the region). please attach source of your data in your pull request.
 if you're not on Github, you can email me the above info. (mahdighajary@gmail.com)
 
 # How is the probability calculated?

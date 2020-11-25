@@ -704,6 +704,20 @@ export const RegionCovidData : CovidData = {
     allDeathPerMillion: 304,
     flag: usa,
   },
+  London: {
+    lastWeekAverageDeathPerMillionEachDay: 2.54,
+    updatedAt: 1606305837,
+    medianAge: 35.3,
+    allDeathPerMillion: 1076,
+    flag: united_kingdom,
+  },
+  King_County: {
+    lastWeekAverageDeathPerMillionEachDay: 9.88,
+    updatedAt: 1606305837,
+    medianAge: 37.1,
+    allDeathPerMillion: 392,
+    flag: usa,
+  },
 
 
 }
