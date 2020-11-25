@@ -17,6 +17,7 @@ const useStyles = createUseStyles({
   mainContainer: {
     display: "flex",
     justifyContent: 'space-evenly',
+    minHeight: "calc(100vh - 300px)",
   },
   inputCard: {
     display: "flex",
@@ -32,6 +33,29 @@ const useStyles = createUseStyles({
     marginTop: 25, 
     color: '#fff'
   },
+  rowContainer: {
+    display: "flex",
+    width: "80%",
+    justifyContent: "space-around",
+    marginTop: 50,
+    paddingBottom: 25,
+    borderBottom: "1px solid #ddd",
+    ['& > div']: {
+      display: "flex",
+      alignItems: "center",
+    },
+    ['& p']: {
+      margin: "auto 0",
+      fontSize: 18,
+    },
+    ['& img']: {
+      borderRadius: "80%",
+    },
+  },
+  select: {
+    marginLeft: 15,
+    width: 250,
+  },
   '@media screen and (max-width: 600px)': {
     mainContainer: {
       flexDirection: 'column',
@@ -45,6 +69,9 @@ const useStyles = createUseStyles({
     title: {
       fontSize: 24,
       margin: 'auto',
+    },
+    select: {
+      width: 200,
     }
 
   },
@@ -86,7 +113,7 @@ function App() {
 
   return (
     <div className="App">
-      <div style={{display: 'flex', flexDirection: 'row',marginBottom: 50, justifyContent: 'space-evenly', height: 100, width: "100%", backgroundColor: "#000"}}>
+      <header style={{display: 'flex', flexDirection: 'row',marginBottom: 50, justifyContent: 'space-evenly', height: 100, width: "100%", backgroundColor: "#000"}}>
         <div style={{margin: "auto 50px"}}>
           <span style={{color: '#fff', verticalAlign:"super", marginRight: 5}}> Support: </span>
           <a className="github-button" 
@@ -96,7 +123,7 @@ function App() {
           aria-label="Star mmahdigh/covid-risk on GitHub">Star</a>
         </div>
         <h1 className={classes.title}> Covid Event Risk Calculator </h1>
-      </div>
+      </header>
       <div className={classes.mainContainer}>
         <div style={{ boxShadow: result === undefined ? "1px 1px 10px 1px rgb(180, 204, 248)" :
       "1px 1px 10px 1px #19cb94"}} className={classes.inputCard}>
@@ -122,7 +149,7 @@ function App() {
           </div>
         </div>
         }
-        {result === undefined && <> <div className="rowContainer">
+        {result === undefined && <> <div className={classes.rowContainer}>
              <div>
               <p> Event Size: </p>
               <Slider max={250} className="slider"  tooltipVisible value={eventSize} 
@@ -130,12 +157,12 @@ function App() {
             </div>
             <img src={people} width={50} />
           </div>
-          <div className="rowContainer">
+          <div className={classes.rowContainer}>
             <div>
               <p> Location: </p>
               <Select
                 mode="multiple"
-                style={{ width: 250, marginLeft: 15 }}
+                className={classes.select}
                 placeholder="Type One Country/Province/State"
                 value={location}
                 ref={(ref) => (selectRef.current = ref)}
@@ -182,9 +209,9 @@ function App() {
         </p>
       </div>
       </div>
-      <div style={{height: 100, width: "100%", backgroundColor: "#000", marginTop: 50, padding: 25}}>
+      <footer style={{position: 'relative',height: 100, width: "100%", backgroundColor: "#000", marginTop: 50, padding: 25}}>
         <p style={{margin: "auto", color: '#fff'}}>  ALL RIGHTS RESERVED. COPYRIGHT © 2020. </p>
-      </div>
+      </footer>
     </div>
   );
 }

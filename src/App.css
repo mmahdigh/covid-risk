@@ -31,15 +31,6 @@ body {
   height: 400px;
 }
 
-.rowContainer {
-  display: flex;
-  width: 80%;
-  justify-content: space-around;
-  margin-top: 50px;
-  padding-bottom: 25px;
-  border-bottom: 1px solid #ddd;
-  /* flex-direction: column; */
-}
 
 .result #result {
   font-size: 64px;
@@ -84,20 +75,6 @@ body {
 .startOver:hover {
   background-color: #17b381;
   /* background-color: #0e6449; */
-}
-
-.rowContainer > div {
-  display: flex;
-  align-items: center;
-}
-
-.rowContainer p {
-  margin: auto 0;
-  font-size: 18px;
-}
-
-.rowContainer img {
-  border-radius: 80%;
 }
 
 
