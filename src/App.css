@@ -2,37 +2,88 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background-color: #f7f7f7;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.info {
+  width: 300px;
+  padding: 25px;
+  border-radius: 15px;
+  /* height: 400px ; */
+  background-color: #76ceb2;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.info p {
+  width: "80%";
+  line-height: 25px;
+  text-align: justify;
+}
+
+.inputCard {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-family: apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
+  width: 700px;
+  /* margin: auto; */
+  background-color: rgb(250, 250, 250);
+  height: 400px;
+}
+
+.rowContainer {
+  display: flex;
+  width: 80%;
+  justify-content: space-around;
+  margin-top: 50px;
+  padding-bottom: 25px;
+  border-bottom: 1px solid #ddd;
+  /* flex-direction: column; */
+}
+
+.result #result {
+  font-size: 64px;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.riskButton {
+  padding: 15px;
+  margin-top: 30px;
   color: white;
+  /* box-shadow: 1px 1px 10px 5px #ddd; */
+  border: 1px solid #17b381;
+  border-radius: 10px;
+  /* border: 0; */
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+  background-color: #19cb94;
+  transition: all 0.2s;
 }
 
-.App-link {
-  color: #61dafb;
+.riskButton:hover {
+  background-color: #17b381;
+  /* background-color: #0e6449; */
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.rowContainer > div {
+  display: flex;
+  align-items: center;
+}
+
+.rowContainer p {
+  margin: auto 0;
+  font-size: 18px;
+}
+
+.rowContainer img {
+  border-radius: 80%;
+}
+
+.slider {
+  /* margin-top: 100px !important; */
+  margin-left: 25px !important;
+  width: 250px;
+  /* margin: 0 !important; */
 }
