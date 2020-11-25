@@ -1,46 +1,33 @@
-# Getting Started with Create React App
+# Covid Event Risk Calculator
+It's very likely that there's an indoor event or party you don't want to miss 
+but you also can't shrug off the possibility of contracting Covid19.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This very small app helps you determine how risky events of different sizes 
+are in different regions of the world.
 
-## Available Scripts
+Currently we cover 95 regions all over the world. We update the data regarding these regions
+consistently.
 
-In the project directory, you can run:
+# Add A Region And Update The Data
 
-### `npm start`
+It's clear that the smaller a region, the better the prediction but unfortunately
+not all the countries report detailed stats for their cities so we need to rely on
+the country-level stats (for those countries who do, it's a lot of work to single-handedly track the data for all their provinces, I need your help :) ) . so for example currently (11/25/20), Italy is experiencing 
+another wave of Covid, but this time, south of Italy is affected too. whereas in the previous wave,
+it harmed the north of the country the most.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+In order to add a region, you need to go to src/logic/data.ts, add a region
+and fill in the needed data (average daily deaths in the previous week per million, all time deaths per million, median age of the region). please attach source of your data in your pull request.
+if you're not on Github, you can email me the above info. (mahdighajary@gmail.com)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# How is the probability calculated?
 
-### `npm test`
+TBA. for the time being, you can read the code for yourself :)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Incoming features
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- tiding up the code because it was rapidly developed.
+- better and more user-friendly UX and UI.
+- detailed results. (like the probability that there are two (or 3, 4, etc) covid cases in an event)
+- writing tests. (primarily for the logic)
+- whatever you find interesting!
