@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/covid-risk/static/css/main.10fdf282.chunk.css",
-    "main.js": "/covid-risk/static/js/main.35cd39ee.chunk.js",
-    "main.js.map": "/covid-risk/static/js/main.35cd39ee.chunk.js.map",
-    "runtime-main.js": "/covid-risk/static/js/runtime-main.cc4d3399.js",
-    "runtime-main.js.map": "/covid-risk/static/js/runtime-main.cc4d3399.js.map",
+    "main.js": "/covid-risk/static/js/main.603bc660.chunk.js",
+    "main.js.map": "/covid-risk/static/js/main.603bc660.chunk.js.map",
+    "runtime-main.js": "/covid-risk/static/js/runtime-main.9e2f4f73.js",
+    "runtime-main.js.map": "/covid-risk/static/js/runtime-main.9e2f4f73.js.map",
     "static/css/2.e10cf4f1.chunk.css": "/covid-risk/static/css/2.e10cf4f1.chunk.css",
-    "static/js/2.19decece.chunk.js": "/covid-risk/static/js/2.19decece.chunk.js",
-    "static/js/2.19decece.chunk.js.map": "/covid-risk/static/js/2.19decece.chunk.js.map",
-    "static/js/3.9b189b5e.chunk.js": "/covid-risk/static/js/3.9b189b5e.chunk.js",
-    "static/js/3.9b189b5e.chunk.js.map": "/covid-risk/static/js/3.9b189b5e.chunk.js.map",
+    "static/js/2.23545422.chunk.js": "/covid-risk/static/js/2.23545422.chunk.js",
+    "static/js/2.23545422.chunk.js.map": "/covid-risk/static/js/2.23545422.chunk.js.map",
+    "static/js/3.d6667412.chunk.js": "/covid-risk/static/js/3.d6667412.chunk.js",
+    "static/js/3.d6667412.chunk.js.map": "/covid-risk/static/js/3.d6667412.chunk.js.map",
     "index.html": "/covid-risk/index.html",
-    "precache-manifest.9b5384e31f88da5c583446c6c2200c35.js": "/covid-risk/precache-manifest.9b5384e31f88da5c583446c6c2200c35.js",
+    "precache-manifest.13c97f365b71f96f3ba317242c71556a.js": "/covid-risk/precache-manifest.13c97f365b71f96f3ba317242c71556a.js",
     "service-worker.js": "/covid-risk/service-worker.js",
     "static/css/2.e10cf4f1.chunk.css.map": "/covid-risk/static/css/2.e10cf4f1.chunk.css.map",
     "static/css/main.10fdf282.chunk.css.map": "/covid-risk/static/css/main.10fdf282.chunk.css.map",
@@ -47,6 +47,7 @@
     "static/media/portugal.svg": "/covid-risk/static/media/portugal.d6d5e4d9.svg",
     "static/media/romania.svg": "/covid-risk/static/media/romania.a9894617.svg",
     "static/media/russia.svg": "/covid-risk/static/media/russia.1b038aa5.svg",
+    "static/media/skorea.svg": "/covid-risk/static/media/skorea.5812a59c.svg",
     "static/media/south-africa.svg": "/covid-risk/static/media/south-africa.0c1b162d.svg",
     "static/media/spain.svg": "/covid-risk/static/media/spain.c06563a7.svg",
     "static/media/tunisia.svg": "/covid-risk/static/media/tunisia.440186df.svg",
@@ -56,10 +57,10 @@
     "static/media/usa.svg": "/covid-risk/static/media/usa.cbfe8d83.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc4d3399.js",
+    "static/js/runtime-main.9e2f4f73.js",
     "static/css/2.e10cf4f1.chunk.css",
-    "static/js/2.19decece.chunk.js",
+    "static/js/2.23545422.chunk.js",
     "static/css/main.10fdf282.chunk.css",
-    "static/js/main.35cd39ee.chunk.js"
+    "static/js/main.603bc660.chunk.js"
   ]
 }
