@@ -40,13 +40,3 @@ export const contractionChanceRegion = (region: string, eventSize: number) => {
   return contractionChance(eventSize, data.lastWeekAverageDeathPerMillionEachDay,
   data.allDeathPerMillion, data.medianAge )
 }
-
-// console.log(contractionChance(10, 25, 878, 37.1))
-// console.log(contractionChance(10, 8.96, 1300, 32))
-
-const italyData : RegionData = RegionCovidData['Italy'];
-for (let property in RegionCovidData) {
-  let data = RegionCovidData[property];
-  console.log(property, contractionChance(10, data.lastWeekAverageDeathPerMillionEachDay,
-  data.allDeathPerMillion, data.medianAge ))
-}

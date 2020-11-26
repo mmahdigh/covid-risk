@@ -29,6 +29,7 @@ import bulgaria from '../icons/bulgaria.svg'
 import netherlands from '../icons/netherlands.svg'
 import south_africa from '../icons/south-africa.svg'
 import canada from '../icons/canada.svg'
+import skorea from '../icons/skorea.svg'
 import pakistan from '../icons/pakistan.svg'
 import japan from '../icons/japan.svg'
 import china from '../icons/china.svg'
@@ -346,6 +347,20 @@ export const RegionCovidData : CovidData = {
     medianAge: 17.9,
     allDeathPerMillion: 6,
     flag: nigeria,
+  },
+  United_States: {
+    lastWeekAverageDeathPerMillionEachDay: 5.20,
+    updatedAt: 1606385157,
+    medianAge: 38.2,
+    allDeathPerMillion: 809,
+    flag: usa,
+  },
+  South_Korea: {
+    lastWeekAverageDeathPerMillionEachDay: 0.06,
+    updatedAt: 1606385157,
+    medianAge: 43.7,
+    allDeathPerMillion: 10,
+    flag: skorea,
   },
   Illinois: {
     lastWeekAverageDeathPerMillionEachDay: 9.841,
