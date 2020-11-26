@@ -22,11 +22,17 @@ if you're not on Github, you can email me the above info. (mahdighajary@gmail.co
 
 # How is the probability calculated?
 
-TBA. for the time being, you can read the code for yourself :)
+It's basically a Binomial distribution when we're looking for all the n people not to be infectious.
 
+There are some important premises:
+- 50% of cases are asymptomatic.
+- symptomatic cases after their incubation period refrain from participating in gatherings.
+- cases are infectious 15 days after showing symptoms.
+- IFR of the US is 0.0065 per CDC report.
+- Other regions' IFR are calculated based on the US IFR and their median age. (https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-34-IFR/) 
 # Incoming features
 
-- tiding up the code because it was rapidly developed.
+- tiding up the code because it was rapidly developed. (adding linter as a first step)
 - better and more user-friendly UX and UI.
 - detailed results. (like the probability that there are two (or 3, 4, etc) covid cases in an event)
 - writing tests. (primarily for the logic)
