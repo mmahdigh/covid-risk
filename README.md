@@ -30,6 +30,9 @@ There are some important premises:
 - cases are infectious 15 days after showing symptoms.
 - IFR of the US is 0.0065 per CDC report.
 - Other regions' IFR are calculated based on the US IFR and their median age. (https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-34-IFR/) 
+
+I also fully welcome the idea that people with expertise in statistics and Epidemiology join this effort to make a more accurate and useful app together.
+
 # Incoming features
 
 - tiding up the code because it was rapidly developed. (adding linter as a first step)
