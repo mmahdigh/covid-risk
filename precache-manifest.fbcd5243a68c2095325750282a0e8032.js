@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91388be0b6529d62f39159e2f5dbd7b9",
+    "revision": "f87f8749a66fd0ddf72e4153bb36c6a0",
     "url": "/covid-risk/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid-risk/static/css/2.e10cf4f1.chunk.css"
   },
   {
-    "revision": "9d43c0719175f58589c8",
-    "url": "/covid-risk/static/css/main.10fdf282.chunk.css"
+    "revision": "b5614fe04e1fe997af15",
+    "url": "/covid-risk/static/css/main.16b9b405.chunk.css"
   },
   {
     "revision": "a8cfc8c84644ac8b89c0",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid-risk/static/js/3.d6667412.chunk.js"
   },
   {
-    "revision": "9d43c0719175f58589c8",
-    "url": "/covid-risk/static/js/main.603bc660.chunk.js"
+    "revision": "b5614fe04e1fe997af15",
+    "url": "/covid-risk/static/js/main.77c53d89.chunk.js"
   },
   {
     "revision": "71a3c8ad520bd741fd4a",
