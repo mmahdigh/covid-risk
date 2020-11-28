@@ -31,7 +31,7 @@ There are some important premises:
 - IFR of the US is 0.0065 per CDC report.
 - Other regions' IFR are calculated based on the US IFR and their median age. (https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-34-IFR/) 
 
-I also fully welcome the idea that people with expertise in statistics and Epidemiology join this effort to make a more accurate and useful app together.
+<b> I also fully welcome the idea that people with expertise in Statistics and Epidemiology join this effort to make a more accurate and useful app together. </b>
 
 # Incoming features
 
