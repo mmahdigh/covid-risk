@@ -126,6 +126,14 @@ const getAllDeaths = (location: string) => {
   return RegionCovidData[location].allDeathPerMillion
 }
 
+const getLastUpdateDate = (location: string) => {
+  const timeStamp = RegionCovidData[location].updatedAt;
+  console.log(Date.now() - timeStamp)
+  console.log(timeStamp)
+  const dt = new Date(timeStamp);
+  return dt.toLocaleString().split(',')[0]
+}
+
 const DefaultEventSize = 5;
 function App() {
   const [location, setLocation] = useState<string[]>([]);
@@ -184,7 +192,7 @@ function App() {
             <thead>
               <tr>
                 <th colSpan={2}>
-                  {location[0]} 
+                  {`${location[0]} (as of ${getLastUpdateDate(location[0])})`} 
                 </th>
               </tr>
             </thead>
