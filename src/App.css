@@ -80,12 +80,12 @@ body {
 
 .slider {
   /* margin-top: 100px !important; */
-  margin-left: 25px !important;
-  width: 250px;
+
   /* margin: 0 !important; */
 }
 
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 600px) {
   #leftsidebar {width: 200px; float: left;}
   #main {margin-left: 216px;}
+  .slider {width: 175px;}
 }

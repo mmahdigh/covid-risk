@@ -81,6 +81,10 @@ const useStyles = createUseStyles({
     marginLeft: 15,
     width: 250,
   },
+  slider: {
+    marginLeft: "25px !important",
+    width: 250,
+  },
   '@media screen and (max-width: 600px)': {
     mainContainer: {
       flexDirection: 'column',
@@ -101,9 +105,11 @@ const useStyles = createUseStyles({
       alignItems: 'center',
     },
     select: {
-      width: 200,
+      width: 175,
+    },
+    slider: {
+      width: 175,
     }
-
   },
 })
 
@@ -210,7 +216,7 @@ function App() {
         {result === undefined && <> <div className={classes.rowContainer}>
              <div>
               <p> Event Size: </p>
-              <Slider max={250} className="slider"  tooltipVisible value={eventSize} 
+              <Slider max={250} className={classes.slider}   tooltipVisible value={eventSize} 
               onChange={handleSliderChange} defaultValue={DefaultEventSize} />
             </div>
             <img src={people} width={50} />
