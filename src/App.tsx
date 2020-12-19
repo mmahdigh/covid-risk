@@ -20,6 +20,10 @@ const useStyles = createUseStyles({
     justifyContent: 'space-evenly',
     minHeight: "calc(100vh - 300px)",
   },
+  resultAndChart: {
+    display: 'flex',
+    justifyContent: 'space-around',
+  },
   inputCard: {
     display: "flex",
     flexDirection: "column",
@@ -29,7 +33,7 @@ const useStyles = createUseStyles({
     /* margin: auto; */
     justifyContent: 'space-between',
     backgroundColor: "rgb(250, 250, 250)",
-    height: 400,
+    height: 500,
   },
   title: {
     marginTop: 25, 
@@ -57,8 +61,7 @@ const useStyles = createUseStyles({
   resultContainer: {
     display: 'flex',
     padding: "20px 0",
-      justifyContent: 'space-evenly',
-    borderBottom: "2px solid #eee",
+    justifyContent: 'space-evenly',
     width: '100%'
   },
   table: {
@@ -100,6 +103,10 @@ const useStyles = createUseStyles({
     title: {
       fontSize: 24,
       margin: 'auto',
+    },
+    resultAndChart: {
+      flexDirection: 'column',
+      alignItems: 'center',
     },
     resultContainer: {
       flexDirection: 'column',
@@ -183,44 +190,19 @@ function App() {
         {result !== undefined &&
         <>
           <div style={{display: 'flex', fontSize: 30, color: "#0e6449",fontWeight: 650, padding: "12px 25px"}}>
-            <p style={{marginBottom: 0}}> Odds: </p>
+            <p style={{marginBottom: 0}}> {`Risk of ${eventSize} people gathering in ${location}:`} </p>
           </div>
-          <div className={classes.resultContainer}>
-            <div style={{color: `rgb(${Math.min(256, Number(result) * 5)}, 0, 0)`}} className="result">
-              <p id="result"> {`${result[result.length - 1].risk.toFixed(2)}%`} </p>
+          <div className={classes.resultAndChart}>
+            <div className={classes.resultContainer}>
+              <div style={{color: `rgb(${Math.min(256, Number(result[result.length - 1]) * 5)}, 0, 0)`}} className="result">
+                <p id="result"> {`${(result[result.length - 1].risk * 100).toFixed(2)}%`} </p>
+              </div>
             </div>
-            {/* <table className={classes.table}>
-            <thead>
-              <tr>
-                <th colSpan={2}>
-                  {`${location[0]} (as of ${getLastUpdateDate(location[0])})`} 
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td> Last Week Average Deaths Per 1M </td>
-                <td> {getLastWeekDeaths(location[0])} </td>
-              </tr>
-              <tr>
-                <td> All Time Deaths Per 1M </td>
-                <td> {getAllDeaths(location[0])} </td>
-              </tr>
-            </tbody>
-            </table> */}
+            <RiskChart risks={result.map((item) => ({risk: Math.floor(item.risk * 100), time: timeStampToDate(item.time)}))} />
           </div>
-          <RiskChart risks={result.map((item) => ({risk: item.risk * 100, time: timeStampToDate(item.time)}))} />
-          <div style={{display: 'flex', justifyContent: 'space-evenly', 
-          alignItems: 'center' , width: "100%", fontSize: 14, color: "#fff",
-          fontWeight: 500, padding: 25, backgroundColor: "#222"}}>
-            <div>
-              <p> It's close to the odds that  </p>
-              {/* <p> {getTrivia(Number(result))} </p> */}
-            </div>
-            <button onClick={startOver} className="startOver">
-              Start Over!
-            </button>
-          </div>
+          <button onClick={startOver} className="startOver">
+            Start Over!
+          </button>
         </>
         }
         {result === undefined && <> <div className={classes.rowContainer}>
