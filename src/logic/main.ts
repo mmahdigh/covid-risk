@@ -36,7 +36,10 @@ const calculateIFR = (medianAge: number) => {
 
 export const contractionChanceRegion = (region: string, eventSize: number) => {
   if (!(region in RegionCovidData)) throw Error("invalid Region");
-  const data = RegionCovidData[region]
-  return contractionChance(eventSize, data.lastWeekAverageDeathPerMillionEachDay,
-  data.allDeathPerMillion, data.medianAge )
+  const regionData = RegionCovidData[region]
+  const results = regionData.dataPoints.map((data) => {
+    return {risk: contractionChance(eventSize, data.lastWeekAverageDeathPerMillionEachDay,
+    data.allDeathPerMillion, regionData.medianAge), time: data.updatedAt}
+  })
+  return results;
 }

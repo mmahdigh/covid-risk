@@ -10,6 +10,7 @@ import { RefSelectProps } from "antd/lib/select";
 import { contractionChanceRegion } from "./logic/main";
 import { trivia, TriviaPercentage,  } from './logic/trivia';
 import { createUseStyles } from "react-jss";
+import { RiskChart, timeStampToDate } from "./RiskChart";
 
 const { Option } = Select;
 
@@ -41,15 +42,15 @@ const useStyles = createUseStyles({
     marginTop: 50,
     paddingBottom: 25,
     borderBottom: "1px solid #ddd",
-    ['& > div']: {
+    '& > div': {
       display: "flex",
       alignItems: "center",
     },
-    ['& p']: {
+    '& p': {
       margin: "auto 0",
       fontSize: 18,
     },
-    ['& img']: {
+    '& img': {
       borderRadius: "80%",
     },
   },
@@ -64,16 +65,16 @@ const useStyles = createUseStyles({
     width: 300,
     fontSize: 14,
     border: "1px solid #000",
-    ['&:nth-child(even)']: {backgroundColor: "#f2f2f2"},
-    ['& td:hover']: {backgroundColor: "#ddd"},
-    ['& th']: {
+    '&:nth-child(even)': {backgroundColor: "#f2f2f2"},
+    '& td:hover': {backgroundColor: "#ddd"},
+    '& th': {
       paddingTop: 12,
       paddingBottom: 12,
       textAlign: "center",
       backgroundColor: "#76cdb2",
       color: "#000",
     },
-    ['& td']: {
+    '& td': {
       padding: "12px 0",
     },
   },
@@ -113,32 +114,32 @@ const useStyles = createUseStyles({
   },
 })
 
-const getTrivia = (result: number) => {
-  if (result < 5 && result > 1) return trivia['1'][0]
-  else return trivia[`${Math.min(50, (Math.floor(result / 5) + 1) * 5)}` as TriviaPercentage][0]
-}
+// const getTrivia = (result: number) => {
+//   if (result < 5 && result > 1) return trivia['1'][0]
+//   else return trivia[`${Math.min(50, (Math.floor(result / 5) + 1) * 5)}` as TriviaPercentage][0]
+// }
 
-const getLastWeekDeaths = (location: string) => {
-  return RegionCovidData[location].lastWeekAverageDeathPerMillionEachDay
-}
+// const getLastWeekDeaths = (location: string) => {
+//   return RegionCovidData[location].lastWeekAverageDeathPerMillionEachDay
+// }
 
-const getAllDeaths = (location: string) => {
-  return RegionCovidData[location].allDeathPerMillion
-}
+// const getAllDeaths = (location: string) => {
+//   return RegionCovidData[location].allDeathPerMillion
+// }
 
-const getLastUpdateDate = (location: string) => {
-  const timeStamp = RegionCovidData[location].updatedAt;
-  console.log(Date.now() - timeStamp)
-  console.log(timeStamp)
-  const dt = new Date(timeStamp);
-  return dt.toLocaleString().split(',')[0]
-}
+// const getLastUpdateDate = (location: string) => {
+//   const timeStamp = RegionCovidData[location].updatedAt;
+//   console.log(Date.now() - timeStamp)
+//   console.log(timeStamp)
+//   const dt = new Date(timeStamp);
+//   return dt.toLocaleString().split(',')[0]
+// }
 
 const DefaultEventSize = 5;
 function App() {
   const [location, setLocation] = useState<string[]>([]);
   const [eventSize, setEventSize] = useState(DefaultEventSize)
-  const [result, setResult] = useState<string>();
+  const [result, setResult] = useState<ReturnType<typeof contractionChanceRegion>>();
 
   const selectRef = useRef<RefSelectProps | null>();
 
@@ -156,7 +157,7 @@ function App() {
   const handleSliderChange = (size: number) => setEventSize(size);
 
   const handleButtonSubmit = () => {
-    setResult((contractionChanceRegion(location[0], eventSize) * 100).toFixed(2))
+    setResult(contractionChanceRegion(location[0], eventSize))
   }
 
   const startOver = () => {
@@ -186,9 +187,9 @@ function App() {
           </div>
           <div className={classes.resultContainer}>
             <div style={{color: `rgb(${Math.min(256, Number(result) * 5)}, 0, 0)`}} className="result">
-              <p id="result"> {`${result}%`} </p>
+              <p id="result"> {`${result[result.length - 1].risk.toFixed(2)}%`} </p>
             </div>
-            <table className={classes.table}>
+            {/* <table className={classes.table}>
             <thead>
               <tr>
                 <th colSpan={2}>
@@ -206,14 +207,15 @@ function App() {
                 <td> {getAllDeaths(location[0])} </td>
               </tr>
             </tbody>
-            </table>
+            </table> */}
           </div>
+          <RiskChart risks={result.map((item) => ({risk: item.risk * 100, time: timeStampToDate(item.time)}))} />
           <div style={{display: 'flex', justifyContent: 'space-evenly', 
           alignItems: 'center' , width: "100%", fontSize: 14, color: "#fff",
           fontWeight: 500, padding: 25, backgroundColor: "#222"}}>
             <div>
               <p> It's close to the odds that  </p>
-              <p> {getTrivia(Number(result))} </p>
+              {/* <p> {getTrivia(Number(result))} </p> */}
             </div>
             <button onClick={startOver} className="startOver">
               Start Over!
