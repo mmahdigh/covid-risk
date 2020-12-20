@@ -43,9 +43,6 @@ export interface CovidData {
 
 export interface RegionData {
   medianAge: number;
-  // updatedAt?: number;
-  // lastWeekAverageDeathPerMillionEachDay?: number;
-  // allDeathPerMillion?: number;
   dataPoints: {
     updatedAt: number;
     lastWeekAverageDeathPerMillionEachDay: number;
@@ -59,6 +56,27 @@ export const getProvinceData = (province: keyof typeof RegionCovidData) =>
   RegionCovidData[province];
 
 export const RegionCovidData: CovidData = {
+  Tehran: {
+    medianAge: 32,
+    flag: iran,
+    dataPoints: [
+      {
+        allDeathPerMillion: 1205,
+        lastWeekAverageDeathPerMillionEachDay: 12.05,
+        updatedAt: 1606078905916,
+      },
+      {
+        allDeathPerMillion: 1507,
+        lastWeekAverageDeathPerMillionEachDay: 7.53,
+        updatedAt: 1607078905916,
+      },
+      {
+        allDeathPerMillion: 1680,
+        lastWeekAverageDeathPerMillionEachDay: 4.596,
+        updatedAt: 1608078905916,
+      },
+    ],
+  },
   Iran: {
     medianAge: 32,
     flag: iran,
@@ -68,6 +86,16 @@ export const RegionCovidData: CovidData = {
         allDeathPerMillion: 531,
         lastWeekAverageDeathPerMillionEachDay: 5.65,
         updatedAt: 1606078905916,
+      },
+      {
+        allDeathPerMillion: 607,
+        lastWeekAverageDeathPerMillionEachDay: 4.55,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 651,
+        lastWeekAverageDeathPerMillionEachDay: 2.70,
+        updatedAt: 1608310859000,
       },
     ],
   },
@@ -79,6 +107,16 @@ export const RegionCovidData: CovidData = {
         allDeathPerMillion: 825,
         lastWeekAverageDeathPerMillionEachDay: 10.85,
         updatedAt: 1606125820016,
+      },
+      {
+        allDeathPerMillion: 975,
+        lastWeekAverageDeathPerMillionEachDay: 12.24,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 1125,
+        lastWeekAverageDeathPerMillionEachDay: 10.67,
+        updatedAt: 1608310859000,
       },
     ],
   },
@@ -110,8 +148,18 @@ export const RegionCovidData: CovidData = {
     dataPoints: [
       {
         allDeathPerMillion: 97,
-        lastWeekAverageDeathPerMillionEachDay: 0.378,
+        lastWeekAverageDeathPerMillionEachDay: 0.38,
         updatedAt: 1606125820016,
+      },
+      {
+        allDeathPerMillion: 103,
+        lastWeekAverageDeathPerMillionEachDay: 0.37,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 107,
+        lastWeekAverageDeathPerMillionEachDay: 0.27,
+        updatedAt: 1608310859000,
       },
     ],
   },
@@ -124,6 +172,16 @@ export const RegionCovidData: CovidData = {
         lastWeekAverageDeathPerMillionEachDay: 2.92,
         updatedAt: 1606125820016,
       },
+      {
+        allDeathPerMillion: 292,
+        lastWeekAverageDeathPerMillionEachDay: 3.57,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 344,
+        lastWeekAverageDeathPerMillionEachDay: 3.83,
+        updatedAt: 1608310859000,
+      },
     ],
   },
   United_Kingdom: {
@@ -134,6 +192,16 @@ export const RegionCovidData: CovidData = {
         allDeathPerMillion: 809,
         lastWeekAverageDeathPerMillionEachDay: 6.49,
         updatedAt: 1606125820016,
+      },
+      {
+        allDeathPerMillion: 909,
+        lastWeekAverageDeathPerMillionEachDay: 6.57,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 998,
+        lastWeekAverageDeathPerMillionEachDay: 6.50,
+        updatedAt: 1608310859000,
       },
     ],
   },
@@ -146,6 +214,16 @@ export const RegionCovidData: CovidData = {
         lastWeekAverageDeathPerMillionEachDay: 12.34,
         updatedAt: 1606125820016,
       },
+      {
+        allDeathPerMillion: 510,
+        lastWeekAverageDeathPerMillionEachDay: 12.09,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 652,
+        lastWeekAverageDeathPerMillionEachDay: 9.77,
+        updatedAt: 1608310859000,
+      },
     ],
   },
   France: {
@@ -156,6 +234,16 @@ export const RegionCovidData: CovidData = {
         allDeathPerMillion: 746,
         lastWeekAverageDeathPerMillionEachDay: 8.28,
         updatedAt: 1606125820016,
+      },
+      {
+        allDeathPerMillion: 817,
+        lastWeekAverageDeathPerMillionEachDay: 6.07,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 899,
+        lastWeekAverageDeathPerMillionEachDay: 5.69,
+        updatedAt: 1608310859000,
       },
     ],
   },
@@ -179,6 +267,16 @@ export const RegionCovidData: CovidData = {
         lastWeekAverageDeathPerMillionEachDay: 2.26,
         updatedAt: 1606125820016,
       },
+      {
+        allDeathPerMillion: 840,
+        lastWeekAverageDeathPerMillionEachDay: 2.72,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 886,
+        lastWeekAverageDeathPerMillionEachDay: 3.57,
+        updatedAt: 1608310859000,
+      },
     ],
   },
   Belgium: {
@@ -200,6 +298,16 @@ export const RegionCovidData: CovidData = {
         allDeathPerMillion: 146,
         lastWeekAverageDeathPerMillionEachDay: 1.42,
         updatedAt: 1606125820016,
+      },
+      {
+        allDeathPerMillion: 177,
+        lastWeekAverageDeathPerMillionEachDay: 2.29,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 215,
+        lastWeekAverageDeathPerMillionEachDay: 2.84,
+        updatedAt: 1608310859000,
       },
     ],
   },
@@ -256,6 +364,16 @@ export const RegionCovidData: CovidData = {
         lastWeekAverageDeathPerMillionEachDay: 2.81,
         updatedAt: 1606125820016,
       },
+      {
+        allDeathPerMillion: 225,
+        lastWeekAverageDeathPerMillionEachDay: 4.32,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 313,
+        lastWeekAverageDeathPerMillionEachDay: 7.20,
+        updatedAt: 1608310859000,
+      },
     ],
   },
   Greece: {
@@ -293,7 +411,7 @@ export const RegionCovidData: CovidData = {
   },
   Portugal: {
     medianAge: 46.2,
-    flag: "/static/media/portugal.d6d5e4d9.svg",
+    flag: portugal,
     dataPoints: [
       {
         allDeathPerMillion: 383,
@@ -304,7 +422,7 @@ export const RegionCovidData: CovidData = {
   },
   Tunisia: {
     medianAge: 31.3,
-    flag: "/static/media/tunisia.440186df.svg",
+    flag: tunisia,
     dataPoints: [
       {
         allDeathPerMillion: 238,
@@ -315,7 +433,7 @@ export const RegionCovidData: CovidData = {
   },
   Jordan: {
     medianAge: 23.8,
-    flag: "/static/media/jordan.b5170393.svg",
+    flag: jordan,
     dataPoints: [
       {
         allDeathPerMillion: 218,
@@ -326,7 +444,7 @@ export const RegionCovidData: CovidData = {
   },
   Ecuador: {
     medianAge: 27.9,
-    flag: "/static/media/ecuador.2261b01d.svg",
+    flag: ecuador,
     dataPoints: [
       {
         allDeathPerMillion: 744,
@@ -337,7 +455,7 @@ export const RegionCovidData: CovidData = {
   },
   Morocco: {
     medianAge: 29.5,
-    flag: "/static/media/morocco.00cecef8.svg",
+    flag: morocco,
     dataPoints: [
       {
         allDeathPerMillion: 143,
@@ -348,7 +466,7 @@ export const RegionCovidData: CovidData = {
   },
   Austria: {
     medianAge: 43.2,
-    flag: "/static/media/austria.fef04a56.svg",
+    flag: austria,
     dataPoints: [
       {
         allDeathPerMillion: 265,
@@ -359,7 +477,7 @@ export const RegionCovidData: CovidData = {
   },
   Bulgaria: {
     medianAge: 43.4,
-    flag: "/static/media/bulgaria.0f0e045b.svg",
+    flag: bulgaria,
     dataPoints: [
       {
         allDeathPerMillion: 416,
@@ -370,7 +488,7 @@ export const RegionCovidData: CovidData = {
   },
   Pakistan: {
     medianAge: 22.8,
-    flag: "/static/media/pakistan.08a6412e.svg",
+    flag: pakistan,
     dataPoints: [
       {
         allDeathPerMillion: 34,
@@ -381,7 +499,7 @@ export const RegionCovidData: CovidData = {
   },
   SouthAfrica: {
     medianAge: 27.6,
-    flag: "/static/media/south-africa.0c1b162d.svg",
+    flag: south_africa,
     dataPoints: [
       {
         allDeathPerMillion: 351,
@@ -392,18 +510,28 @@ export const RegionCovidData: CovidData = {
   },
   Canada: {
     medianAge: 40.9,
-    flag: "/static/media/canada.518fb22b.svg",
+    flag: canada,
     dataPoints: [
       {
         allDeathPerMillion: 302,
         lastWeekAverageDeathPerMillionEachDay: 1.87,
         updatedAt: 1606125820016,
       },
+      {
+        allDeathPerMillion: 332,
+        lastWeekAverageDeathPerMillionEachDay: 2.29,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 373,
+        lastWeekAverageDeathPerMillionEachDay: 2.98,
+        updatedAt: 1608310859000,
+      },
     ],
   },
   Netherlands: {
     medianAge: 42.1,
-    flag: "/static/media/netherlands.3176ecb2.svg",
+    flag: netherlands,
     dataPoints: [
       {
         allDeathPerMillion: 518,
@@ -414,7 +542,7 @@ export const RegionCovidData: CovidData = {
   },
   Japan: {
     medianAge: 48.4,
-    flag: "/static/media/japan.180bed75.svg",
+    flag: japan,
     dataPoints: [
       {
         allDeathPerMillion: 16,
@@ -425,7 +553,7 @@ export const RegionCovidData: CovidData = {
   },
   China: {
     medianAge: 38.4,
-    flag: "/static/media/china.53f67580.svg",
+    flag: china,
     dataPoints: [
       {
         allDeathPerMillion: 3,
@@ -436,7 +564,7 @@ export const RegionCovidData: CovidData = {
   },
   Australia: {
     medianAge: 37,
-    flag: "/static/media/australia.842ef757.svg",
+    flag: australia,
     dataPoints: [
       {
         allDeathPerMillion: 35,
@@ -447,7 +575,7 @@ export const RegionCovidData: CovidData = {
   },
   Nigeria: {
     medianAge: 17.9,
-    flag: "/static/media/nigeria.1a7694c9.svg",
+    flag: nigeria,
     dataPoints: [
       {
         allDeathPerMillion: 6,
@@ -458,18 +586,28 @@ export const RegionCovidData: CovidData = {
   },
   United_States: {
     medianAge: 38.2,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 809,
         lastWeekAverageDeathPerMillionEachDay: 5.2,
-        updatedAt: 1606385157,
+        updatedAt: 1606385157000,
+      },
+      {
+        allDeathPerMillion: 870,
+        lastWeekAverageDeathPerMillionEachDay: 6.30,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 978,
+        lastWeekAverageDeathPerMillionEachDay: 7.87,
+        updatedAt: 1608310859000,
       },
     ],
   },
   South_Korea: {
     medianAge: 43.7,
-    flag: "/static/media/skorea.5812a59c.svg",
+    flag: skorea,
     dataPoints: [
       {
         allDeathPerMillion: 10,
@@ -480,40 +618,70 @@ export const RegionCovidData: CovidData = {
   },
   Illinois: {
     medianAge: 38.3,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 943,
         lastWeekAverageDeathPerMillionEachDay: 9.841,
         updatedAt: 1606078905916,
       },
+      {
+        allDeathPerMillion: 1088,
+        lastWeekAverageDeathPerMillionEachDay: 12.31,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 1279,
+        lastWeekAverageDeathPerMillionEachDay: 12.79,
+        updatedAt: 1608310859000,
+      },
     ],
   },
   Texas: {
     medianAge: 34.8,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 727,
         lastWeekAverageDeathPerMillionEachDay: 5.03,
         updatedAt: 1606078905916,
       },
+      {
+        allDeathPerMillion: 792,
+        lastWeekAverageDeathPerMillionEachDay: 5.62,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 885,
+        lastWeekAverageDeathPerMillionEachDay: 6.79,
+        updatedAt: 1608310859000,
+      },
     ],
   },
   Pennsylvania: {
     medianAge: 40.8,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 772,
         lastWeekAverageDeathPerMillionEachDay: 5.7,
         updatedAt: 1606078905916,
       },
+      {
+        allDeathPerMillion: 877,
+        lastWeekAverageDeathPerMillionEachDay: 10.08,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 1071,
+        lastWeekAverageDeathPerMillionEachDay: 15.39,
+        updatedAt: 1608310859000,
+      },
     ],
   },
   Michigan: {
     medianAge: 39.8,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 889,
@@ -524,18 +692,28 @@ export const RegionCovidData: CovidData = {
   },
   Florida: {
     medianAge: 42.2,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 836,
         lastWeekAverageDeathPerMillionEachDay: 3.3,
         updatedAt: 1606078905916,
       },
+      {
+        allDeathPerMillion: 884,
+        lastWeekAverageDeathPerMillionEachDay: 4.19,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 950,
+        lastWeekAverageDeathPerMillionEachDay: 4.66,
+        updatedAt: 1608310859000,
+      },
     ],
   },
   Minnesota: {
     medianAge: 38.1,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 578,
@@ -546,7 +724,7 @@ export const RegionCovidData: CovidData = {
   },
   Wisconsin: {
     medianAge: 39.6,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 516,
@@ -557,7 +735,7 @@ export const RegionCovidData: CovidData = {
   },
   South_Carolina: {
     medianAge: 39.6,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 830,
@@ -568,7 +746,7 @@ export const RegionCovidData: CovidData = {
   },
   Missouri: {
     medianAge: 38.7,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 617,
@@ -579,7 +757,7 @@ export const RegionCovidData: CovidData = {
   },
   Colorado: {
     medianAge: 36.9,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 484,
@@ -590,7 +768,7 @@ export const RegionCovidData: CovidData = {
   },
   Indiana: {
     medianAge: 37.9,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 779,
@@ -601,7 +779,7 @@ export const RegionCovidData: CovidData = {
   },
   Georgia: {
     medianAge: 36.9,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 865,
@@ -612,18 +790,28 @@ export const RegionCovidData: CovidData = {
   },
   South_Dakota: {
     medianAge: 37.1,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 878,
         lastWeekAverageDeathPerMillionEachDay: 25,
         updatedAt: 1606078905916,
       },
+      {
+        allDeathPerMillion: 1067,
+        lastWeekAverageDeathPerMillionEachDay: 29.38,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 1502,
+        lastWeekAverageDeathPerMillionEachDay: 19.21,
+        updatedAt: 1608310859000,
+      },
     ],
   },
   Montana: {
     medianAge: 39.9,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 561,
@@ -634,18 +822,28 @@ export const RegionCovidData: CovidData = {
   },
   California: {
     medianAge: 36.8,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 473,
         lastWeekAverageDeathPerMillionEachDay: 1.54,
         updatedAt: 1606078905916,
       },
+      {
+        allDeathPerMillion: 501,
+        lastWeekAverageDeathPerMillionEachDay: 2.51,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 568,
+        lastWeekAverageDeathPerMillionEachDay: 5.75,
+        updatedAt: 1608310859000,
+      },
     ],
   },
   New_Jersey: {
     medianAge: 40,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 1900,
@@ -656,18 +854,28 @@ export const RegionCovidData: CovidData = {
   },
   Arizona: {
     medianAge: 37.9,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 887,
         lastWeekAverageDeathPerMillionEachDay: 3.02,
         updatedAt: 1606078905916,
+      },   
+      {
+        allDeathPerMillion: 946,
+        lastWeekAverageDeathPerMillionEachDay: 5.77,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 1074,
+        lastWeekAverageDeathPerMillionEachDay: 11.27,
+        updatedAt: 1608310859000,
       },
     ],
   },
   Nevada: {
     medianAge: 38.1,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 653,
@@ -678,29 +886,49 @@ export const RegionCovidData: CovidData = {
   },
   Ohio: {
     medianAge: 39.4,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 512,
         lastWeekAverageDeathPerMillionEachDay: 3.33,
         updatedAt: 1606078905916,
       },
+      {
+        allDeathPerMillion: 589,
+        lastWeekAverageDeathPerMillionEachDay: 6.59,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 682,
+        lastWeekAverageDeathPerMillionEachDay: 6.59,
+        updatedAt: 1608310859000,
+      },
     ],
   },
   New_York: {
     medianAge: 39,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 1759,
         lastWeekAverageDeathPerMillionEachDay: 1.74,
         updatedAt: 1606078905916,
       },
+      {
+        allDeathPerMillion: 1794,
+        lastWeekAverageDeathPerMillionEachDay: 3.29,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 1862,
+        lastWeekAverageDeathPerMillionEachDay: 5.86,
+        updatedAt: 1608310859000,
+      },
     ],
   },
   North_Carolina: {
     medianAge: 38.9,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 477,
@@ -711,7 +939,7 @@ export const RegionCovidData: CovidData = {
   },
   Virginia: {
     medianAge: 38.4,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 461,
@@ -722,7 +950,7 @@ export const RegionCovidData: CovidData = {
   },
   Iowa: {
     medianAge: 38.2,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 685,
@@ -733,7 +961,7 @@ export const RegionCovidData: CovidData = {
   },
   New_Mexico: {
     medianAge: 38.1,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 644,
@@ -744,7 +972,7 @@ export const RegionCovidData: CovidData = {
   },
   Oklahoma: {
     medianAge: 36.7,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 410,
@@ -755,7 +983,7 @@ export const RegionCovidData: CovidData = {
   },
   Kentucky: {
     medianAge: 38.9,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 399,
@@ -766,7 +994,7 @@ export const RegionCovidData: CovidData = {
   },
   Massachusetts: {
     medianAge: 39.4,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 1522,
@@ -777,7 +1005,7 @@ export const RegionCovidData: CovidData = {
   },
   West_Virginia: {
     medianAge: 42.7,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 367,
@@ -788,7 +1016,7 @@ export const RegionCovidData: CovidData = {
   },
   Maryland: {
     medianAge: 38.8,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 730,
@@ -799,18 +1027,28 @@ export const RegionCovidData: CovidData = {
   },
   North_Dakota: {
     medianAge: 35.2,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 1094,
         lastWeekAverageDeathPerMillionEachDay: 20.99,
         updatedAt: 1606078905916,
       },
+      {
+        allDeathPerMillion: 1298,
+        lastWeekAverageDeathPerMillionEachDay: 17.06,
+        updatedAt: 1607101259000,
+      },
+      {
+        allDeathPerMillion: 1608,
+        lastWeekAverageDeathPerMillionEachDay: 17.06,
+        updatedAt: 1608310859000,
+      },
     ],
   },
   Arkansas: {
     medianAge: 38.3,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 774,
@@ -821,7 +1059,7 @@ export const RegionCovidData: CovidData = {
   },
   Mississippi: {
     medianAge: 37.7,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 1229,
@@ -832,7 +1070,7 @@ export const RegionCovidData: CovidData = {
   },
   Utah: {
     medianAge: 31,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 245,
@@ -843,7 +1081,7 @@ export const RegionCovidData: CovidData = {
   },
   Tennessee: {
     medianAge: 38.8,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 617,
@@ -854,7 +1092,7 @@ export const RegionCovidData: CovidData = {
   },
   Oregon: {
     medianAge: 39.4,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 194,
@@ -865,7 +1103,7 @@ export const RegionCovidData: CovidData = {
   },
   Hawaii: {
     medianAge: 39.2,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 163,
@@ -876,7 +1114,7 @@ export const RegionCovidData: CovidData = {
   },
   Alabama: {
     medianAge: 39.2,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 705,
@@ -887,7 +1125,7 @@ export const RegionCovidData: CovidData = {
   },
   Idaho: {
     medianAge: 36.6,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 474,
@@ -898,7 +1136,7 @@ export const RegionCovidData: CovidData = {
   },
   District_Of_Columbia: {
     medianAge: 34,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 949,
@@ -909,7 +1147,7 @@ export const RegionCovidData: CovidData = {
   },
   New_Hempshire: {
     medianAge: 43,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 374,
@@ -920,7 +1158,7 @@ export const RegionCovidData: CovidData = {
   },
   Alaska: {
     medianAge: 34.6,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 138,
@@ -931,7 +1169,7 @@ export const RegionCovidData: CovidData = {
   },
   Maine: {
     medianAge: 44.9,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 129,
@@ -942,7 +1180,7 @@ export const RegionCovidData: CovidData = {
   },
   Vermont: {
     medianAge: 42.8,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 101,
@@ -953,7 +1191,7 @@ export const RegionCovidData: CovidData = {
   },
   Connecticut: {
     medianAge: 41,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 1354,
@@ -964,7 +1202,7 @@ export const RegionCovidData: CovidData = {
   },
   Louisiana: {
     medianAge: 37.2,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 1341,
@@ -975,7 +1213,7 @@ export const RegionCovidData: CovidData = {
   },
   Rhode_Island: {
     medianAge: 40.1,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 1221,
@@ -986,7 +1224,7 @@ export const RegionCovidData: CovidData = {
   },
   Delaware: {
     medianAge: 40.7,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 766,
@@ -997,7 +1235,7 @@ export const RegionCovidData: CovidData = {
   },
   Kansas: {
     medianAge: 36.9,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 484,
@@ -1008,7 +1246,7 @@ export const RegionCovidData: CovidData = {
   },
   Nebraska: {
     medianAge: 36.6,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 464,
@@ -1019,7 +1257,7 @@ export const RegionCovidData: CovidData = {
   },
   Washington: {
     medianAge: 37.7,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 346,
@@ -1030,7 +1268,7 @@ export const RegionCovidData: CovidData = {
   },
   Wyoming: {
     medianAge: 38,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: usa,
     dataPoints: [
       {
         allDeathPerMillion: 304,
@@ -1041,7 +1279,7 @@ export const RegionCovidData: CovidData = {
   },
   London: {
     medianAge: 35.3,
-    flag: "/static/media/united-kingdom.dbb2d233.svg",
+    flag: united_kingdom,
     dataPoints: [
       {
         allDeathPerMillion: 1076,
@@ -1052,7 +1290,7 @@ export const RegionCovidData: CovidData = {
   },
   King_County: {
     medianAge: 37.1,
-    flag: "/static/media/usa.cbfe8d83.svg",
+    flag: united_kingdom,
     dataPoints: [
       {
         allDeathPerMillion: 392,
@@ -1062,28 +1300,3 @@ export const RegionCovidData: CovidData = {
     ],
   },
 };
-
-// const convert = () => {
-//   let obj = {};
-//   Object.keys(RegionCovidData).map((key) => {
-//     const item = RegionCovidData[key];
-//     const { medianAge, flag, speculation } = item;
-//     const convertedItem: RegionData2 = {
-//       medianAge,
-//       flag,
-//       speculation,
-//       dataPoints: [
-//         {
-//           allDeathPerMillion: item.allDeathPerMillion,
-//           lastWeekAverageDeathPerMillionEachDay:
-//             item.lastWeekAverageDeathPerMillionEachDay,
-//           updatedAt: item.updatedAt,
-//         },
-//       ],
-//     };
-//     obj = { ...obj, [key]: convertedItem };
-//   });
-//   return obj;
-// };
-
-// console.log(JSON.stringify(convert()));
