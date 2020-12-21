@@ -40,33 +40,50 @@ export const updateData = async (time: string, weekAgo: string) => {
   const results1 = await readData("./src/logic/data/covid-JHU-data/" + time + ".csv")
   const results2 = await readData("./src/logic/data/covid-JHU-data/" + weekAgo + ".csv")
 
-    // average deaths last week
-
   let final : {[province: string]: DataPoint} = {};
 
   results1.forEach((item, index) => {
     const itemLastWeek = results2[index]
-    const adlw = (Number(item.Deaths) -
+    const averageDeathLastWeek = (!item.Deaths || Number(item.Deaths) === 0) ? 0 :(Number(item.Deaths) -
      Number(itemLastWeek.Deaths)) / 7
-    final = {...final, [item.Province_State || item.Country_Region] : {
-      lastWeekAverageDeathPerMillionEachDay: adlw / calcPopulationInMillion(Number(item.Confirmed),
-      Number(item.Incident_Rate)),
+
+    const population = calcPopulationInMillion(Number(item.Confirmed),
+    Number(item.Incident_Rate));
+    
+    const keyName = item.Admin2 ? `${item.Country_Region} - ${item.Province_State} - ${item.Admin2}` 
+    : item.Province_State ? `${item.Country_Region} - ${item.Province_State}` : item.Country_Region
+
+    if (item.Deaths === '0' || item.Confirmed === '0') return;
+
+    if (keyName.includes('unknown') || keyName.includes('Unassigned')) return;
+
+    final = {...final, [keyName] : {
+      allDeathPerMillion: Number(item.Deaths) / population,
+      lastWeekAverageDeathPerMillionEachDay: averageDeathLastWeek / population,
       updatedAt: item.Last_Update,
-      allDeathPerMillion: Number(item.Deaths) / calcPopulationInMillion(Number(item.Confirmed),
-      Number(item.Incident_Rate))
     }}
   })
 
   let newData : CovidData = {}
   
-  Object.keys(RegionCovidData).map((key) => {
-    const regioData = RegionCovidData[key];
-    const newObj : RegionData = {...regioData, dataPoints: [...regioData.dataPoints, final[key]]}
-    newData = {...newData, newObj};
+  Object.keys(RegionCovidData).forEach((key) => {
+    const regionData = RegionCovidData[key];
+    let newObj : RegionData;
+    if (final[key])
+      newObj = {...regionData, dataPoints: [...regionData.dataPoints, final[key]]}
+    else newObj = regionData
+    newData = {...newData, [key]: newObj};
   })
-  console.log(JSON.stringify({...RegionCovidData, ...newData}));
+  let newFinal : CovidData = {}
 
-  // console.log(adlw);
+  Object.keys(final).forEach((key) => {
+    if (newData[key]) return 
+    const newObj : RegionData = {medianAge: 35, dataPoints: [final[key]]}
+    newFinal = {...newFinal, [key]: newObj}
+  })
+
+  console.log(JSON.stringify({...newData, ...newFinal}));
+
 };
 
 updateData("12-20-2020", "12-13-2020");
