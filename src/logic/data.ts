@@ -1,3 +1,4 @@
+// @ts-nocheck
 import usa from "../icons/usa.svg";
 import iran from "../icons/iran.svg";
 import italy from "../icons/italy.svg";
@@ -41,13 +42,14 @@ export interface CovidData {
   [cityName: string]: RegionData;
 }
 
+export interface DataPoint {
+  updatedAt: string | number;
+  lastWeekAverageDeathPerMillionEachDay: number;
+  allDeathPerMillion: number;
+}
 export interface RegionData {
   medianAge: number;
-  dataPoints: {
-    updatedAt: number;
-    lastWeekAverageDeathPerMillionEachDay: number;
-    allDeathPerMillion: number;
-  }[];
+  dataPoints: DataPoint[];
   speculation?: boolean;
   flag?: string;
 }

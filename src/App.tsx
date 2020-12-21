@@ -11,6 +11,7 @@ import { contractionChanceRegion } from "./logic/main";
 import { trivia, TriviaPercentage,  } from './logic/trivia';
 import { createUseStyles } from "react-jss";
 import { RiskChart, timeStampToDate } from "./RiskChart";
+// import { getAllData } from "./logic/data/index";
 
 const { Option } = Select;
 
@@ -161,6 +162,10 @@ function App() {
     selectRef.current?.blur();
   };
 
+  // useEffect(() => {
+  //   getAllData()
+  // }, [])
+
   const handleSliderChange = (size: number) => setEventSize(size);
 
   const handleButtonSubmit = () => {
@@ -198,7 +203,7 @@ function App() {
                 <p id="result"> {`${(result[result.length - 1].risk * 100).toFixed(2)}%`} </p>
               </div>
             </div>
-            <RiskChart risks={result.map((item) => ({risk: parseFloat((item.risk * 100).toFixed(2)), time: timeStampToDate(item.time)}))} />
+            <RiskChart risks={result.map((item) => ({risk: parseFloat((item.risk * 100).toFixed(2)), time: timeStampToDate(item.time as number)}))} />
           </div>
           <button onClick={startOver} className="startOver">
             Start Over!
