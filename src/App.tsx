@@ -4,13 +4,14 @@ import locationIcon from "./icons/location.svg";
 import "./App.css";
 import "antd/dist/antd.css";
 import { Select, Slider } from "antd";
-import { RegionCovidData, RegionData } from "./logic/data";
+import { RegionData } from "./logic/data";
 import { calcRegionName } from "./utils/index";
 import { RefSelectProps } from "antd/lib/select";
 import { contractionChanceRegion } from "./logic/main";
-import { trivia, TriviaPercentage,  } from './logic/trivia';
+import { trivia, TriviaPercentage,  } from './logic/trivia'; 
 import { createUseStyles } from "react-jss";
 import { RiskChart, timeStampToDate } from "./RiskChart";
+import { RegionCovidData } from "./logic/regionData";
 // import { getAllData } from "./logic/data/index";
 
 const { Option } = Select;

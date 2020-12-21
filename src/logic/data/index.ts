@@ -1,11 +1,12 @@
 import csv from "csv-parser";
 import fs from "fs";
-import { CovidData, DataPoint, RegionCovidData, RegionData } from "../data";
+import { CovidData, DataPoint, RegionData } from "../data";
+import { RegionCovidData } from "../regionData";
 
 interface JHUData {
   FIPS: string;
   Admin2: string;
-  Province_State: string;
+  Province_State: string; 
   Country_Region: string;
   Last_Update: string;
   Lat: string;

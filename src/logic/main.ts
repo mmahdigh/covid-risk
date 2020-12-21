@@ -1,5 +1,6 @@
 import { AsymptomaticChance, CDCIfr, CovidIncubation, CovidInfectiousPeriod, USMedianAge } from "./constants";
-import { RegionCovidData, getProvinceData, CovidData, RegionData } from './data';
+import { getProvinceData, CovidData, RegionData } from './data';
+import { RegionCovidData } from "./regionData";
 
 const contractionChance = (size: number,
    deathPerMillionEachDay: number, allDeathPerMillion: number, medianAge: number) => {
