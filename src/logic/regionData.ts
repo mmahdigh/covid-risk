@@ -7672,7 +7672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Alameda": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 351.2175041538798,
@@ -7682,7 +7682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Amador": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 578.5872408935398,
@@ -7692,7 +7692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Butte": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 355.8621444800307,
@@ -7702,7 +7702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Calaveras": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 479.25062629343205,
@@ -7712,7 +7712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Colusa": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 371.2813848795657,
@@ -7722,7 +7722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Contra Costa": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 258.33834694666615,
@@ -7732,7 +7732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Del Norte": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 71.9114051488566,
@@ -7742,7 +7742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - El Dorado": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 41.484523679884674,
@@ -7752,7 +7752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Fresno": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 557.5011935730222,
@@ -7762,7 +7762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Glenn": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 422.63938294650075,
@@ -7772,7 +7772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Humboldt": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 110.6537423095649,
@@ -7782,7 +7782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Imperial": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 2174.2129514664907,
@@ -7792,7 +7792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Inyo": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 1053.2734630522757,
@@ -7802,7 +7802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Kern": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 534.3245182747871,
@@ -7812,7 +7812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Kings": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 673.4667189747616,
@@ -7822,7 +7822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Lake": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 326.1578604044358,
@@ -7832,7 +7832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Lassen": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 228.96019363490663,
@@ -7842,7 +7842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Los Angeles": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 884.0427739240156,
@@ -7852,7 +7852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Madera": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 705.5368754250701,
@@ -7862,7 +7862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Marin": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 525.449529799943,
@@ -7872,7 +7872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Mariposa": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 232.51758414230076,
@@ -7882,7 +7882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Mendocino": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 268.0319695505431,
@@ -7892,7 +7892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Merced": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 777.8738115816768,
@@ -7902,7 +7902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Mono": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 207.6986984214899,
@@ -7912,7 +7912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Monterey": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 407.7767871336057,
@@ -7922,7 +7922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Napa": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 174.2362643744918,
@@ -7932,7 +7932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Nevada": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 390.95784672447496,
@@ -7942,7 +7942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Orange": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 558.9332970577751,
@@ -7952,7 +7952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Placer": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 258.58021886430566,
@@ -7962,7 +7962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Plumas": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 53.17169139150316,
@@ -7972,7 +7972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Riverside": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 705.9168297210413,
@@ -7982,7 +7982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Sacramento": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 477.43061148488016,
@@ -7992,7 +7992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - San Benito": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 366.1953891224048,
@@ -8002,7 +8002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - San Bernardino": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 608.6918629319498,
@@ -8012,7 +8012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - San Diego": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 383.42524555691017,
@@ -8022,7 +8022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - San Francisco": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 199.6485731366039,
@@ -8032,7 +8032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - San Joaquin": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 736.0775072558087,
@@ -8042,7 +8042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - San Luis Obispo": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 208.39882590220802,
@@ -8052,7 +8052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - San Mateo": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 258.29242616163106,
@@ -8062,7 +8062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Santa Barbara": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 329.2280609810997,
@@ -8072,7 +8072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Santa Clara": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 302.4091060932064,
@@ -8082,7 +8082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Santa Cruz": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 256.2103560225905,
@@ -8092,7 +8092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Shasta": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 366.5037760995113,
@@ -8102,7 +8102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Siskiyou": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 183.74331059509862,
@@ -8112,7 +8112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Solano": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 207.75484035269176,
@@ -8122,7 +8122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Sonoma": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 351.9873122734335,
@@ -8132,7 +8132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Stanislaus": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 949.7693676678896,
@@ -8142,7 +8142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Sutter": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 443.4315413886626,
@@ -8152,7 +8152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Tehama": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 491.67230041177555,
@@ -8162,7 +8162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Trinity": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 162.80016280016278,
@@ -8172,7 +8172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Tulare": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 757.1938780982207,
@@ -8182,7 +8182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Tuolumne": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 348.7646389368185,
@@ -8192,7 +8192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Ventura": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 248.22518989227024,
@@ -8202,7 +8202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Yolo": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 471.65532879818596,
@@ -8212,7 +8212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - California - Yuba": {
-    medianAge: 35,
+    medianAge: 36.8,
     dataPoints: [
       {
         allDeathPerMillion: 190.67473432653682,
@@ -8222,7 +8222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Adams": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 902.5532400115186,
@@ -8232,7 +8232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Alamosa": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1293.6610608020699,
@@ -8242,7 +8242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Arapahoe": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 784.3555338948202,
@@ -8252,7 +8252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Bent": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1793.078716155639,
@@ -8262,7 +8262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Boulder": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 490.50264258298694,
@@ -8272,7 +8272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Broomfield": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 879.8694387284468,
@@ -8282,7 +8282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Chaffee": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1031.636863823934,
@@ -8292,7 +8292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Cheyenne": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1638.4489350081922,
@@ -8302,7 +8302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Clear Creek": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 206.1855670103093,
@@ -8312,7 +8312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Conejos": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 365.6307129798903,
@@ -8322,7 +8322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Costilla": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 514.5356315924878,
@@ -8332,7 +8332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Crowley": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1979.871308364956,
@@ -8342,7 +8342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Delta": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 641.8073294397022,
@@ -8352,7 +8352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Denver": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 888.3253966180382,
@@ -8362,7 +8362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Douglas": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 484.11807924728186,
@@ -8372,7 +8372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Eagle": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 217.67917717271027,
@@ -8382,7 +8382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - El Paso": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 671.8461749881664,
@@ -8392,7 +8392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Elbert": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 261.8878371805904,
@@ -8402,7 +8402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Fremont": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 292.64825769769436,
@@ -8412,7 +8412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Garfield": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 399.59374635786946,
@@ -8422,7 +8422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Gilpin": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 160.17940092904053,
@@ -8432,7 +8432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Grand": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 254.2265158256006,
@@ -8442,7 +8442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Gunnison": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 286.3360439812164,
@@ -8452,7 +8452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Huerfano": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2174.8586341887776,
@@ -8462,7 +8462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Jefferson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1010.497854622127,
@@ -8472,7 +8472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Kiowa": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1422.4751066856334,
@@ -8482,7 +8482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Kit Carson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1127.236860645343,
@@ -8492,7 +8492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - La Plata": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 391.31285462727453,
@@ -8502,7 +8502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Larimer": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 313.81427238518455,
@@ -8512,7 +8512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Las Animas": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 206.8109747690611,
@@ -8522,7 +8522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Lincoln": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 350.81564637782844,
@@ -8532,7 +8532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Logan": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2320.4962291936276,
@@ -8542,7 +8542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Mesa": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 771.6749886518384,
@@ -8552,7 +8552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Mineral": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1300.3901170351105,
@@ -8562,7 +8562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Moffat": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1355.1155612436949,
@@ -8572,7 +8572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Montezuma": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 572.8908070121835,
@@ -8582,7 +8582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Montrose": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 654.8482155386126,
@@ -8592,7 +8592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Morgan": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2373.7443236548784,
@@ -8602,7 +8602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Otero": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1477.1856877120035,
@@ -8612,7 +8612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Ouray": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 605.815831987076,
@@ -8622,7 +8622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Park": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 212.2578933404086,
@@ -8632,7 +8632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Phillips": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 937.8663540445488,
@@ -8642,7 +8642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Pitkin": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 168.8523667473406,
@@ -8652,7 +8652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Prowers": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1560.9595793624712,
@@ -8662,7 +8662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Pueblo": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1585.2847575167436,
@@ -8672,7 +8672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Rio Blanco": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 316.25553447185325,
@@ -8682,7 +8682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Rio Grande": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 443.7738528445904,
@@ -8692,7 +8692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Routt": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 702.0828457758015,
@@ -8702,7 +8702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Saguache": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 586.166471277843,
@@ -8712,7 +8712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Sedgwick": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 889.6797153024913,
@@ -8722,7 +8722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Summit": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 161.23311083164037,
@@ -8732,7 +8732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Teller": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 275.7208129825114,
@@ -8742,7 +8742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Washington": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2037.4898125509376,
@@ -8752,7 +8752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Weld": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 807.4158993133883,
@@ -8762,7 +8762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Colorado - Yuma": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 598.8621618924044,
@@ -8772,7 +8772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Connecticut - Fairfield": {
-    medianAge: 35,
+    medianAge: 41,
     dataPoints: [
       {
         allDeathPerMillion: 1725.7974922932754,
@@ -8782,7 +8782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Connecticut - Hartford": {
-    medianAge: 35,
+    medianAge: 41,
     dataPoints: [
       {
         allDeathPerMillion: 1943.435159018526,
@@ -8792,7 +8792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Connecticut - Litchfield": {
-    medianAge: 35,
+    medianAge: 41,
     dataPoints: [
       {
         allDeathPerMillion: 1136.7858350939648,
@@ -8802,7 +8802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Connecticut - Middlesex": {
-    medianAge: 35,
+    medianAge: 41,
     dataPoints: [
       {
         allDeathPerMillion: 1403.6297372503632,
@@ -8812,7 +8812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Connecticut - New Haven": {
-    medianAge: 35,
+    medianAge: 41,
     dataPoints: [
       {
         allDeathPerMillion: 1667.140485541505,
@@ -8822,7 +8822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Connecticut - New London": {
-    medianAge: 35,
+    medianAge: 41,
     dataPoints: [
       {
         allDeathPerMillion: 795.6079425050717,
@@ -8832,7 +8832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Connecticut - Tolland": {
-    medianAge: 35,
+    medianAge: 41,
     dataPoints: [
       {
         allDeathPerMillion: 663.477551237054,
@@ -8842,7 +8842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Connecticut - Windham": {
-    medianAge: 35,
+    medianAge: 41,
     dataPoints: [
       {
         allDeathPerMillion: 436.71113699028956,
@@ -8852,7 +8852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Delaware - Kent": {
-    medianAge: 35,
+    medianAge: 40.7,
     dataPoints: [
       {
         allDeathPerMillion: 862.8986757824167,
@@ -8862,7 +8862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Delaware - New Castle": {
-    medianAge: 35,
+    medianAge: 40.7,
     dataPoints: [
       {
         allDeathPerMillion: 755.25321564269,
@@ -8872,7 +8872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Delaware - Sussex": {
-    medianAge: 35,
+    medianAge: 40.7,
     dataPoints: [
       {
         allDeathPerMillion: 1212.5093393104921,
@@ -8882,7 +8882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - District of Columbia - District of Columbia": {
-    medianAge: 35,
+    medianAge: 29,
     dataPoints: [
       {
         allDeathPerMillion: 1044.2806153462493,
@@ -8892,7 +8892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Alachua": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 427.44096668562275,
@@ -8902,7 +8902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Baker": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1232.4546388223214,
@@ -8912,7 +8912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Bay": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1087.547580206634,
@@ -8922,7 +8922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Bradford": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 780.1141803482144,
@@ -8932,7 +8932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Brevard": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 832.306102581312,
@@ -8942,7 +8942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Broward": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 909.4735807142441,
@@ -8952,7 +8952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Calhoun": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1843.3179723502308,
@@ -8962,7 +8962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Charlotte": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1148.6951458366418,
@@ -8972,7 +8972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Citrus": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1470.0281309928705,
@@ -8982,7 +8982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Clay": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 779.9244704723332,
@@ -8992,7 +8992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Collier": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 823.5862635164275,
@@ -9002,7 +9002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Columbia": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1562.3692213263396,
@@ -9012,7 +9012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - DeSoto": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1342.0699455277493,
@@ -9022,7 +9022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Dixie": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 653.7501485795792,
@@ -9032,7 +9032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Duval": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 726.6994168654824,
@@ -9042,7 +9042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Escambia": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1077.5455836338733,
@@ -9052,7 +9052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Flagler": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 399.71845917223516,
@@ -9062,7 +9062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Franklin": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 329.89690721649475,
@@ -9072,7 +9072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Gadsden": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1292.1594393342095,
@@ -9082,7 +9082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Gilchrist": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1076.3104079216446,
@@ -9092,7 +9092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Glades": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 796.466584606473,
@@ -9102,7 +9102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Gulf": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1906.2981156976323,
@@ -9112,7 +9112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Hamilton": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 831.7161075686166,
@@ -9122,7 +9122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Hardee": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 742.4731781564392,
@@ -9132,7 +9132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Hendry": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1094.6646994431492,
@@ -9142,7 +9142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Hernando": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1309.8184818481848,
@@ -9152,7 +9152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Highlands": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1798.137844682313,
@@ -9162,7 +9162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Hillsborough": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 697.0260223048327,
@@ -9172,7 +9172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Holmes": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1019.523882346944,
@@ -9182,7 +9182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Indian River": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 950.4574076274205,
@@ -9192,7 +9192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Jackson": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 2369.97457663636,
@@ -9202,7 +9202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Jefferson": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 982.73199494595,
@@ -9212,7 +9212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Lafayette": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 2374.7328425552123,
@@ -9222,7 +9222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Lake": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 776.317151433599,
@@ -9232,7 +9232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Lee": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 829.2487317944865,
@@ -9242,7 +9242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Leon": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 582.4607775681069,
@@ -9252,7 +9252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Levy": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 433.7035876924559,
@@ -9262,7 +9262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Liberty": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1675.8439071103662,
@@ -9272,7 +9272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Madison": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1730.3844697993836,
@@ -9282,7 +9282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Manatee": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1001.8524350717789,
@@ -9292,7 +9292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Marion": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1181.6871319195031,
@@ -9302,7 +9302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Martin": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1186.3354037267081,
@@ -9312,7 +9312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Miami-Dade": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1496.5365447893587,
@@ -9322,7 +9322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Monroe": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 444.5761707172496,
@@ -9332,7 +9332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Nassau": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 722.1438645980255,
@@ -9342,7 +9342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Okaloosa": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1001.2432499122131,
@@ -9352,7 +9352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Okeechobee": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1185.7332574464049,
@@ -9362,7 +9362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Orange": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 513.1141941021292,
@@ -9372,7 +9372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Osceola": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 721.222298809584,
@@ -9382,7 +9382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Palm Beach": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1215.283577303126,
@@ -9392,7 +9392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Pasco": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 611.971903449247,
@@ -9402,7 +9402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Pinellas": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1022.5682977160932,
@@ -9412,7 +9412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Polk": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1030.6618449536893,
@@ -9422,7 +9422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Putnam": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 858.8183196682813,
@@ -9432,7 +9432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Santa Rosa": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 634.7897326829903,
@@ -9442,7 +9442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Sarasota": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1076.6769185368262,
@@ -9452,7 +9452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Seminole": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 640.0664651799603,
@@ -9462,7 +9462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - St. Johns": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 408.05223068552783,
@@ -9472,7 +9472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - St. Lucie": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1160.5345160022782,
@@ -9482,7 +9482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Sumter": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 868.4488747923274,
@@ -9492,7 +9492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Suwannee": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 2093.792917126326,
@@ -9502,7 +9502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Taylor": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1159.0708887755575,
@@ -9512,7 +9512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Union": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 4265.931613834744,
@@ -9522,7 +9522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Volusia": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 730.1855828109976,
@@ -9532,7 +9532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Wakulla": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 622.4250866949228,
@@ -9542,7 +9542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Walton": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 567.0235314765563,
@@ -9552,7 +9552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Florida - Washington": {
-    medianAge: 35,
+    medianAge: 42.2,
     dataPoints: [
       {
         allDeathPerMillion: 1216.9748361009697,
@@ -9562,7 +9562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Appling": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2284.3467855977374,
@@ -9572,7 +9572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Atkinson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1102.2657685241886,
@@ -9582,7 +9582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Bacon": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2239.340738086707,
@@ -9592,7 +9592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Baker": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1974.983541803818,
@@ -9602,7 +9602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Baldwin": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1626.1973713521943,
@@ -9612,7 +9612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Banks": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 935.8427784132267,
@@ -9622,7 +9622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Barrow": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 756.8476693897165,
@@ -9632,7 +9632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Bartow": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1048.8407061575303,
@@ -9642,7 +9642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Ben Hill": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2455.089820359281,
@@ -9652,7 +9652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Berrien": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1546.6309223075732,
@@ -9662,7 +9662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Bibb": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1658.4072760986949,
@@ -9672,7 +9672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Bleckley": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2563.5050104870656,
@@ -9682,7 +9682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Brantley": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 994.295881521796,
@@ -9692,7 +9692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Brooks": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1940.868215048198,
@@ -9702,7 +9702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Bryan": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 479.4710677063618,
@@ -9712,7 +9712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Bulloch": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 703.4468897598232,
@@ -9722,7 +9722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Burke": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 759.5049814591431,
@@ -9732,7 +9732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Butts": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1884.8251523901188,
@@ -9742,7 +9742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Calhoun": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1777.3469058006137,
@@ -9752,7 +9752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Camden": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 384.1510262320272,
@@ -9762,7 +9762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Candler": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 3332.4076645376285,
@@ -9772,7 +9772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Carroll": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 916.7277818521234,
@@ -9782,7 +9782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Catoosa": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 517.9047055341816,
@@ -9792,7 +9792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Charlton": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1418.7574671445639,
@@ -9802,7 +9802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Chatham": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 791.210309919497,
@@ -9812,7 +9812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Chattahoochee": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 275.05271843770055,
@@ -9822,7 +9822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Chattooga": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1694.2998910807214,
@@ -9832,7 +9832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Cherokee": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 483.0488497640789,
@@ -9842,7 +9842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Clarke": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 475.3333177486343,
@@ -9852,7 +9852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Clay": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1058.5744530698657,
@@ -9862,7 +9862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Clayton": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 749.343041716851,
@@ -9872,7 +9872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Clinch": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2115.442731943185,
@@ -9882,7 +9882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Cobb": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 723.5499729655421,
@@ -9892,7 +9892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Coffee": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1894.946040256049,
@@ -9902,7 +9902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Colquitt": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1140.3508771929824,
@@ -9912,7 +9912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Columbia": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 599.8187781563869,
@@ -9922,7 +9922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Cook": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1273.8853503184712,
@@ -9932,7 +9932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Coweta": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 518.4870950582118,
@@ -9942,7 +9942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Crawford": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 644.9532408900357,
@@ -9952,7 +9952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Crisp": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1653.853030573932,
@@ -9962,7 +9962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Dade": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 496.4010920824025,
@@ -9972,7 +9972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Dawson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 459.62923241918185,
@@ -9982,7 +9982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - DeKalb": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 661.1378683176675,
@@ -9992,7 +9992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Decatur": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1817.9063778215425,
@@ -10002,7 +10002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Dodge": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2863.382674108226,
@@ -10012,7 +10012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Dooly": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1792.3823749066466,
@@ -10022,7 +10022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Dougherty": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2353.4494519987265,
@@ -10032,7 +10032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Douglas": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 717.4924663291036,
@@ -10042,7 +10042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Early": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 3925.417075564278,
@@ -10052,7 +10052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Echols": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 748.876684972541,
@@ -10062,7 +10062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Effingham": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 528.8042802040562,
@@ -10072,7 +10072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Elbert": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1771.3868917370012,
@@ -10082,7 +10082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Emanuel": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2207.8954340722426,
@@ -10092,7 +10092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Evans": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1220.1989862962268,
@@ -10102,7 +10102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Fannin": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1565.6025660607913,
@@ -10112,7 +10112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Fayette": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 603.0361559503938,
@@ -10122,7 +10122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Floyd": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1126.9264350545188,
@@ -10132,7 +10132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Forsyth": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 302.96578943058813,
@@ -10142,7 +10142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Franklin": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1070.7096663668676,
@@ -10152,7 +10152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Fulton": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 719.0275364048812,
@@ -10162,7 +10162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Gilmer": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1083.8726130893558,
@@ -10172,7 +10172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Glascock": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1009.7610232245037,
@@ -10182,7 +10182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Glynn": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1524.1757726398723,
@@ -10192,7 +10192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Gordon": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1035.143108534755,
@@ -10202,7 +10202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Grady": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1299.0703527787925,
@@ -10212,7 +10212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Greene": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1528.0506439642,
@@ -10222,7 +10222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Gwinnett": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 614.1522029372497,
@@ -10232,7 +10232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Habersham": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1875.2206141899044,
@@ -10242,7 +10242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Hall": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1051.648152767791,
@@ -10252,7 +10252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Hancock": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 5557.526309566039,
@@ -10262,7 +10262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Haralson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1275.5102040816328,
@@ -10272,7 +10272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Harris": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 823.0219094108297,
@@ -10282,7 +10282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Hart": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1182.9803472619728,
@@ -10292,7 +10292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Heard": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 754.8435796359978,
@@ -10302,7 +10302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Henry": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 639.4924987529896,
@@ -10312,7 +10312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Houston": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 728.479757764644,
@@ -10322,7 +10322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Irwin": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1699.235344095157,
@@ -10332,7 +10332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Jackson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 918.0974827685435,
@@ -10342,7 +10342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Jasper": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 492.2990365004571,
@@ -10352,7 +10352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Jeff Davis": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2249.421104862719,
@@ -10362,7 +10362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Jefferson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2603.8276266111184,
@@ -10372,7 +10372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Jenkins": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 3918.8566159520524,
@@ -10382,7 +10382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Johnson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 3318.46935600954,
@@ -10392,7 +10392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Jones": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 835.2183748042457,
@@ -10402,7 +10402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Lamar": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1572.5743041358703,
@@ -10412,7 +10412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Lanier": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 959.4166746618056,
@@ -10422,7 +10422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Laurens": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2523.8716190636437,
@@ -10432,7 +10432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Lee": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1100.2934115764203,
@@ -10442,7 +10442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Liberty": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 504.59835598600137,
@@ -10452,7 +10452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Lincoln": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1388.7135462694105,
@@ -10462,7 +10462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Long": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 255.63679124699632,
@@ -10472,7 +10472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Lowndes": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1124.3036982777712,
@@ -10482,7 +10482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Lumpkin": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 595.0609937518595,
@@ -10492,7 +10492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Macon": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1235.8075229782962,
@@ -10502,7 +10502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Madison": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 736.2784471218207,
@@ -10512,7 +10512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Marion": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1196.3153487259244,
@@ -10522,7 +10522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - McDuffie": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1126.1261261261263,
@@ -10532,7 +10532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - McIntosh": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 625.9563221588537,
@@ -10542,7 +10542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Meriwether": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 897.6236594699296,
@@ -10552,7 +10552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Miller": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 524.6589716684156,
@@ -10562,7 +10562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Mitchell": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2378.447605543613,
@@ -10572,7 +10572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Monroe": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2211.9080426426867,
@@ -10582,7 +10582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Montgomery": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1090.274749236808,
@@ -10592,7 +10592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Morgan": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 415.0238638721726,
@@ -10602,7 +10602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Murray": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 972.6656025538707,
@@ -10612,7 +10612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Muscogee": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1036.9363893159793,
@@ -10622,7 +10622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Newton": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1029.1380297823596,
@@ -10632,7 +10632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Oconee": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 918.5700099304865,
@@ -10642,7 +10642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Oglethorpe": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 917.4913166000392,
@@ -10652,7 +10652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Out of GA": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 0,
@@ -10662,7 +10662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Paulding": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 581.0265197104354,
@@ -10672,7 +10672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Peach": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1089.0873448050534,
@@ -10682,7 +10682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Pickens": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 552.2997146451474,
@@ -10692,7 +10692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Pierce": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1643.9763678397123,
@@ -10702,7 +10702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Pike": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 896.5299019090812,
@@ -10712,7 +10712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Polk": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 985.6147185131297,
@@ -10722,7 +10722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Pulaski": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2693.723623956182,
@@ -10732,7 +10732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Putnam": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1401.5100140150998,
@@ -10742,7 +10742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Quitman": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 434.97172683775557,
@@ -10752,7 +10752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Rabun": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 875.2990605123417,
@@ -10762,7 +10762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Randolph": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 4573.620537031573,
@@ -10772,7 +10772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Richmond": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1209.7690081869268,
@@ -10782,7 +10782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Rockdale": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 803.1156486534061,
@@ -10792,7 +10792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Schley": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 380.4451207913259,
@@ -10802,7 +10802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Screven": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1074.0369468709725,
@@ -10812,7 +10812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Seminole": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1483.3127317676144,
@@ -10822,7 +10822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Spalding": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1379.2483096712292,
@@ -10832,7 +10832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Stephens": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1928.6403085824493,
@@ -10842,7 +10842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Stewart": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2567.5879776468814,
@@ -10852,7 +10852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Sumter": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2472.564693131012,
@@ -10862,7 +10862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Talbot": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1452.7845036319611,
@@ -10872,7 +10872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Tattnall": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1384.1651506762635,
@@ -10882,7 +10882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Taylor": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1620.9476309226934,
@@ -10892,7 +10892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Telfair": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2206.809583858764,
@@ -10902,7 +10902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Terrell": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 3985.4647755245574,
@@ -10912,7 +10912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Thomas": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1867.2245843738049,
@@ -10922,7 +10922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Tift": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1968.3102056884165,
@@ -10932,7 +10932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Toombs": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2609.019754006709,
@@ -10942,7 +10942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Towns": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2907.701254465398,
@@ -10952,7 +10952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Treutlen": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2318.5045645558616,
@@ -10962,7 +10962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Troup": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1816.3096021280855,
@@ -10972,7 +10972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Turner": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 3130.8703819661864,
@@ -10982,7 +10982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Twiggs": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2339.9014778325122,
@@ -10992,7 +10992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Union": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1672.7183713434783,
@@ -11002,7 +11002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Upson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 3077.5075987841956,
@@ -11012,7 +11012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Walker": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 802.7407863992775,
@@ -11022,7 +11022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Walton": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 930.3013965092555,
@@ -11032,7 +11032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Ware": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2266.7487546874127,
@@ -11042,7 +11042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Warren": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1522.6494099733534,
@@ -11052,7 +11052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Washington": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1963.2865416707568,
@@ -11062,7 +11062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Wayne": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1637.3174725164567,
@@ -11072,7 +11072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Webster": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 767.1653241273494,
@@ -11082,7 +11082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Wheeler": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2418.841502227881,
@@ -11092,7 +11092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - White": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1071.4981492304696,
@@ -11102,7 +11102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Whitfield": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1060.9014795274688,
@@ -11112,7 +11112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Wilcox": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 3821.656050955414,
@@ -11122,7 +11122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Wilkes": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1022.8086325048582,
@@ -11132,7 +11132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Wilkinson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2010.2747375474648,
@@ -11142,7 +11142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Georgia - Worth": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1975.6013236528868,
@@ -11152,7 +11152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Grand Princess": {
-    medianAge: 35,
+    medianAge: 29,
     dataPoints: [
       {
         allDeathPerMillion: 0,
@@ -11162,7 +11162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Guam": {
-    medianAge: 35,
+    medianAge: 29,
     dataPoints: [
       {
         allDeathPerMillion: 724.5979699078723,
@@ -11172,7 +11172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Hawaii - Hawaii": {
-    medianAge: 35,
+    medianAge: 39.2,
     dataPoints: [
       {
         allDeathPerMillion: 218.34819589803143,
@@ -11182,7 +11182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Hawaii - Honolulu": {
-    medianAge: 35,
+    medianAge: 39.2,
     dataPoints: [
       {
         allDeathPerMillion: 223.69000259603536,
@@ -11192,7 +11192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Hawaii - Kauai": {
-    medianAge: 35,
+    medianAge: 39.2,
     dataPoints: [
       {
         allDeathPerMillion: 13.832597900211637,
@@ -11202,7 +11202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Hawaii - Maui": {
-    medianAge: 35,
+    medianAge: 39.2,
     dataPoints: [
       {
         allDeathPerMillion: 101.5428540709725,
@@ -11212,7 +11212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Hawaii - Out of HI": {
-    medianAge: 35,
+    medianAge: 39.2,
     dataPoints: [
       {
         allDeathPerMillion: 0,
@@ -11222,7 +11222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Ada": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 645.7815514123099,
@@ -11232,7 +11232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Adams": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 698.6492780624127,
@@ -11242,7 +11242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Bannock": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 580.8126822157434,
@@ -11252,7 +11252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Bear Lake": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 326.53061224489795,
@@ -11262,7 +11262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Benewah": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 430.2000430200042,
@@ -11272,7 +11272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Bingham": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 811.7750101471876,
@@ -11282,7 +11282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Blaine": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 521.26319447461,
@@ -11292,7 +11292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Boise": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 255.39522410930917,
@@ -11302,7 +11302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Bonner": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 262.3581626183344,
@@ -11312,7 +11312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Bonneville": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 856.6965110614638,
@@ -11322,7 +11322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Boundary": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 489.9959167006941,
@@ -11332,7 +11332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Canyon": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 857.0844336934248,
@@ -11342,7 +11342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Caribou": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1537.3864430468207,
@@ -11352,7 +11352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Cassia": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 790.6783187682064,
@@ -11362,7 +11362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Clearwater": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 571.0370031978073,
@@ -11372,7 +11372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Custer": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 463.4994206257241,
@@ -11382,7 +11382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Elmore": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 327.14187052451746,
@@ -11392,7 +11392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Franklin": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 576.5350245027386,
@@ -11402,7 +11402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Fremont": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 916.1004656844034,
@@ -11412,7 +11412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Gem": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 938.6042402826855,
@@ -11422,7 +11422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Gooding": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1119.9683773634629,
@@ -11432,7 +11432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Idaho": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 899.9820003599929,
@@ -11442,7 +11442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Jefferson": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 468.6819992634997,
@@ -11452,7 +11452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Jerome": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 614.4519088972637,
@@ -11462,7 +11462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Kootenai": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 615.581452892931,
@@ -11472,7 +11472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Latah": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 74.79804527775006,
@@ -11482,7 +11482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Lemhi": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1121.2158963498193,
@@ -11492,7 +11492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Lewis": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1302.7618551328817,
@@ -11502,7 +11502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Lincoln": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1490.8684308609766,
@@ -11512,7 +11512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Madison": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 250.58260455559176,
@@ -11522,7 +11522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Minidoka": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1045.6770759066499,
@@ -11532,7 +11532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Nez Perce": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1014.650564244704,
@@ -11542,7 +11542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Oneida": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 220.70183182520412,
@@ -11552,7 +11552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Owyhee": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1522.4562293834051,
@@ -11562,7 +11562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Payette": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 918.542023297566,
@@ -11572,7 +11572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Power": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 520.7655253222235,
@@ -11582,7 +11582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Shoshone": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1785.437043937277,
@@ -11592,7 +11592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Teton": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 164.71750947125676,
@@ -11602,7 +11602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Twin Falls": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1266.1433274246644,
@@ -11612,7 +11612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Valley": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 175.56179775280899,
@@ -11622,7 +11622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Idaho - Washington": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1373.3568765940752,
@@ -11632,7 +11632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Adams": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1054.481546572935,
@@ -11642,7 +11642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Alexander": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 867.9048776254125,
@@ -11652,7 +11652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Bond": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 913.1864117861926,
@@ -11662,7 +11662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Boone": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1176.602420439265,
@@ -11672,7 +11672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Brown": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1368.1970203709334,
@@ -11682,7 +11682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Bureau": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1961.505455437048,
@@ -11692,7 +11692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Calhoun": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 211.0149820637265,
@@ -11702,7 +11702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Carroll": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 2027.2631946871722,
@@ -11712,7 +11712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Cass": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 2305.0959084547626,
@@ -11722,7 +11722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Champaign": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 376.74842266404056,
@@ -11732,7 +11732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Christian": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1764.4873699851412,
@@ -11742,7 +11742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Clark": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1489.5408328476133,
@@ -11752,7 +11752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Clay": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 2503.0339805825242,
@@ -11762,7 +11762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Clinton": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 2049.9440924338423,
@@ -11772,7 +11772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Coles": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1363.070662373323,
@@ -11782,7 +11782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Cook": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1499.7379730198613,
@@ -11792,7 +11792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Crawford": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1392.8322708523062,
@@ -11802,7 +11802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Cumberland": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 2136.3551922719676,
@@ -11812,7 +11812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - De Witt": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1470.776314106663,
@@ -11822,7 +11822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - DeKalb": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 648.2549548604821,
@@ -11832,7 +11832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Douglas": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1232.9822758797843,
@@ -11842,7 +11842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - DuPage": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1026.0899903675395,
@@ -11852,7 +11852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Edgar": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1981.2365246780496,
@@ -11862,7 +11862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Edwards": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 938.2329945269743,
@@ -11872,7 +11872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Effingham": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1440.837450011762,
@@ -11882,17 +11882,17 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Fayette": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 2155.9805024371954,
         lastWeekAverageDeathPerMillionEachDay: 40.17354973485457,
-        updatedAt: "2020-12-21 05:27:58",
+        updatedAt: "2020-12-21  05:27:58",
       },
     ],
   },
   "US - Illinois - Ford": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 2854.718000154309,
@@ -11902,7 +11902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Franklin": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1117.7831500688865,
@@ -11912,7 +11912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Fulton": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 757.13453698311,
@@ -11922,7 +11922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Gallatin": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 828.5004142502073,
@@ -11932,7 +11932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Greene": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 3084.277893438199,
@@ -11942,7 +11942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Grundy": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 744.3099463313354,
@@ -11952,7 +11952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Hamilton": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 985.7072449482504,
@@ -11962,7 +11962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Hancock": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1524.734583239214,
@@ -11972,7 +11972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Hardin": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1308.557969118032,
@@ -11982,7 +11982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Henderson": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 902.7986758952754,
@@ -11992,7 +11992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Henry": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 940.4452803958048,
@@ -12002,7 +12002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Iroquois": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1659.65921664085,
@@ -12012,7 +12012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Jackson": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 881.0572687224667,
@@ -12022,7 +12022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Jasper": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1456.81581685744,
@@ -12032,7 +12032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Jefferson": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1910.6251990234584,
@@ -12042,7 +12042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Jersey": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1561.5670784917097,
@@ -12052,7 +12052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Jo Daviess": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1130.2095596891922,
@@ -12062,7 +12062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Johnson": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1046.9517596843039,
@@ -12072,7 +12072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Kane": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1066.86100566676,
@@ -12082,7 +12082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Kankakee": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1356.2469279641732,
@@ -12092,7 +12092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Kendall": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 527.1726490425614,
@@ -12102,7 +12102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Knox": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 2173.081953359223,
@@ -12112,7 +12112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - LaSalle": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1840.4512786535256,
@@ -12122,7 +12122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Lake": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1082.501238272305,
@@ -12132,7 +12132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Lawrence": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1530.8075009567547,
@@ -12142,7 +12142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Lee": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1818.3951196621301,
@@ -12152,7 +12152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Livingston": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1542.8635547576303,
@@ -12162,7 +12162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Logan": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1467.607799287162,
@@ -12172,7 +12172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Macon": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1538.3284138872598,
@@ -12182,7 +12182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Macoupin": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1268.753060588523,
@@ -12192,7 +12192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Madison": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1349.9844086307737,
@@ -12202,7 +12202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Marion": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 2580.2983469963715,
@@ -12212,7 +12212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Marshall": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 699.4229760447629,
@@ -12222,7 +12222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Mason": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 2619.9565835766157,
@@ -12232,7 +12232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Massac": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1524.8329944815569,
@@ -12242,7 +12242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - McDonough": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1549.7607977899063,
@@ -12252,7 +12252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - McHenry": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 630.3326466823057,
@@ -12262,7 +12262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - McLean": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 524.7293271220929,
@@ -12272,7 +12272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Menard": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 491.96457855034436,
@@ -12282,7 +12282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Mercer": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1489.9267992485584,
@@ -12292,7 +12292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Monroe": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1616.7681958599185,
@@ -12302,7 +12302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Montgomery": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 774.2662067994651,
@@ -12312,7 +12312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Morgan": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 2139.164537405669,
@@ -12322,7 +12322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Moultrie": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1379.215226536101,
@@ -12332,7 +12332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Ogle": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1204.5100013822248,
@@ -12342,7 +12342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Peoria": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 987.8389766657923,
@@ -12352,7 +12352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Perry": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 2199.2732836106325,
@@ -12362,7 +12362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Piatt": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 367.10719530102796,
@@ -12372,7 +12372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Pike": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 2249.212775528565,
@@ -12382,7 +12382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Pope": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 239.40627244433804,
@@ -12392,7 +12392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Pulaski": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 374.88284910965325,
@@ -12402,7 +12402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Randolph": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1069.7879302749984,
@@ -12412,7 +12412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Richland": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1804.9377941081673,
@@ -12422,7 +12422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Rock Island": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1550.6170751133006,
@@ -12432,7 +12432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Saline": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1489.9323145034266,
@@ -12442,7 +12442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Sangamon": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 862.9900550669845,
@@ -12452,7 +12452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Schuyler": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1477.5413711583924,
@@ -12462,7 +12462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Scott": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 201.97939810139368,
@@ -12472,7 +12472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Shelby": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1525.3767218267542,
@@ -12482,7 +12482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - St. Clair": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1251.5114407399708,
@@ -12492,7 +12492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Stark": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 2620.7412953949824,
@@ -12502,7 +12502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Stephenson": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1168.5918468245764,
@@ -12512,7 +12512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Tazewell": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1229.1070764701865,
@@ -12522,7 +12522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Union": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1801.4772113132765,
@@ -12532,7 +12532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Vermilion": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1069.1940125135297,
@@ -12542,7 +12542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Wabash": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 868.0555555555555,
@@ -12552,7 +12552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Warren": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1781.0496319164092,
@@ -12562,7 +12562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Washington": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1080.146899978397,
@@ -12572,7 +12572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Wayne": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 2405.18038852914,
@@ -12582,7 +12582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - White": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1403.5606116569402,
@@ -12592,7 +12592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Whiteside": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 2791.11916628908,
@@ -12602,7 +12602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Will": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1039.4604071268186,
@@ -12612,7 +12612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Williamson": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1576.647596738592,
@@ -12622,7 +12622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Winnebago": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1199.6942372209564,
@@ -12632,7 +12632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Illinois - Woodford": {
-    medianAge: 35,
+    medianAge: 38.3,
     dataPoints: [
       {
         allDeathPerMillion: 1118.0737928703295,
@@ -12642,7 +12642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Adams": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 838.5275456298739,
@@ -12652,7 +12652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Allen": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1123.1245007237035,
@@ -12662,7 +12662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Bartholomew": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 919.0847348380858,
@@ -12672,7 +12672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Benton": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 571.5592135345221,
@@ -12682,7 +12682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Blackford": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1786.0180302772578,
@@ -12692,7 +12692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Boone": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 854.915024394558,
@@ -12702,7 +12702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Brown": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 530.082162735224,
@@ -12712,7 +12712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Carroll": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 691.1191193167793,
@@ -12722,7 +12722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Cass": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 955.1858632492239,
@@ -12732,7 +12732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Clark": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 870.653074335176,
@@ -12742,7 +12742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Clay": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1143.9466158245946,
@@ -12752,7 +12752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Clinton": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 925.9545047686656,
@@ -12762,7 +12762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Crawford": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 661.8133686300464,
@@ -12772,7 +12772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Daviess": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1888.9988306197715,
@@ -12782,7 +12782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - DeKalb": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1150.0862564692354,
@@ -12792,7 +12792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Dearborn": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 788.5478587892756,
@@ -12802,7 +12802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Decatur": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 2296.7732218833544,
@@ -12812,7 +12812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Delaware": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1068.9096245673984,
@@ -12822,7 +12822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Dubois": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 865.780606514414,
@@ -12832,7 +12832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Elkhart": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1424.825894999055,
@@ -12842,7 +12842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Fayette": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1818.0244134706952,
@@ -12852,7 +12852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Floyd": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1095.2344565854157,
@@ -12862,7 +12862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Fountain": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1162.3638810718219,
@@ -12872,7 +12872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Franklin": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1230.3365849371648,
@@ -12882,7 +12882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Fulton": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1151.496946029839,
@@ -12892,7 +12892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Gibson": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1455.7770581419531,
@@ -12902,7 +12902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Grant": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1261.9927321382415,
@@ -12912,7 +12912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Greene": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1722.9496898690559,
@@ -12922,7 +12922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Hamilton": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 695.2436459168489,
@@ -12932,7 +12932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Hancock": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 985.057824173575,
@@ -12942,7 +12942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Harrison": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 715.784277428113,
@@ -12952,7 +12952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Hendricks": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1127.3493784899395,
@@ -12962,7 +12962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Henry": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1000.5836738097223,
@@ -12972,7 +12972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Howard": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1235.704593913549,
@@ -12982,7 +12982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Huntington": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 684.5564074479739,
@@ -12992,7 +12992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Jackson": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 926.9516854694672,
@@ -13002,7 +13002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Jasper": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 774.6856563971157,
@@ -13012,7 +13012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Jay": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 978.6651008025054,
@@ -13022,7 +13022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Jefferson": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 835.7063266064132,
@@ -13032,7 +13032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Jennings": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 973.4991887506759,
@@ -13042,7 +13042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Johnson": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1308.743290319725,
@@ -13052,7 +13052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Knox": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 929.1140624146036,
@@ -13062,7 +13062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Kosciusko": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 805.4772452678212,
@@ -13072,7 +13072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - LaGrange": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1110.7184328772655,
@@ -13082,7 +13082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - LaPorte": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1110.221316249272,
@@ -13092,7 +13092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Lake": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1143.1678726572782,
@@ -13102,7 +13102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Lawrence": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1256.3367864227464,
@@ -13112,7 +13112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Madison": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1211.7095910287185,
@@ -13122,7 +13122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Marion": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1076.1137985158337,
@@ -13132,7 +13132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Marshall": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1405.162350296165,
@@ -13142,7 +13142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Martin": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1072.6474890297418,
@@ -13152,7 +13152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Miami": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 675.7517738484063,
@@ -13162,7 +13162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Monroe": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 552.4452439180493,
@@ -13172,7 +13172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Montgomery": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1017.26746309145,
@@ -13182,7 +13182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Morgan": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 978.8761367021806,
@@ -13192,7 +13192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Newton": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1287.1853546910754,
@@ -13202,7 +13202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Noble": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1110.0871313672924,
@@ -13212,7 +13212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Ohio": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1191.4893617021276,
@@ -13222,7 +13222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Orange": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1476.127455970681,
@@ -13232,7 +13232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Owen": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1057.743160728881,
@@ -13242,7 +13242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Parke": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 413.29633347109865,
@@ -13252,7 +13252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Perry": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1095.5188064061767,
@@ -13262,7 +13262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Pike": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1856.4855920574696,
@@ -13272,7 +13272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Porter": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 733.6154329211395,
@@ -13282,7 +13282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Posey": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1022.5351004837377,
@@ -13292,7 +13292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Pulaski": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 2347.607868533959,
@@ -13302,7 +13302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Putnam": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 904.8328720459868,
@@ -13312,7 +13312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Randolph": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1256.8416784917902,
@@ -13322,7 +13322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Ripley": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1306.312667702302,
@@ -13332,7 +13332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Rush": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 603.0999336590072,
@@ -13342,7 +13342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Scott": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1382.3147488794873,
@@ -13352,7 +13352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Shelby": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1520.2664937736145,
@@ -13362,7 +13362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Spencer": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 493.1696010257929,
@@ -13372,7 +13372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - St. Joseph": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1111.004833974675,
@@ -13382,7 +13382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Starke": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1478.5823005001087,
@@ -13392,7 +13392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Steuben": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 520.321443024802,
@@ -13402,7 +13402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Sullivan": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1064.39595529537,
@@ -13412,7 +13412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Switzerland": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 465.0730164635848,
@@ -13422,7 +13422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Tippecanoe": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 332.0867308360411,
@@ -13432,7 +13432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Tipton": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1914.4441510430418,
@@ -13442,7 +13442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Union": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 283.5270768358378,
@@ -13452,7 +13452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Vanderburgh": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 997.5144804933561,
@@ -13462,7 +13462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Vermillion": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1548.5869144405729,
@@ -13472,7 +13472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Vigo": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1279.9192810030079,
@@ -13482,7 +13482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Wabash": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1193.7024132146084,
@@ -13492,7 +13492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Warren": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 846.9449485783424,
@@ -13502,7 +13502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Warrick": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1349.2491825137306,
@@ -13512,7 +13512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Washington": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 428.02111570837496,
@@ -13522,7 +13522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Wayne": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1942.808572642827,
@@ -13532,7 +13532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Wells": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1554.990104608425,
@@ -13542,7 +13542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - White": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 1037.258318811717,
@@ -13552,7 +13552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Indiana - Whitley": {
-    medianAge: 35,
+    medianAge: 37.9,
     dataPoints: [
       {
         allDeathPerMillion: 500.5299729124957,
@@ -13562,7 +13562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Adair": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 2376.9574944071587,
@@ -13572,7 +13572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Adams": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 555.247084952804,
@@ -13582,7 +13582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Allamakee": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1388.1785636004968,
@@ -13592,7 +13592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Appanoose": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 2736.1982938998876,
@@ -13602,7 +13602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Audubon": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1273.6535662299855,
@@ -13612,7 +13612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Benton": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1325.7945018522128,
@@ -13622,7 +13622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Black Hawk": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1577.407260645594,
@@ -13632,7 +13632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Boone": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 571.7770831745064,
@@ -13642,7 +13642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Bremer": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1596.0418162955868,
@@ -13652,7 +13652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Buchanan": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 755.6080283353012,
@@ -13662,7 +13662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Buena Vista": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1121.3047910295618,
@@ -13672,7 +13672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Butler": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1108.1099799155065,
@@ -13682,7 +13682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Calhoun": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 930.9060819197355,
@@ -13692,7 +13692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Carroll": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1338.953632531614,
@@ -13702,7 +13702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Cass": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 2960.4238080398877,
@@ -13712,7 +13712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Cedar": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 912.6536747731786,
@@ -13722,7 +13722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Cerro Gordo": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1319.199057714959,
@@ -13732,7 +13732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Cherokee": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1602.136181575434,
@@ -13742,7 +13742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Chickasaw": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 838.0122349786308,
@@ -13752,7 +13752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Clarke": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 638.637573177222,
@@ -13762,7 +13762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Clay": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 686.8131868131868,
@@ -13772,7 +13772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Clayton": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 2051.3989401105478,
@@ -13782,7 +13782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Clinton": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1119.9896616338926,
@@ -13792,7 +13792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Crawford": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1010.7015457788347,
@@ -13802,7 +13802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Dallas": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 663.4350957165634,
@@ -13812,7 +13812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Davis": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 2000.0000000000002,
@@ -13822,7 +13822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Decatur": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 381.1944091486658,
@@ -13832,7 +13832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Delaware": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1645.9937687378756,
@@ -13842,7 +13842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Des Moines": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 795.5449482895783,
@@ -13852,7 +13852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Dickinson": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 753.2738440143703,
@@ -13862,7 +13862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Dubuque": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1366.751960210048,
@@ -13872,7 +13872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Emmet": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 2497.8279756733277,
@@ -13882,7 +13882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Fayette": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 763.3587786259542,
@@ -13892,7 +13892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Floyd": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1981.8437539956528,
@@ -13902,7 +13902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Franklin": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1688.1827209533267,
@@ -13912,7 +13912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Fremont": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 718.3908045977012,
@@ -13922,7 +13922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Greene": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 787.5787578757876,
@@ -13932,7 +13932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Grundy": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1144.5389143230868,
@@ -13942,7 +13942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Guthrie": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 2058.190663298718,
@@ -13952,7 +13952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Hamilton": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1421.5122182359714,
@@ -13962,7 +13962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Hancock": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 2163.687676387582,
@@ -13972,7 +13972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Hardin": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1424.6705449364833,
@@ -13982,7 +13982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Harrison": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 3630.151612214392,
@@ -13992,7 +13992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Henry": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1052.4205673048011,
@@ -14002,7 +14002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Howard": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1637.9122079056563,
@@ -14012,7 +14012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Humboldt": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1883.239171374764,
@@ -14022,7 +14022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Ida": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 3061.224489795918,
@@ -14032,7 +14032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Iowa": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1173.9990113692536,
@@ -14042,7 +14042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Jackson": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1491.8462883893205,
@@ -14052,7 +14052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Jasper": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1344.6282102998523,
@@ -14062,7 +14062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Jefferson": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1093.1948619841487,
@@ -14072,7 +14072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Johnson": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 297.7371973005161,
@@ -14082,7 +14082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Jones": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1837.4353271118416,
@@ -14092,7 +14092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Keokuk": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1854.3821979308998,
@@ -14102,7 +14102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Kossuth": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1687.7067440761493,
@@ -14112,7 +14112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Lee": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 683.3645304097215,
@@ -14122,7 +14122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Linn": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1018.940830855822,
@@ -14132,7 +14132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Louisa": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 2084.277299501586,
@@ -14142,7 +14142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Lucas": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 813.953488372093,
@@ -14152,7 +14152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Lyon": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1786.473840918758,
@@ -14162,7 +14162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Madison": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 489.6560166483046,
@@ -14172,7 +14172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Mahaska": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1448.2914686580675,
@@ -14182,7 +14182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Marion": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1202.8989865576038,
@@ -14192,7 +14192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Marshall": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1346.2368868907008,
@@ -14202,7 +14202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Mills": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 860.4143225891853,
@@ -14212,7 +14212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Mitchell": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 2267.1452862270926,
@@ -14222,7 +14222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Monona": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1625.0725478816016,
@@ -14232,7 +14232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Monroe": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 2076.0347735824575,
@@ -14242,7 +14242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Montgomery": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1310.8803065443183,
@@ -14252,7 +14252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Muscatine": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1687.605475342209,
@@ -14262,7 +14262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - O'Brien": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 3490.147604159093,
@@ -14272,7 +14272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Osceola": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1007.0493454179258,
@@ -14282,7 +14282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Page": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 860.5282319454556,
@@ -14292,7 +14292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Palo Alto": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 675.219446320054,
@@ -14302,7 +14302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Plymouth": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1827.064384160146,
@@ -14312,7 +14312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Pocahontas": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1208.6417887898479,
@@ -14322,7 +14322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Polk": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 807.8978131675102,
@@ -14332,7 +14332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Pottawattamie": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 933.4163036714375,
@@ -14342,7 +14342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Poweshiek": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1188.9321227842631,
@@ -14352,7 +14352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Ringgold": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1430.322844299142,
@@ -14362,7 +14362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Sac": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1131.570826046703,
@@ -14372,7 +14372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Scott": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 803.7330218626946,
@@ -14382,7 +14382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Shelby": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 2008.032128514056,
@@ -14392,7 +14392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Sioux": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1176.3018218333093,
@@ -14402,7 +14402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Story": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 267.71831914083015,
@@ -14412,7 +14412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Tama": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 3263.320280052213,
@@ -14422,7 +14422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Taylor": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1306.975984316288,
@@ -14432,7 +14432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Union": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1307.0827546769056,
@@ -14442,7 +14442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Van Buren": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1561.612720045429,
@@ -14452,7 +14452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Wapello": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 2573.7081414967547,
@@ -14462,7 +14462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Warren": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 544.0484980375394,
@@ -14472,7 +14472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Washington": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1229.2283177782838,
@@ -14482,7 +14482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Wayne": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 3260.3632976245926,
@@ -14492,7 +14492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Webster": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1559.7147950089125,
@@ -14502,7 +14502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Winnebago": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 2704.268881591655,
@@ -14512,7 +14512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Winneshiek": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 850.3826722024909,
@@ -14522,7 +14522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Woodbury": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1542.087346154965,
@@ -14532,7 +14532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Worth": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 270.96599376778204,
@@ -14542,7 +14542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Iowa - Wright": {
-    medianAge: 35,
+    medianAge: 38.2,
     dataPoints: [
       {
         allDeathPerMillion: 1114.4722177997132,
@@ -14552,7 +14552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Allen": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 646.7782359123614,
@@ -14562,7 +14562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Anderson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 254.51768897938405,
@@ -14572,7 +14572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Atchison": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 622.1613886642194,
@@ -14582,7 +14582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Barber": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 451.77320984865594,
@@ -14592,7 +14592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Barton": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 737.0340199387098,
@@ -14602,7 +14602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Bourbon": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 550.4334663547544,
@@ -14612,7 +14612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Brown": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1882.0577164366375,
@@ -14622,7 +14622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Butler": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 269.0140634574285,
@@ -14632,7 +14632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Chase": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1132.9305135951658,
@@ -14642,7 +14642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Chautauqua": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 923.0769230769231,
@@ -14652,7 +14652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Cherokee": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 601.8355985756558,
@@ -14662,7 +14662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Cheyenne": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 3763.6432066240127,
@@ -14672,7 +14672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Clark": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2507.52256770311,
@@ -14682,7 +14682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Clay": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2124.468882779305,
@@ -14692,7 +14692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Cloud": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2162.5312997951287,
@@ -14702,7 +14702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Coffey": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1222.6433549333658,
@@ -14712,7 +14712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Comanche": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2352.9411764705883,
@@ -14722,7 +14722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Cowley": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1059.9289561132118,
@@ -14732,7 +14732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Crawford": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 669.7923643670463,
@@ -14742,7 +14742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Decatur": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 353.73187124159887,
@@ -14752,7 +14752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Dickinson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 758.1501137225171,
@@ -14762,7 +14762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Doniphan": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 657.8947368421051,
@@ -14772,7 +14772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Douglas": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 253.56006510768123,
@@ -14782,7 +14782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Edwards": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2859.1851322373122,
@@ -14792,7 +14792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Ellis": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1085.7002766784576,
@@ -14802,7 +14802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Ellsworth": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 655.5227794165846,
@@ -14812,7 +14812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Finney": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 932.3497957057067,
@@ -14822,7 +14822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Ford": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1279.0386388649274,
@@ -14832,7 +14832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Franklin": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 665.5183213279048,
@@ -14842,7 +14842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Geary": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 284.18061256709825,
@@ -14852,7 +14852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Gove": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 7587.253414264038,
@@ -14862,7 +14862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Graham": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1208.7026591458502,
@@ -14872,7 +14872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Grant": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1958.0419580419577,
@@ -14882,7 +14882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Gray": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1169.004676018704,
@@ -14892,7 +14892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Greeley": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 811.6883116883117,
@@ -14902,7 +14902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Greenwood": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 334.3363423604146,
@@ -14912,7 +14912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Harper": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2759.3818984547465,
@@ -14922,7 +14922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Harvey": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 668.0414766621162,
@@ -14932,7 +14932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Haskell": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 252.01612903225805,
@@ -14942,7 +14942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Hodgeman": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2229.654403567447,
@@ -14952,7 +14952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Jackson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 759.2437931819907,
@@ -14962,7 +14962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Jefferson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 472.61460904269285,
@@ -14972,7 +14972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Jewell": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 694.6856547412295,
@@ -14982,7 +14982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Johnson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 639.1091648254236,
@@ -14992,7 +14992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Kearny": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2084.4189682126107,
@@ -15002,7 +15002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Kingman": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 978.7472035794183,
@@ -15012,7 +15012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Kiowa": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 404.04040404040416,
@@ -15022,7 +15022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Labette": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 356.8151697420736,
@@ -15031,8 +15031,8 @@ export const RegionCovidData: CovidData = {
       },
     ],
   },
-  "US - Kansas - Lane": {
-    medianAge: 35,
+  "US -  Kansas - Lane": {
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1954.3973941368079,
@@ -15042,7 +15042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Leavenworth": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 440.32388267814764,
@@ -15052,7 +15052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Lincoln": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 337.6097231600271,
@@ -15062,7 +15062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Linn": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 309.1827269916521,
@@ -15072,7 +15072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Logan": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1789.549033643522,
@@ -15082,7 +15082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Lyon": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1656.8760355475222,
@@ -15092,7 +15092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Marion": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 420.7337596768764,
@@ -15102,7 +15102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Marshall": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2163.3872463170906,
@@ -15112,7 +15112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - McPherson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 770.7939177352673,
@@ -15122,7 +15122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Meade": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 991.8175055789734,
@@ -15131,8 +15131,8 @@ export const RegionCovidData: CovidData = {
       },
     ],
   },
-  "US - Kansas - Miami": {
-    medianAge: 35,
+  "US  - Kansas - Miami": {
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 204.4571662236762,
@@ -15142,7 +15142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Mitchell": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 334.50409767519653,
@@ -15152,7 +15152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Montgomery": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 628.3577869238744,
@@ -15162,7 +15162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Morris": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1601.423487544484,
@@ -15172,7 +15172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Morton": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 3092.38500193274,
@@ -15182,7 +15182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Nemaha": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 4202.91271625452,
@@ -15192,7 +15192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Neosho": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 562.2540138689325,
@@ -15202,7 +15202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Ness": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 5090.909090909091,
@@ -15212,7 +15212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Norton": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 4476.776720761051,
@@ -15222,7 +15222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Osage": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 376.19913474199006,
@@ -15232,7 +15232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Osborne": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 292.3121894182988,
@@ -15242,7 +15242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Ottawa": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1402.524544179523,
@@ -15252,7 +15252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Pawnee": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 779.544745868413,
@@ -15262,7 +15262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Phillips": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2292.7015666794036,
@@ -15272,7 +15272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Pottawatomie": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 123.03654185293034,
@@ -15282,7 +15282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Pratt": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1855.085115670013,
@@ -15292,7 +15292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Rawlins": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1185.7707509881423,
@@ -15302,7 +15302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Reno": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1403.2710732604278,
@@ -15312,7 +15312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Republic": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1941.3287316652281,
@@ -15322,7 +15322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Rice": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 314.56432840515885,
@@ -15332,7 +15332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Riley": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 255.95430542084273,
@@ -15342,7 +15342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Rooks": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1829.2682926829266,
@@ -15352,7 +15352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Rush": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1646.9038208168643,
@@ -15362,7 +15362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Russell": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2479.579929988331,
@@ -15372,7 +15372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Saline": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 848.3328415461789,
@@ -15382,7 +15382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Scott": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1866.0584698320545,
@@ -15392,7 +15392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Sedgwick": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 457.32711678506786,
@@ -15402,7 +15402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Seward": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 746.6865783087549,
@@ -15412,7 +15412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Shawnee": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1074.2049469964666,
@@ -15422,7 +15422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Sheridan": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2776.6759222530736,
@@ -15432,7 +15432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Sherman": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1183.0319418624301,
@@ -15442,7 +15442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Smith": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 279.09572983533354,
@@ -15452,7 +15452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Stafford": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1684.3118383060635,
@@ -15462,7 +15462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Stanton": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2492.5224327018946,
@@ -15472,7 +15472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Stevens": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 911.5770282588879,
@@ -15482,7 +15482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Sumner": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 525.4860746190228,
@@ -15492,7 +15492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Thomas": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 771.5057220007715,
@@ -15502,7 +15502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Trego": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2140.563681769532,
@@ -15512,7 +15512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Wabaunsee": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1009.9552734093204,
@@ -15522,7 +15522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Wallace": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 658.7615283267457,
@@ -15532,7 +15532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Washington": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1479.8372179060302,
@@ -15542,7 +15542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Wichita": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 2359.603586597452,
@@ -15552,7 +15552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Wilson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 586.5102639296189,
@@ -15562,7 +15562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Woodson": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 637.3486297004462,
@@ -15572,7 +15572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kansas - Wyandotte": {
-    medianAge: 35,
+    medianAge: 36.9,
     dataPoints: [
       {
         allDeathPerMillion: 1148.5289761770912,
@@ -15582,7 +15582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Adair": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1926.8826163941255,
@@ -15592,7 +15592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Allen": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 703.7297677691765,
@@ -15602,7 +15602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Anderson": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 43.96184112190618,
@@ -15612,7 +15612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Ballard": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 380.3245436105477,
@@ -15622,7 +15622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Barren": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 768.3789464168682,
@@ -15632,7 +15632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Bath": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 160,
@@ -15642,7 +15642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Bell": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 883.5279655808235,
@@ -15652,7 +15652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Boone": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 262.01331027616203,
@@ -15662,7 +15662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Bourbon": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 50.535678188801285,
@@ -15672,7 +15672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Boyd": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 642.15077700244,
@@ -15682,7 +15682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Bracken": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 361.31518728170545,
@@ -15692,7 +15692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Breathitt": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 237.52969121140137,
@@ -15702,7 +15702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Breckinridge": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 195.3411144210578,
@@ -15712,7 +15712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Bullitt": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 330.5744649591067,
@@ -15722,7 +15722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Butler": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1242.332479229754,
@@ -15732,7 +15732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Caldwell": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1019.8478073272142,
@@ -15742,7 +15742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Calloway": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 512.8073639137458,
@@ -15752,7 +15752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Campbell": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 235.08292015729188,
@@ -15762,7 +15762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Carlisle": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 210.08403361344537,
@@ -15772,7 +15772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Carroll": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 658.4516978647354,
@@ -15782,7 +15782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Carter": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 186.58805090122024,
@@ -15792,7 +15792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Casey": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1299.5853703818307,
@@ -15802,7 +15802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Christian": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 695.4201615077845,
@@ -15812,7 +15812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Clark": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 386.06844441993206,
@@ -15822,7 +15822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Clay": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 401.98984975629367,
@@ -15832,7 +15832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Clinton": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1272.264631043257,
@@ -15842,7 +15842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Crittenden": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 340.6768112650466,
@@ -15852,7 +15852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Cumberland": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 302.3888720895071,
@@ -15862,7 +15862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Daviess": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 660.026992148634,
@@ -15872,7 +15872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Edmonson": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1069.9588477366256,
@@ -15882,7 +15882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Elliott": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 133.03179459890913,
@@ -15892,7 +15892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Fayette": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 414.66554438778036,
@@ -15902,7 +15902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Fleming": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 68.5824017557095,
@@ -15912,7 +15912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Floyd": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 252.88712804518252,
@@ -15922,7 +15922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Franklin": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 333.39216724520014,
@@ -15932,7 +15932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Fulton": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 670.1289998324679,
@@ -15942,7 +15942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Gallatin": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1014.7705491036194,
@@ -15952,7 +15952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Garrard": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 226.4236386278727,
@@ -15962,7 +15962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Grant": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 239.33942319199014,
@@ -15972,7 +15972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Graves": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1180.7009069929697,
@@ -15982,7 +15982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Grayson": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1059.5224580921029,
@@ -15992,7 +15992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Green": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 913.9932364500502,
@@ -16002,7 +16002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Greenup": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 512.8497350276368,
@@ -16012,7 +16012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Hancock": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1261.1786287548728,
@@ -16022,7 +16022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Hardin": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 369.5091836550767,
@@ -16032,7 +16032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Harlan": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 615.1480199923107,
@@ -16042,7 +16042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Harrison": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 52.949274594938046,
@@ -16052,7 +16052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Hart": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 262.67402153926975,
@@ -16062,7 +16062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Henderson": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 884.7600088476,
@@ -16072,7 +16072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Henry": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 186.03497457522013,
@@ -16082,7 +16082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Hickman": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 684.931506849315,
@@ -16092,7 +16092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Hopkins": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1499.3510271673456,
@@ -16102,7 +16102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Jackson": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1350.4388926401082,
@@ -16112,7 +16112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Jefferson": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 659.9222439443005,
@@ -16122,7 +16122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Jessamine": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 776.1249191536542,
@@ -16132,7 +16132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Johnson": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 585.9022895258698,
@@ -16142,7 +16142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Kenton": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 389.22621827806324,
@@ -16152,7 +16152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Knott": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 810.4822369309738,
@@ -16162,7 +16162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Knox": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 321.0788248515011,
@@ -16172,7 +16172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Larue": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 208.36227253785248,
@@ -16182,7 +16182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Laurel": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 197.32622958906816,
@@ -16192,7 +16192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Lawrence": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 261.1477443363583,
@@ -16202,7 +16202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Lee": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 2431.446710792922,
@@ -16212,7 +16212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Leslie": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 101.24531740407006,
@@ -16222,7 +16222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Letcher": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 139.19175984781702,
@@ -16232,7 +16232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Lewis": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1657.2504708097927,
@@ -16242,7 +16242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Lincoln": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 855.431993156544,
@@ -16252,7 +16252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Livingston": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 435.0663476180117,
@@ -16262,7 +16262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Logan": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1365.212899417017,
@@ -16272,7 +16272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Lyon": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 609.0133982947626,
@@ -16282,7 +16282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Madison": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 279.6089775990192,
@@ -16292,7 +16292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Magoffin": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 82.23007976317736,
@@ -16302,7 +16302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Marion": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 882.0629896746743,
@@ -16312,7 +16312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Marshall": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 610.9324758842444,
@@ -16322,7 +16322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Martin": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 893.2559178204555,
@@ -16332,7 +16332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Mason": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 644.4053895723492,
@@ -16342,7 +16342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - McCracken": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 550.307254883977,
@@ -16352,7 +16352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - McCreary": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 58.03493703209332,
@@ -16362,7 +16362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - McLean": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 2172.260236776366,
@@ -16372,7 +16372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Meade": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 139.9972000559989,
@@ -16382,7 +16382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Menifee": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 154.10695022345504,
@@ -16392,7 +16392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Mercer": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 273.5603884557516,
@@ -16402,7 +16402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Metcalfe": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 695.0650382285772,
@@ -16412,7 +16412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Monroe": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1784.0375586854461,
@@ -16422,7 +16422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Montgomery": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 426.18176652342225,
@@ -16432,7 +16432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Muhlenberg": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 816.4065051270327,
@@ -16442,7 +16442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Nelson": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 367.7027231631086,
@@ -16452,7 +16452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Nicholas": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 412.7115146512588,
@@ -16462,7 +16462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Ohio": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 958.5729765774777,
@@ -16472,7 +16472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Oldham": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 718.5736313417866,
@@ -16482,7 +16482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Owen": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 275.20410971470506,
@@ -16492,7 +16492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Owsley": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1812.0045300113252,
@@ -16502,7 +16502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Pendleton": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 68.54009595613434,
@@ -16512,7 +16512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Perry": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 427.0517897352279,
@@ -16522,7 +16522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Pike": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 570.1845324486834,
@@ -16532,7 +16532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Pulaski": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 338.5709229135567,
@@ -16542,7 +16542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Robertson": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 2371.9165085388995,
@@ -16552,7 +16552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Rockcastle": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 419.28721174004187,
@@ -16562,7 +16562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Rowan": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 122.64922322158627,
@@ -16572,7 +16572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Russell": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1060.09038665402,
@@ -16582,7 +16582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Scott": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 385.93782892428595,
@@ -16592,7 +16592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Shelby": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 571.1488250652742,
@@ -16602,7 +16602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Simpson": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 484.6004738315744,
@@ -16612,7 +16612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Spencer": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 258.38457960828896,
@@ -16622,7 +16622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Taylor": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 426.86949435368075,
@@ -16632,7 +16632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Todd": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1220.1073694485115,
@@ -16642,7 +16642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Trigg": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 136.50945327963962,
@@ -16652,7 +16652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Union": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 625.8257422988665,
@@ -16662,7 +16662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Warren": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 624.5485191427885,
@@ -16672,7 +16672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Washington": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 744.1091360066143,
@@ -16682,7 +16682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Wayne": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 245.90567058476367,
@@ -16692,7 +16692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Webster": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 772.6781023025807,
@@ -16702,7 +16702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Whitley": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 248.1800132362674,
@@ -16712,7 +16712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Wolfe": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 139.7233477714126,
@@ -16722,7 +16722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Kentucky - Woodford": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 37.40555098376599,
@@ -16732,7 +16732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Acadia": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 2127.4881134660327,
@@ -16742,7 +16742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Allen": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 2770.5154719631637,
@@ -16752,7 +16752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Ascension": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 892.5468389624339,
@@ -16762,7 +16762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Assumption": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1187.7027088757936,
@@ -16772,7 +16772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Avoyelles": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 2067.5567955360707,
@@ -16782,7 +16782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Beauregard": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1333.4400085340162,
@@ -16792,7 +16792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Bienville": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 3171.9658636054683,
@@ -16802,7 +16802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Bossier": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1393.2729319342877,
@@ -16812,7 +16812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Caddo": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 2002.464571780653,
@@ -16822,7 +16822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Calcasieu": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1341.9453783991034,
@@ -16832,7 +16832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Caldwell": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1814.8820326678767,
@@ -16842,7 +16842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Cameron": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 573.6411874372579,
@@ -16852,7 +16852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Catahoula": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 2106.5936380872126,
@@ -16862,7 +16862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Claiborne": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 2042.11869814933,
@@ -16872,7 +16872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Concordia": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1713.4846046004468,
@@ -16882,7 +16882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - De Soto": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1638.5682554709974,
@@ -16892,7 +16892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - East Baton Rouge": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1263.466944205209,
@@ -16902,7 +16902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - East Carroll": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 2040.518874799592,
@@ -16912,7 +16912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - East Feliciana": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 4703.423046772929,
@@ -16922,7 +16922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Evangeline": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1646.9531366971103,
@@ -16932,7 +16932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Franklin": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 3647.26455158631,
@@ -16942,7 +16942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Grant": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1607.932466836393,
@@ -16952,7 +16952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Iberia": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1646.8566518688242,
@@ -16962,7 +16962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Iberville": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 2091.599766232967,
@@ -16972,7 +16972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Jackson": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 2350.10162601626,
@@ -16982,7 +16982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Jefferson": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1491.3536172839788,
@@ -16992,7 +16992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Jefferson Davis": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1912.7773527161435,
@@ -17002,7 +17002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - LaSalle": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1611.6035455278002,
@@ -17012,7 +17012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Lafayette": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 707.8849380089204,
@@ -17022,7 +17022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Lafourche": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1618.620279877887,
@@ -17032,7 +17032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Lincoln": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1454.7944033203544,
@@ -17042,7 +17042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Livingston": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 802.6195228320395,
@@ -17052,7 +17052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Madison": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1461.053785042462,
@@ -17062,7 +17062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Morehouse": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1648.307469647021,
@@ -17072,7 +17072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Natchitoches": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1441.3753341370093,
@@ -17082,7 +17082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Orleans": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1701.9356955380583,
@@ -17092,7 +17092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Ouachita": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1624.4886775096395,
@@ -17102,7 +17102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Plaquemines": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 862.1804543690994,
@@ -17112,7 +17112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Pointe Coupee": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 2439.0243902439024,
@@ -17122,7 +17122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Rapides": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1573.491299518697,
@@ -17132,7 +17132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Red River": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 3435.204927742241,
@@ -17142,7 +17142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Richland": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1838.7834211311,
@@ -17152,7 +17152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Sabine": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1674.7613465081226,
@@ -17162,7 +17162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - St. Bernard": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 804.3349420032173,
@@ -17172,7 +17172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - St. Charles": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1374.764595103578,
@@ -17182,7 +17182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - St. Helena": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 394.78878799842084,
@@ -17192,7 +17192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - St. James": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1990.8987485779294,
@@ -17202,7 +17202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - St. John the Baptist": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 2707.9393981838134,
@@ -17212,7 +17212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - St. Landry": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 2277.044469339048,
@@ -17222,7 +17222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - St. Martin": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1459.8266923695983,
@@ -17232,7 +17232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - St. Mary": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 2006.1603307124908,
@@ -17242,7 +17242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - St. Tammany": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1228.788990050649,
@@ -17252,7 +17252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Tangipahoa": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1157.6307158016593,
@@ -17262,7 +17262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Tensas": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 692.201199815413,
@@ -17272,7 +17272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Terrebonne": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1303.6275246467078,
@@ -17282,7 +17282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Union": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 2849.64718653881,
@@ -17292,7 +17292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Vermilion": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1377.8965233318208,
@@ -17302,7 +17302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Vernon": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1496.9744249298953,
@@ -17312,7 +17312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Washington": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1775.1223102567433,
@@ -17322,7 +17322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Webster": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1643.1924882629107,
@@ -17332,7 +17332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - West Baton Rouge": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1775.930474211222,
@@ -17342,7 +17342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - West Carroll": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 2493.0747922437677,
@@ -17352,7 +17352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - West Feliciana": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 1605.858170606372,
@@ -17362,7 +17362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Louisiana - Winn": {
-    medianAge: 35,
+    medianAge: 37.2,
     dataPoints: [
       {
         allDeathPerMillion: 2085.730724971231,
@@ -17372,7 +17372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maine - Androscoggin": {
-    medianAge: 35,
+    medianAge: 44.9,
     dataPoints: [
       {
         allDeathPerMillion: 387.8940125788487,
@@ -17382,7 +17382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maine - Aroostook": {
-    medianAge: 35,
+    medianAge: 44.9,
     dataPoints: [
       {
         allDeathPerMillion: 44.739393035567815,
@@ -17392,7 +17392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maine - Cumberland": {
-    medianAge: 35,
+    medianAge: 44.9,
     dataPoints: [
       {
         allDeathPerMillion: 281.35307098571883,
@@ -17402,7 +17402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maine - Franklin": {
-    medianAge: 35,
+    medianAge: 44.9,
     dataPoints: [
       {
         allDeathPerMillion: 165.56839630451339,
@@ -17412,7 +17412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maine - Hancock": {
-    medianAge: 35,
+    medianAge: 44.9,
     dataPoints: [
       {
         allDeathPerMillion: 181.861167184971,
@@ -17422,7 +17422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maine - Kennebec": {
-    medianAge: 35,
+    medianAge: 44.9,
     dataPoints: [
       {
         allDeathPerMillion: 220.76499157822442,
@@ -17432,7 +17432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maine - Knox": {
-    medianAge: 35,
+    medianAge: 44.9,
     dataPoints: [
       {
         allDeathPerMillion: 100.57326762546515,
@@ -17442,7 +17442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maine - Lincoln": {
-    medianAge: 35,
+    medianAge: 44.9,
     dataPoints: [
       {
         allDeathPerMillion: 57.746722873476934,
@@ -17452,7 +17452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maine - Oxford": {
-    medianAge: 35,
+    medianAge: 44.9,
     dataPoints: [
       {
         allDeathPerMillion: 206.98576972833123,
@@ -17462,7 +17462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maine - Penobscot": {
-    medianAge: 35,
+    medianAge: 44.9,
     dataPoints: [
       {
         allDeathPerMillion: 105.16076451875804,
@@ -17472,7 +17472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maine - Piscataquis": {
-    medianAge: 35,
+    medianAge: 44.9,
     dataPoints: [
       {
         allDeathPerMillion: 59.57700327673518,
@@ -17482,7 +17482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maine - Somerset": {
-    medianAge: 35,
+    medianAge: 44.9,
     dataPoints: [
       {
         allDeathPerMillion: 396.1651216226923,
@@ -17492,7 +17492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maine - Waldo": {
-    medianAge: 35,
+    medianAge: 44.9,
     dataPoints: [
       {
         allDeathPerMillion: 428.0498552184314,
@@ -17502,7 +17502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maine - Washington": {
-    medianAge: 35,
+    medianAge: 44.9,
     dataPoints: [
       {
         allDeathPerMillion: 63.73689410115044,
@@ -17512,7 +17512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maine - York": {
-    medianAge: 35,
+    medianAge: 44.9,
     dataPoints: [
       {
         allDeathPerMillion: 231.16821822279803,
@@ -17522,7 +17522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Allegany": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1988.1845035219274,
@@ -17532,7 +17532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Anne Arundel": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 567.9915198348162,
@@ -17542,7 +17542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Baltimore": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1047.898763551978,
@@ -17552,7 +17552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Baltimore City": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1118.8057086050314,
@@ -17562,7 +17562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Calvert": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 486.3550391786004,
@@ -17572,7 +17572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Caroline": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 299.34742261869127,
@@ -17582,7 +17582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Carroll": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 926.1073215907677,
@@ -17592,7 +17592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Cecil": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 631.9576102279908,
@@ -17602,7 +17602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Charles": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 716.6614601517851,
@@ -17612,7 +17612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Dorchester": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 532.4313320179147,
@@ -17622,7 +17622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Frederick": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 654.9873433328067,
@@ -17632,7 +17632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Garrett": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1171.8480733439028,
@@ -17642,7 +17642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Harford": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 520.6681777788218,
@@ -17652,7 +17652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Howard": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 521.9687432834904,
@@ -17662,7 +17662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Kent": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1338.6880856760372,
@@ -17672,7 +17672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Montgomery": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1008.8627642078333,
@@ -17682,7 +17682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Prince George's": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1139.3041227193298,
@@ -17692,7 +17692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Queen Anne's": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 535.916317659435,
@@ -17702,7 +17702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Somerset": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 624.6096189881323,
@@ -17712,7 +17712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - St. Mary's": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 713.5935159897806,
@@ -17722,7 +17722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Talbot": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 188.26820150076654,
@@ -17732,7 +17732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Washington": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 781.2034505359188,
@@ -17742,7 +17742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Wicomico": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 694.9203254543523,
@@ -17752,7 +17752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Maryland - Worcester": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 803.4279592929834,
@@ -17762,7 +17762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Massachusetts - Barnstable": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1018.8271749847409,
@@ -17772,7 +17772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Massachusetts - Berkshire": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 952.4266871558458,
@@ -17782,7 +17782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Massachusetts - Bristol": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1760.3858341132698,
@@ -17792,7 +17792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Massachusetts - Dukes and Nantucket": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 69.61122132887822,
@@ -17802,7 +17802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Massachusetts - Essex": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 2010.0527987387106,
@@ -17812,7 +17812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Massachusetts - Franklin": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1196.9222000569962,
@@ -17822,7 +17822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Massachusetts - Hampden": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 2150.6436921599065,
@@ -17832,7 +17832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Massachusetts - Hampshire": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1125.4119256357646,
@@ -17842,7 +17842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Massachusetts - Middlesex": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1611.3430609561713,
@@ -17852,7 +17852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Massachusetts - Norfolk": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1764.3521629938805,
@@ -17862,7 +17862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Massachusetts - Plymouth": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1839.9775902625083,
@@ -17872,7 +17872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Massachusetts - Suffolk": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1635.7613505044735,
@@ -17882,7 +17882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Massachusetts - Worcester": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1692.7073927731267,
@@ -17892,7 +17892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Alcona": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1249.3993272465161,
@@ -17902,7 +17902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Alger": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 219.58717610891526,
@@ -17912,7 +17912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Allegan": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 465.7819632286312,
@@ -17922,7 +17922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Alpena": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 809.7165991902834,
@@ -17932,7 +17932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Antrim": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 342.9943405933802,
@@ -17942,7 +17942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Arenac": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1545.3873546999937,
@@ -17952,7 +17952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Baraga": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 3410.890486051895,
@@ -17962,7 +17962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Barry": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 454.9147034930951,
@@ -17972,7 +17972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Bay": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1590.2876093322732,
@@ -17982,7 +17982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Benzie": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1069.458516267027,
@@ -17992,7 +17992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Berrien": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1082.1311464723174,
@@ -18002,7 +18002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Branch": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1309.8329388514833,
@@ -18012,7 +18012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Calhoun": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1259.6993120103757,
@@ -18022,7 +18022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Cass": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 753.0847509992855,
@@ -18032,7 +18032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Charlevoix": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 344.26041387751985,
@@ -18042,7 +18042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Cheboygan": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1147.333438835259,
@@ -18052,7 +18052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Chippewa": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 321.2937428043589,
@@ -18062,7 +18062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Clare": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 969.3053311793217,
@@ -18072,7 +18072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Clinton": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 414.59890696651803,
@@ -18082,7 +18082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Crawford": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 427.6855085893506,
@@ -18092,7 +18092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Delta": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 2040.0178850883074,
@@ -18102,7 +18102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Dickinson": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 2535.758152066247,
@@ -18112,7 +18112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Eaton": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 716.4363187869552,
@@ -18122,7 +18122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Emmet": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 987.5804279515188,
@@ -18132,7 +18132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Federal Correctional Institution (FCI)": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 0,
@@ -18142,7 +18142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Genesee": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1325.7337739303573,
@@ -18152,7 +18152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Gladwin": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 903.7683209556367,
@@ -18162,7 +18162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Gogebic": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 2289.8032200357775,
@@ -18172,7 +18172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Grand Traverse": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 418.9584049501546,
@@ -18182,7 +18182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Gratiot": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1424.67637739186,
@@ -18192,7 +18192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Hillsdale": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1096.371011950444,
@@ -18202,7 +18202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Houghton": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 728.6178679520233,
@@ -18212,7 +18212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Huron": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1129.7246699590073,
@@ -18222,7 +18222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Ingham": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 567.7038090873649,
@@ -18232,7 +18232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Ionia": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 587.3533548696231,
@@ -18242,7 +18242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Iosco": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1711.3065626616788,
@@ -18252,7 +18252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Iron": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 3343.5749141514543,
@@ -18262,7 +18262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Isabella": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 515.2278452026562,
@@ -18272,7 +18272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Jackson": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 883.2250331209384,
@@ -18282,7 +18282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Kalamazoo": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 833.7546120588834,
@@ -18292,7 +18292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Kalkaska": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 554.3851868278081,
@@ -18302,7 +18302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Kent": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 765.6536596874977,
@@ -18312,7 +18312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Keweenaw": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 945.179584120983,
@@ -18322,7 +18322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Lake": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 674.9346157091034,
@@ -18332,7 +18332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Lapeer": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 981.6567169290126,
@@ -18342,7 +18342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Leelanau": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 229.76885253435046,
@@ -18352,7 +18352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Lenawee": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 548.4962062345736,
@@ -18362,7 +18362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Livingston": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 333.34201411495087,
@@ -18372,7 +18372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Mackinac": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 185.2023335494027,
@@ -18382,7 +18382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Macomb": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1733.4651453364638,
@@ -18392,7 +18392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Manistee": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 570.0789966609658,
@@ -18402,7 +18402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Marquette": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 734.6436978065639,
@@ -18412,7 +18412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Mason": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 514.6856986000549,
@@ -18422,7 +18422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Mecosta": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 276.16044922099735,
@@ -18432,7 +18432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Menominee": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1009.6575943810362,
@@ -18442,7 +18442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Michigan Department of Corrections (MDOC)": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 0,
@@ -18452,7 +18452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Midland": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 432.9212564336909,
@@ -18462,7 +18462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Missaukee": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 529.1705252017464,
@@ -18472,7 +18472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Monroe": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 863.7873754152822,
@@ -18482,7 +18482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Montcalm": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 876.5339343851742,
@@ -18492,7 +18492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Montmorency": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 857.6329331046313,
@@ -18502,7 +18502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Muskegon": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1382.7592961755183,
@@ -18512,7 +18512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Newaygo": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 571.6619028174765,
@@ -18522,7 +18522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Oakland": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1226.955813687197,
@@ -18532,7 +18532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Oceana": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1284.6185816299544,
@@ -18542,7 +18542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Ogemaw": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1238.2721341143977,
@@ -18552,7 +18552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Ontonagon": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 2622.377622377622,
@@ -18562,7 +18562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Osceola": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 596.760443307758,
@@ -18572,7 +18572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Oscoda": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1698.8229583788375,
@@ -18582,7 +18582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Otsego": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 810.7669855683476,
@@ -18592,7 +18592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Ottawa": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 825.8232532638866,
@@ -18602,7 +18602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Out of MI": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 0,
@@ -18612,7 +18612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Presque Isle": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 397.07750952986015,
@@ -18622,7 +18622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Roscommon": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1082.4763728714768,
@@ -18632,7 +18632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Saginaw": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1821.1494759603017,
@@ -18642,7 +18642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Sanilac": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1287.3451542385233,
@@ -18652,7 +18652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Schoolcraft": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 494.1932295527552,
@@ -18662,7 +18662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Shiawassee": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 807.3750036698864,
@@ -18672,7 +18672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - St. Clair": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 842.0893871600222,
@@ -18682,7 +18682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - St. Joseph": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 787.3499114231349,
@@ -18692,7 +18692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Tuscola": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 1550.3875968992247,
@@ -18702,7 +18702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Van Buren": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 964.625976188274,
@@ -18712,7 +18712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Washtenaw": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 470.61895914320144,
@@ -18722,7 +18722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Wayne": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 2009.3257868811315,
@@ -18732,7 +18732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Michigan - Wexford": {
-    medianAge: 35,
+    medianAge: 39.8,
     dataPoints: [
       {
         allDeathPerMillion: 475.75153875888316,
@@ -18742,7 +18742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Aitkin": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1951.403751731084,
@@ -18752,7 +18752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Anoka": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 815.3064683781566,
@@ -18762,7 +18762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Becker": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 900.5606716439587,
@@ -18772,7 +18772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Beltrami": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 699.3303382215819,
@@ -18782,7 +18782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Benton": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1760.8647802587493,
@@ -18792,7 +18792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Big Stone": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 601.0819475055101,
@@ -18802,7 +18802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Blue Earth": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 354.7514522637577,
@@ -18812,7 +18812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Brown": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1039.6673064619322,
@@ -18822,7 +18822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Carlton": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 919.9632014719413,
@@ -18832,7 +18832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Carver": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 275.9565701453054,
@@ -18842,7 +18842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Cass": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 570.8720910708889,
@@ -18852,7 +18852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Chippewa": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1610.169491525424,
@@ -18862,7 +18862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Chisago": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 441.86005408367066,
@@ -18872,7 +18872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Clay": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1136.6821338482139,
@@ -18882,7 +18882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Clearwater": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1360.8528010886823,
@@ -18892,7 +18892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Cottonwood": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 982.4937477670595,
@@ -18902,7 +18902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Crow Wing": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 783.9520405810466,
@@ -18912,7 +18912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Dakota": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 594.376499052494,
@@ -18922,7 +18922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Dodge": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 143.30753797649754,
@@ -18932,7 +18932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Douglas": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1442.017776146404,
@@ -18942,7 +18942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Faribault": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 585.9518054640006,
@@ -18952,7 +18952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Freeborn": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 561.4081437204848,
@@ -18962,7 +18962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Goodhue": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 798.4462667242123,
@@ -18972,7 +18972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Grant": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1172.136637642331,
@@ -18982,7 +18982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Hennepin": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1037.2534350626418,
@@ -18992,7 +18992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Houston": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 483.87096774193554,
@@ -19002,7 +19002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Hubbard": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1582.0576055092827,
@@ -19012,7 +19012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Isanti": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 665.0901566656813,
@@ -19022,7 +19022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Itasca": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 686.9044981165523,
@@ -19032,7 +19032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Jackson": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 507.8204346942921,
@@ -19042,7 +19042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Kanabec": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1101.7934749341985,
@@ -19052,7 +19052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Kandiyohi": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1273.1776198523112,
@@ -19062,7 +19062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Kittson": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 3955.3280595625874,
@@ -19072,7 +19072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Koochiching": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 654.1826805135333,
@@ -19082,7 +19082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Lac qui Parle": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1962.8567114600633,
@@ -19092,7 +19092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Lake": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1315.6658208814958,
@@ -19102,7 +19102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Lake of the Woods": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 267.3796791443851,
@@ -19112,7 +19112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Le Sueur": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 484.64707307785505,
@@ -19122,7 +19122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Lincoln": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 177.33640716439086,
@@ -19132,7 +19132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Lyon": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1020.648504357384,
@@ -19142,7 +19142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Mahnomen": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1085.5798805862132,
@@ -19152,7 +19152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Marshall": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1178.2347900599827,
@@ -19162,7 +19162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Martin": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1168.5210587816898,
@@ -19172,7 +19172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - McLeod": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 947.2599114033378,
@@ -19182,7 +19182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Meeker": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1291.878391180777,
@@ -19192,7 +19192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Mille Lacs": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1598.3559767096701,
@@ -19202,7 +19202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Morrison": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1138.2016414065777,
@@ -19212,7 +19212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Mower": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 574.1101292995857,
@@ -19222,7 +19222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Murray": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 610.20258725897,
@@ -19232,7 +19232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Nicollet": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 875.2990605123416,
@@ -19242,7 +19242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Nobles": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1988.0715705765413,
@@ -19252,7 +19252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Norman": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1254.9019607843138,
@@ -19262,7 +19262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Olmsted": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 309.5525386466868,
@@ -19272,7 +19272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Otter Tail": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 731.9647295134989,
@@ -19282,7 +19282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Pennington": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 849.9185494723423,
@@ -19292,7 +19292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Pine": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 371.8854592785422,
@@ -19302,7 +19302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Pipestone": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1972.386587771203,
@@ -19312,7 +19312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Polk": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1466.6496620329042,
@@ -19322,7 +19322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Pope": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 266.6903724775536,
@@ -19332,7 +19332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Ramsey": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1146.6035277592534,
@@ -19342,7 +19342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Red Lake": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 739.8273736128236,
@@ -19352,7 +19352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Redwood": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1713.909030982202,
@@ -19362,7 +19362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Renville": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 2543.304921638713,
@@ -19372,7 +19372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Rice": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 701.7858209400944,
@@ -19382,7 +19382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Rock": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1073.5373054213633,
@@ -19392,7 +19392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Roseau": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 857.2370590174744,
@@ -19402,7 +19402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Scott": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 489.8901438129559,
@@ -19412,7 +19412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Sherburne": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 545.0544025998066,
@@ -19422,7 +19422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Sibley": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 269.08846283215604,
@@ -19432,7 +19432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - St. Louis": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 899.1811925453359,
@@ -19442,7 +19442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Stearns": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 987.1178022660254,
@@ -19452,7 +19452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Steele": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 245.57286692679205,
@@ -19462,7 +19462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Stevens": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 611.9326874043855,
@@ -19472,7 +19472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Swift": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1510.9000647528596,
@@ -19482,7 +19482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Todd": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 932.5332468374961,
@@ -19492,7 +19492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Traverse": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 613.6851795029149,
@@ -19502,7 +19502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Wabasha": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 92.47699634715865,
@@ -19512,7 +19512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Wadena": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 730.8872971787749,
@@ -19522,7 +19522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Waseca": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 644.7453255963896,
@@ -19532,7 +19532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Washington": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 647.7671086724584,
@@ -19542,7 +19542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Watonwan": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 458.84188308708826,
@@ -19552,7 +19552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Wilkin": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 966.6505558240694,
@@ -19562,7 +19562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Winona": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 831.9467554076539,
@@ -19572,7 +19572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Wright": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 541.9975863040823,
@@ -19582,7 +19582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Minnesota - Yellow Medicine": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1441.9610670511895,
@@ -19592,7 +19592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Adams": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1726.778092724726,
@@ -19602,7 +19602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Alcorn": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1028.3332882309962,
@@ -19612,7 +19612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Amite": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1626.4129462470523,
@@ -19622,7 +19622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Attala": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2366.0173874766147,
@@ -19632,7 +19632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Benton": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2421.60067804819,
@@ -19642,7 +19642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Bolivar": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 3003.787384092987,
@@ -19652,7 +19652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Calhoun": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1114.1285425806,
@@ -19662,7 +19662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Carroll": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1709.058007439429,
@@ -19672,7 +19672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Chickasaw": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2046.424603870666,
@@ -19682,7 +19682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Choctaw": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1218.026796589525,
@@ -19692,7 +19692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Claiborne": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2002.6702269692926,
@@ -19702,7 +19702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Clarke": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 3539.0258027153977,
@@ -19712,7 +19712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Clay": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1553.116587285152,
@@ -19722,7 +19722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Coahoma": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2169.5895859699867,
@@ -19732,7 +19732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Copiah": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1496.5259219668624,
@@ -19742,7 +19742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Covington": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 3380.553766902769,
@@ -19752,7 +19752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - DeSoto": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 692.097650652897,
@@ -19762,7 +19762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Forrest": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1241.7052752446693,
@@ -19772,7 +19772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Franklin": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 777.9074290159472,
@@ -19782,7 +19782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - George": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1346.9387755102043,
@@ -19792,7 +19792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Greene": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1840.129545119976,
@@ -19802,7 +19802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Grenada": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2601.406686578668,
@@ -19812,7 +19812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Hancock": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1049.714477662076,
@@ -19822,7 +19822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Harrison": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 648.7889273356402,
@@ -19832,7 +19832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Hinds": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1017.9434092477571,
@@ -19842,7 +19842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Holmes": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 3703.7037037037035,
@@ -19852,7 +19852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Humphreys": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2728.1746031746034,
@@ -19862,7 +19862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Issaquena": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 3014.3180105501124,
@@ -19872,7 +19872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Itawamba": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1966.652415562206,
@@ -19882,7 +19882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Jackson": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1023.5557071934379,
@@ -19892,7 +19892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Jasper": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1464.9331624244642,
@@ -19902,7 +19902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Jefferson": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1859.7997138769672,
@@ -19912,7 +19912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Jefferson Davis": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1976.9949676491735,
@@ -19922,7 +19922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Jones": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1365.6788745631297,
@@ -19932,7 +19932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Kemper": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1950.31820981318,
@@ -19942,7 +19942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Lafayette": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1295.840352468576,
@@ -19952,7 +19952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Lamar": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 852.5014603034274,
@@ -19962,7 +19962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Lauderdale": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2212.47892074199,
@@ -19972,7 +19972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Lawrence": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1271.2537740346418,
@@ -19982,7 +19982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Leake": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2018.783463530238,
@@ -19992,7 +19992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Lee": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1275.8087925464677,
@@ -20002,7 +20002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Leflore": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 3477.2735336905225,
@@ -20012,7 +20012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Lincoln": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2137.4403419904547,
@@ -20022,7 +20022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Lowndes": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1314.105299086953,
@@ -20032,7 +20032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Madison": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1185.6368563685637,
@@ -20042,7 +20042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Marion": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2360.3141659545026,
@@ -20052,7 +20052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Marshall": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1671.672238907463,
@@ -20062,7 +20062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Monroe": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2354.4763417678428,
@@ -20072,7 +20072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Montgomery": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 3069.053708439897,
@@ -20082,7 +20082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Neshoba": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 4567.621402568858,
@@ -20092,7 +20092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Newton": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1522.504519935294,
@@ -20102,7 +20102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Noxubee": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1727.9447057694156,
@@ -20112,7 +20112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Oktibbeha": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1351.1605864440278,
@@ -20122,7 +20122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Panola": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1959.522695367337,
@@ -20132,7 +20132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Pearl River": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1386.5130098136312,
@@ -20142,7 +20142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Perry": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2505.6376847907795,
@@ -20152,7 +20152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Pike": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1654.4491956831605,
@@ -20162,7 +20162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Pontotoc": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1087.8348977435196,
@@ -20172,7 +20172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Prentiss": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1591.9764387487066,
@@ -20182,7 +20182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Quitman": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1030.6242638398114,
@@ -20192,7 +20192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Rankin": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 920.970432340875,
@@ -20202,7 +20202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Scott": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1280.0455127293417,
@@ -20212,7 +20212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Sharkey": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 3934.274473501504,
@@ -20222,7 +20222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Simpson": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2138.1949133468374,
@@ -20232,7 +20232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Smith": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1068.1075647147522,
@@ -20242,7 +20242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Stone": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 981.6753926701574,
@@ -20252,7 +20252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Sunflower": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2270.011947431302,
@@ -20262,7 +20262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Tallahatchie": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2100.0796581939317,
@@ -20272,7 +20272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Tate": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1906.712333604039,
@@ -20282,7 +20282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Tippah": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1726.0958437429026,
@@ -20292,7 +20292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Tishomingo": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2579.5800443687763,
@@ -20302,7 +20302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Tunica": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1972.5913621262455,
@@ -20312,7 +20312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Union": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 937.0119729307653,
@@ -20322,7 +20322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Walthall": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2239.955200895982,
@@ -20332,7 +20332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Warren": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1520.4601044489984,
@@ -20342,7 +20342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Washington": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2527.955544421417,
@@ -20352,7 +20352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Wayne": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1238.6662042312837,
@@ -20362,7 +20362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Webster": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1754.5670347817113,
@@ -20372,7 +20372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Wilkinson": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2549.2468134414835,
@@ -20382,7 +20382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Winston": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2450.5708716235035,
@@ -20392,7 +20392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Yalobusha": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 2477.700693756194,
@@ -20402,7 +20402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Mississippi - Yazoo": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1684.068710003368,
@@ -20412,7 +20412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Adair": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 157.83451051572425,
@@ -20422,7 +20422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Andrew": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 733.9656729900632,
@@ -20432,7 +20432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Atchison": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 777.7561734396267,
@@ -20442,7 +20442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Audrain": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 905.9398140853947,
@@ -20452,7 +20452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Barry": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 977.9541199809997,
@@ -20462,7 +20462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Barton": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 595.5419431682831,
@@ -20472,7 +20472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Bates": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 618.3527083848628,
@@ -20482,7 +20482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Benton": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 771.4858818083632,
@@ -20492,7 +20492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Bollinger": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 906.6183136899366,
@@ -20502,7 +20502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Boone": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 199.4868754259876,
@@ -20512,7 +20512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Buchanan": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 984.3871617599929,
@@ -20522,7 +20522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Butler": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 282.4991760440699,
@@ -20532,7 +20532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Caldwell": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 332.59423503325945,
@@ -20542,7 +20542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Callaway": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 379.94770131640706,
@@ -20552,7 +20552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Camden": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1252.5645178706402,
@@ -20562,7 +20562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Cape Girardeau": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1153.7827591890557,
@@ -20572,7 +20572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Carroll": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1036.9858278603522,
@@ -20582,7 +20582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Carter": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1003.0090270812439,
@@ -20592,7 +20592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Cass": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 434.86481376441674,
@@ -20602,7 +20602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Cedar": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 557.5301414732734,
@@ -20612,7 +20612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Chariton": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 269.323996768112,
@@ -20622,7 +20622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Christian": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 395.0561544105198,
@@ -20632,7 +20632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Clark": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 588.4949242312787,
@@ -20642,7 +20642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Clay": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 348.0723990590043,
@@ -20652,7 +20652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Clinton": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 2452.5432873890227,
@@ -20662,7 +20662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Cole": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1003.3226920320537,
@@ -20672,7 +20672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Cooper": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 959.9638601840873,
@@ -20682,7 +20682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Crawford": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 627.0903010033444,
@@ -20692,7 +20692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Dade": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1058.0611030287,
@@ -20702,7 +20702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Dallas": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 829.4821661334281,
@@ -20712,7 +20712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Daviess": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1087.2191350567766,
@@ -20722,7 +20722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - DeKalb": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1354.9055551127756,
@@ -20732,7 +20732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Dent": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 385.28221922558276,
@@ -20742,7 +20742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Douglas": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1441.031475161168,
@@ -20752,7 +20752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Dunklin": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 480.58769008959524,
@@ -20762,7 +20762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Franklin": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1019.5542816470612,
@@ -20772,7 +20772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Gasconade": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1971.984224126207,
@@ -20782,7 +20782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Gentry": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 2282.7575711459444,
@@ -20792,7 +20792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Greene": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 812.0483407600499,
@@ -20802,7 +20802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Grundy": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1928.9340101522841,
@@ -20812,7 +20812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Harrison": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 838.1226053639847,
@@ -20822,7 +20822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Henry": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 870.6011730205279,
@@ -20832,7 +20832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Hickory": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 628.6672254819781,
@@ -20842,7 +20842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Holt": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1589.8251192368841,
@@ -20852,7 +20852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Howard": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 199.98000199980007,
@@ -20862,7 +20862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Howell": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 872.4480893386843,
@@ -20872,7 +20872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Iron": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 98.76543209876543,
@@ -20882,7 +20882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Jackson": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 294.44773979354517,
@@ -20892,7 +20892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Jasper": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1195.107477251747,
@@ -20902,7 +20902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Jefferson": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 537.5842474486964,
@@ -20912,7 +20912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Johnson": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 462.4320224926936,
@@ -20922,7 +20922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Kansas City": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 668.7896135132318,
@@ -20932,7 +20932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Knox": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 252.58903763576663,
@@ -20942,7 +20942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Laclede": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1091.7336169974528,
@@ -20952,7 +20952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Lafayette": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1100.6481594716886,
@@ -20962,7 +20962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Lawrence": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1068.961022031026,
@@ -20972,7 +20972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Lewis": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 204.58265139116202,
@@ -20982,7 +20982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Lincoln": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 288.07211970243844,
@@ -20992,7 +20992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Linn": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 922.8187919463085,
@@ -21002,7 +21002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Livingston": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1247.7835423918043,
@@ -21012,7 +21012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Macon": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 330.7534563736191,
@@ -21022,7 +21022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Madison": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 827.2667107875578,
@@ -21032,7 +21032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Maries": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 689.8930665746809,
@@ -21042,7 +21042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Marion": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 806.1689449702067,
@@ -21052,7 +21052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - McDonald": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 788.1945964881553,
@@ -21062,7 +21062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Mercer": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 276.47221454243845,
@@ -21072,7 +21072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Miller": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1639.4082516882002,
@@ -21082,7 +21082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Mississippi": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 758.7253414264037,
@@ -21092,7 +21092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Moniteau": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 991.8175055789734,
@@ -21102,7 +21102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Monroe": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 578.4359093012494,
@@ -21112,7 +21112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Montgomery": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 519.4355467059129,
@@ -21122,7 +21122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Morgan": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 775.6823580743686,
@@ -21132,7 +21132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - New Madrid": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1522.6048254860623,
@@ -21142,7 +21142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Newton": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 686.86036128855,
@@ -21152,7 +21152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Nodaway": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 662.7370564167894,
@@ -21162,7 +21162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Oregon": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 284.9273435274005,
@@ -21172,7 +21172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Osage": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 440.6904149834741,
@@ -21182,7 +21182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Ozark": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 436.01482450403313,
@@ -21192,7 +21192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Pemiscot": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1265.4223347042073,
@@ -21202,7 +21202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Perry": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 783.8628762541805,
@@ -21212,7 +21212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Pettis": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1180.9442830487258,
@@ -21222,7 +21222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Phelps": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1705.0680905480897,
@@ -21232,7 +21232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Pike": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 601.0272101409682,
@@ -21242,7 +21242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Platte": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 181.96096458465013,
@@ -21252,7 +21252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Polk": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 497.6826650906716,
@@ -21262,7 +21262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Pulaski": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 494.2308057863022,
@@ -21272,7 +21272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Putnam": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 212.94718909710394,
@@ -21282,7 +21282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Ralls": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 388.0104762828596,
@@ -21292,7 +21292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Randolph": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 606.1095846128981,
@@ -21302,7 +21302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Ray": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 304.10982709184105,
@@ -21312,7 +21312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Reynolds": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 318.9792663476875,
@@ -21322,7 +21322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Ripley": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 602.0469596628537,
@@ -21332,7 +21332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Saline": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 702.9568120908572,
@@ -21342,7 +21342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Schuyler": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 214.59227467811155,
@@ -21352,7 +21352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Scotland": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 611.9951040391677,
@@ -21362,7 +21362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Scott": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1384.5350052246606,
@@ -21372,7 +21372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Shannon": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1102.1307861866278,
@@ -21382,7 +21382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Shelby": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 168.63406408094437,
@@ -21392,7 +21392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - St. Charles": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 649.2182019889459,
@@ -21402,7 +21402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - St. Clair": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 425.66776630839615,
@@ -21412,7 +21412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - St. Francois": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 862.9026259019564,
@@ -21422,7 +21422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - St. Louis": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1288.466664319733,
@@ -21432,7 +21432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - St. Louis City": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 938.1986585755348,
@@ -21442,7 +21442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Ste. Genevieve": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 111.76930814798258,
@@ -21452,7 +21452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Stoddard": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1068.0447889750214,
@@ -21462,7 +21462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Stone": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 719.8297446169254,
@@ -21472,7 +21472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Sullivan": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1478.0752176055184,
@@ -21482,7 +21482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Taney": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 840.3661850951224,
@@ -21492,7 +21492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Texas": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 511.8513268761319,
@@ -21502,7 +21502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Vernon": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 632.2034722559937,
@@ -21512,7 +21512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Warren": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 224.4102218856069,
@@ -21522,7 +21522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Washington": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1374.8483623129807,
@@ -21532,7 +21532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Wayne": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 310.72788005903834,
@@ -21542,7 +21542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Webster": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 884.016973125884,
@@ -21552,7 +21552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Worth": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 496.7709885742673,
@@ -21562,7 +21562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Missouri - Wright": {
-    medianAge: 35,
+    medianAge: 38.7,
     dataPoints: [
       {
         allDeathPerMillion: 1038.875826999836,
@@ -21572,7 +21572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Beaverhead": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 846.2921823759654,
@@ -21582,7 +21582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Big Horn": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 4279.600570613409,
@@ -21592,7 +21592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Blaine": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 3143.242029636282,
@@ -21602,7 +21602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Broadwater": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 320.666987333654,
@@ -21612,7 +21612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Carbon": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 652.6806526806527,
@@ -21622,7 +21622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Carter": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 3194.8881789137376,
@@ -21632,7 +21632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Cascade": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 1032.3722439348132,
@@ -21642,7 +21642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Chouteau": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 532.3868677905946,
@@ -21652,7 +21652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Custer": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 701.6312927556569,
@@ -21662,7 +21662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Daniels": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 2958.5798816568044,
@@ -21672,7 +21672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Dawson": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 2554.278416347381,
@@ -21682,7 +21682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Deer Lodge": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 1094.0919037199121,
@@ -21692,7 +21692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Fallon": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 351.37034434293747,
@@ -21702,7 +21702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Fergus": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 1176.4705882352944,
@@ -21712,7 +21712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Flathead": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 491.30108086237794,
@@ -21722,7 +21722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Gallatin": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 262.15984759774193,
@@ -21732,7 +21732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Garfield": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 1589.825119236884,
@@ -21742,7 +21742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Glacier": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 1599.6509852395839,
@@ -21752,7 +21752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Granite": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 591.8910920390648,
@@ -21762,7 +21762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Hill": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 1941.276389225916,
@@ -21772,7 +21772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Jefferson": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 245.47909336388184,
@@ -21782,7 +21782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Lake": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 525.313546523081,
@@ -21792,7 +21792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Lewis and Clark": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 446.48000921765185,
@@ -21802,7 +21802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Liberty": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 427.8990158322637,
@@ -21812,7 +21812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Lincoln": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 500.5005005005005,
@@ -21822,7 +21822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Madison": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 348.83720930232556,
@@ -21832,7 +21832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Meagher": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 3759.3984962406016,
@@ -21842,7 +21842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Missoula": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 384.61538461538447,
@@ -21852,7 +21852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Musselshell": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 1510.9000647528596,
@@ -21862,7 +21862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Park": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 240.876791521137,
@@ -21872,7 +21872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Petroleum": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 2053.388090349076,
@@ -21882,7 +21882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Phillips": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 2529.084471421346,
@@ -21892,7 +21892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Pondera": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 507.5283369988158,
@@ -21902,7 +21902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Powder River": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 2972.651605231867,
@@ -21912,7 +21912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Powell": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 725.6894049346878,
@@ -21922,7 +21922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Prairie": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 1857.0102135561744,
@@ -21932,7 +21932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Ravalli": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 388.0746929644341,
@@ -21942,7 +21942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Richland": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 833.1019161344072,
@@ -21952,7 +21952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Roosevelt": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 3816.793893129771,
@@ -21962,7 +21962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Rosebud": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 3021.1480362537764,
@@ -21972,7 +21972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Sanders": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 247.66779493106583,
@@ -21982,7 +21982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Sheridan": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 1208.8244182532485,
@@ -21992,7 +21992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Silver Bow": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 973.7934984963482,
@@ -22002,7 +22002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Stillwater": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 829.7033810412777,
@@ -22012,7 +22012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Sweet Grass": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 1337.971635001338,
@@ -22022,7 +22022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Teton": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 488.0429477794046,
@@ -22032,7 +22032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Toole": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 1689.1891891891892,
@@ -22042,7 +22042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Treasure": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 1436.7816091954023,
@@ -22052,7 +22052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Valley": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 946.4575446187129,
@@ -22062,7 +22062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Wheatland": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 2822.2013170272817,
@@ -22072,7 +22072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Wibaux": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 4127.966976264191,
@@ -22082,7 +22082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Montana - Yellowstone": {
-    medianAge: 35,
+    medianAge: 39.9,
     dataPoints: [
       {
         allDeathPerMillion: 923.7445753254805,
@@ -22092,7 +22092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Adams": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 860.8870324905142,
@@ -22102,7 +22102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Antelope": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 476.3416957764369,
@@ -22112,7 +22112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Boone": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 577.8120184899847,
@@ -22122,7 +22122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Box Butte": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 741.9085597700085,
@@ -22132,7 +22132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Boyd": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1042.2094841063054,
@@ -22142,7 +22142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Brown": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 338.409475465313,
@@ -22152,7 +22152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Buffalo": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 946.4548218852574,
@@ -22162,7 +22162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Burt": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1238.5818238117354,
@@ -22172,7 +22172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Butler": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1122.754491017964,
@@ -22182,7 +22182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Cass": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 342.88326729655597,
@@ -22192,7 +22192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Cedar": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 952.1542489883361,
@@ -22202,7 +22202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Chase": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 764.525993883792,
@@ -22212,7 +22212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Cherry": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 703.1112673580594,
@@ -22222,7 +22222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Cheyenne": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1010.1010101010099,
@@ -22232,7 +22232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Clay": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 644.8492664839594,
@@ -22242,7 +22242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Colfax": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1587.449808572229,
@@ -22252,7 +22252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Cuming": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1017.4089984173636,
@@ -22262,7 +22262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Custer": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1299.0628189663169,
@@ -22272,7 +22272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Dakota": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 2546.6893039049237,
@@ -22282,7 +22282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Dawes": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 2095.7038071952497,
@@ -22292,7 +22292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Dawson": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1017.1646535282898,
@@ -22302,7 +22302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Dixon": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1064.58481192335,
@@ -22312,7 +22312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Dodge": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1093.9422945439628,
@@ -22322,7 +22322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Douglas": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 815.6449808953541,
@@ -22332,7 +22332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Dundy": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 2362.6698168930893,
@@ -22342,7 +22342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Fillmore": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1098.4987184181616,
@@ -22352,7 +22352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Franklin": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 671.3662302786171,
@@ -22362,7 +22362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Frontier": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 380.6623524933384,
@@ -22372,7 +22372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Furnas": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 855.4319931565441,
@@ -22382,7 +22382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Gage": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 464.8352159159577,
@@ -22392,7 +22392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Garfield": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 2031.4880650076177,
@@ -22402,7 +22402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Gosper": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 502.51256281407035,
@@ -22412,7 +22412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Grant": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 3210.272873194221,
@@ -22422,7 +22422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Hall": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1450.621811484361,
@@ -22432,7 +22432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Hamilton": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1394.2513942513938,
@@ -22442,7 +22442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Hitchcock": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 724.112961622013,
@@ -22452,7 +22452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Holt": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 993.3445912387008,
@@ -22462,7 +22462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Hooker": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1466.2756598240471,
@@ -22472,7 +22472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Howard": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1241.2723041117144,
@@ -22482,7 +22482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Johnson": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 788.7990534411357,
@@ -22492,7 +22492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Kearney": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 615.8583525789069,
@@ -22502,7 +22502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Keith": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 248.94199651481208,
@@ -22512,7 +22512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Kimball": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1101.3215859030836,
@@ -22522,7 +22522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Knox": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 360.0576092174747,
@@ -22532,7 +22532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Lancaster": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 363.5337992415934,
@@ -22542,7 +22542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Lincoln": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 773.3287506444406,
@@ -22552,7 +22552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Madison": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1025.6702470155844,
@@ -22562,7 +22562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Merrick": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1289.4906511927788,
@@ -22572,7 +22572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Morrill": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1723.3950883239982,
@@ -22582,7 +22582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Nance": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1705.029838022166,
@@ -22592,7 +22592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Nemaha": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1004.0160642570281,
@@ -22602,7 +22602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Nuckolls": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 241.08003857280625,
@@ -22612,7 +22612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Otoe": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 124.90632025980516,
@@ -22622,7 +22622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Pawnee": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 382.7018752391886,
@@ -22632,7 +22632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Perkins": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 3804.911795226565,
@@ -22642,7 +22642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Phelps": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 774.8505645339827,
@@ -22652,7 +22652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Pierce": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 2518.1869054280924,
@@ -22662,7 +22662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Platte": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1165.222587391694,
@@ -22672,7 +22672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Polk": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1726.4530980241707,
@@ -22682,7 +22682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Red Willow": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 466.24393882879514,
@@ -22692,7 +22692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Richardson": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1525.7469802924347,
@@ -22702,7 +22702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Rock": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1473.8393515106854,
@@ -22712,7 +22712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Saline": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 210.9111361079865,
@@ -22722,7 +22722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Sarpy": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 357.9136306331332,
@@ -22732,7 +22732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Saunders": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 463.43498007229584,
@@ -22742,7 +22742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Scotts Bluff": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1179.1790667639962,
@@ -22752,7 +22752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Seward": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1099.2825734783614,
@@ -22762,7 +22762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Sheridan": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1715.592832634388,
@@ -22772,7 +22772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Sherman": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1332.8890369876706,
@@ -22782,7 +22782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Stanton": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1182.4324324324325,
@@ -22792,7 +22792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Thayer": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 399.76014391365175,
@@ -22802,7 +22802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Thurston": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 1245.8471760797347,
@@ -22812,7 +22812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Valley": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 721.5007215007215,
@@ -22822,7 +22822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Washington": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 675.3823146316754,
@@ -22832,7 +22832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Wayne": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 639.3180607352157,
@@ -22842,7 +22842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - Webster": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 860.3383997705764,
@@ -22852,7 +22852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nebraska - York": {
-    medianAge: 35,
+    medianAge: 36.6,
     dataPoints: [
       {
         allDeathPerMillion: 438.6285547189122,
@@ -22862,7 +22862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nevada - Carson City": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 769.0106588454111,
@@ -22872,7 +22872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nevada - Churchill": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1204.3839576056846,
@@ -22882,7 +22882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nevada - Clark": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 953.8031909613692,
@@ -22892,7 +22892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nevada - Douglas": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 245.37368367242615,
@@ -22902,7 +22902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nevada - Elko": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 606.3132365758458,
@@ -22912,7 +22912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nevada - Humboldt": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 415.8992335571268,
@@ -22922,7 +22922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nevada - Lander": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 723.065798987708,
@@ -22932,7 +22932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nevada - Lincoln": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 192.93845263360987,
@@ -22942,7 +22942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nevada - Lyon": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 591.2015301686665,
@@ -22952,7 +22952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nevada - Mineral": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 887.9023307436183,
@@ -22962,7 +22962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nevada - Nye": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 795.3055477935644,
@@ -22972,7 +22972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nevada - Pershing": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 148.6988847583643,
@@ -22982,7 +22982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nevada - Storey": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 485.0836769342712,
@@ -22992,7 +22992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nevada - Washoe": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 863.1677620626103,
@@ -23002,7 +23002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Nevada - White Pine": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 313.1524008350731,
@@ -23012,7 +23012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Hampshire - Belknap": {
-    medianAge: 35,
+    medianAge: 43,
     dataPoints: [
       {
         allDeathPerMillion: 668.8090305531541,
@@ -23022,7 +23022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Hampshire - Carroll": {
-    medianAge: 35,
+    medianAge: 43,
     dataPoints: [
       {
         allDeathPerMillion: 61.33714986710283,
@@ -23032,7 +23032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Hampshire - Cheshire": {
-    medianAge: 35,
+    medianAge: 43,
     dataPoints: [
       {
         allDeathPerMillion: 78.85917066438851,
@@ -23042,7 +23042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Hampshire - Coos": {
-    medianAge: 35,
+    medianAge: 43,
     dataPoints: [
       {
         allDeathPerMillion: 475.23999619808,
@@ -23052,7 +23052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Hampshire - Grafton": {
-    medianAge: 35,
+    medianAge: 43,
     dataPoints: [
       {
         allDeathPerMillion: 89.00162427964311,
@@ -23062,7 +23062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Hampshire - Hillsborough": {
-    medianAge: 35,
+    medianAge: 43,
     dataPoints: [
       {
         allDeathPerMillion: 925.6039805767041,
@@ -23072,7 +23072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Hampshire - Merrimack": {
-    medianAge: 35,
+    medianAge: 43,
     dataPoints: [
       {
         allDeathPerMillion: 310.45438632415403,
@@ -23082,7 +23082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Hampshire - Rockingham": {
-    medianAge: 35,
+    medianAge: 43,
     dataPoints: [
       {
         allDeathPerMillion: 403.5264987781217,
@@ -23092,7 +23092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Hampshire - Strafford": {
-    medianAge: 35,
+    medianAge: 43,
     dataPoints: [
       {
         allDeathPerMillion: 153.10067134644385,
@@ -23102,7 +23102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Hampshire - Sullivan": {
-    medianAge: 35,
+    medianAge: 43,
     dataPoints: [
       {
         allDeathPerMillion: 115.8855977379131,
@@ -23112,7 +23112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Atlantic": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 1262.942314256457,
@@ -23122,7 +23122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Bergen": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 2409.3490466658513,
@@ -23132,7 +23132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Burlington": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 1324.8036932832454,
@@ -23142,7 +23142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Camden": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 1494.6561599775703,
@@ -23152,7 +23152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Cape May": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 1379.8498462608243,
@@ -23162,7 +23162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Cumberland": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 1350.926588509099,
@@ -23172,7 +23172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Essex": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 2917.488031540411,
@@ -23182,7 +23182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Gloucester": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 1189.839388827168,
@@ -23192,7 +23192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Hudson": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 2468.8016347631074,
@@ -23202,7 +23202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Hunterdon": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 1077.4215854178226,
@@ -23212,7 +23212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Mercer": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 1905.1247856734617,
@@ -23222,7 +23222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Middlesex": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 1930.763991069762,
@@ -23232,7 +23232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Monmouth": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 1557.8664985980818,
@@ -23242,7 +23242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Morris": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 1888.8064329209406,
@@ -23252,7 +23252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Ocean": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 2065.2650094040378,
@@ -23262,7 +23262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Passaic": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 2773.8698273903706,
@@ -23272,7 +23272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Salem": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 1667.067404023403,
@@ -23282,7 +23282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Somerset": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 1954.7994430493654,
@@ -23292,7 +23292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Sussex": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 1466.317407892489,
@@ -23302,7 +23302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Union": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 2703.377964234166,
@@ -23312,7 +23312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Jersey - Warren": {
-    medianAge: 35,
+    medianAge: 40,
     dataPoints: [
       {
         allDeathPerMillion: 1690.9382807527525,
@@ -23322,7 +23322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Bernalillo": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 697.961040815996,
@@ -23332,7 +23332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Catron": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 850.5812305075134,
@@ -23342,7 +23342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Chaves": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1222.6263251566972,
@@ -23352,7 +23352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Cibola": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 2286.7853795688848,
@@ -23362,7 +23362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Colfax": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 921.1958797420651,
@@ -23372,7 +23372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Curry": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 796.6662581198676,
@@ -23382,7 +23382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Dona Ana": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1187.0116180480766,
@@ -23392,7 +23392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Eddy": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1043.448511802942,
@@ -23402,7 +23402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Grant": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 333.358026520483,
@@ -23412,7 +23412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Guadalupe": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 697.6744186046511,
@@ -23422,7 +23422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Hidalgo": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1429.2520247737016,
@@ -23432,7 +23432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Lea": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1055.297593921486,
@@ -23442,7 +23442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Lincoln": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 510.933987328837,
@@ -23452,7 +23452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Luna": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1602.7668817748531,
@@ -23462,7 +23462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - McKinley": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 4525.901326943826,
@@ -23472,7 +23472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Otero": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 518.5953474588828,
@@ -23482,7 +23482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Quay": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 727.0083605961469,
@@ -23492,7 +23492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Rio Arriba": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 899.2574702602709,
@@ -23502,7 +23502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Roosevelt": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1135.1351351351352,
@@ -23512,7 +23512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - San Juan": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 2234.627857822811,
@@ -23522,7 +23522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - San Miguel": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 109.98276936613267,
@@ -23532,7 +23532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Sandoval": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 790.4707389538529,
@@ -23542,7 +23542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Santa Fe": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 405.6983998190984,
@@ -23552,7 +23552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Sierra": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 2502.085070892411,
@@ -23562,7 +23562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Socorro": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 2404.279617719541,
@@ -23572,7 +23572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Taos": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1130.703175136754,
@@ -23582,7 +23582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Torrance": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 194.036608240088,
@@ -23592,7 +23592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Union": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 1724.5627001724563,
@@ -23602,7 +23602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New Mexico - Valencia": {
-    medianAge: 35,
+    medianAge: 38.1,
     dataPoints: [
       {
         allDeathPerMillion: 678.0721886083871,
@@ -23612,7 +23612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Albany": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 589.1864644229573,
@@ -23622,7 +23622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Allegany": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 1475.3422577075785,
@@ -23632,7 +23632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Bronx": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 3577.7569846996944,
@@ -23642,7 +23642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Broome": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 976.4394607534332,
@@ -23652,7 +23652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Cattaraugus": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 433.5430981252545,
@@ -23662,7 +23662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Cayuga": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 182.82490597576262,
@@ -23672,7 +23672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Chautauqua": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 102.44044664034733,
@@ -23682,7 +23682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Chemung": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 994.5360429447851,
@@ -23692,7 +23692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Chenango": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 317.74948630499716,
@@ -23702,7 +23702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Clinton": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 62.123377026775174,
@@ -23712,7 +23712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Columbia": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 992.2470190545062,
@@ -23722,7 +23722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Cortland": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 399.3190559256846,
@@ -23732,7 +23732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Delaware": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 158.60428231562256,
@@ -23742,7 +23742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Dutchess": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 730.7506678721221,
@@ -23752,7 +23752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Erie": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 1150.5363001277892,
@@ -23762,7 +23762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Essex": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 433.7806696489088,
@@ -23772,7 +23772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Franklin": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 179.92083483267365,
@@ -23782,7 +23782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Fulton": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 543.2441039282168,
@@ -23792,7 +23792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Genesee": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 523.7430167597765,
@@ -23802,7 +23802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Greene": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 381.4529117572264,
@@ -23812,7 +23812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Hamilton": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 226.44927536231884,
@@ -23822,7 +23822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Herkimer": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 293.54686149480585,
@@ -23832,7 +23832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Jefferson": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 54.6278930021669,
@@ -23842,7 +23842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Kings": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 2974.3314492775703,
@@ -23852,7 +23852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Lewis": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 418.31457255856407,
@@ -23862,7 +23862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Livingston": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 333.78898178465835,
@@ -23872,7 +23872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Madison": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 563.8488321281064,
@@ -23882,7 +23882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Monroe": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 567.5613734715612,
@@ -23892,7 +23892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Montgomery": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 589.1794152902216,
@@ -23902,7 +23902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Nassau": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 1713.4342085481574,
@@ -23912,7 +23912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - New York": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 2006.5008663319222,
@@ -23922,7 +23922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Niagara": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 745.40928225687,
@@ -23932,7 +23932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Oneida": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 922.723038776233,
@@ -23942,7 +23942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Onondaga": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 705.7117048257653,
@@ -23952,7 +23952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Ontario": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 419.03130892627786,
@@ -23962,7 +23962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Orange": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 1485.9458616927316,
@@ -23972,7 +23972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Orleans": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 1462.1332275971452,
@@ -23982,7 +23982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Oswego": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 196.37307469007203,
@@ -23992,7 +23992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Otsego": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 134.46960146571865,
@@ -24002,7 +24002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Putnam": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 671.2774613506917,
@@ -24012,7 +24012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Queens": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 3309.4365306066306,
@@ -24022,7 +24022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Rensselaer": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 441.04489837065415,
@@ -24032,7 +24032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Richmond": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 2566.4558756508027,
@@ -24042,7 +24042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Rockland": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 2268.3393239182415,
@@ -24052,7 +24052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Saratoga": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 121.81168783144743,
@@ -24062,7 +24062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Schenectady": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 457.1825961532271,
@@ -24072,7 +24072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Schoharie": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 96.77731539727087,
@@ -24082,7 +24082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Schuyler": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 449.261526366036,
@@ -24092,7 +24092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Seneca": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 558.5606773283162,
@@ -24102,7 +24102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - St. Lawrence": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 297.0113235567106,
@@ -24112,7 +24112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Steuben": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 1184.747166567064,
@@ -24122,7 +24122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Suffolk": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 1470.9457734350715,
@@ -24132,7 +24132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Sullivan": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 530.2789267154523,
@@ -24142,7 +24142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Tioga": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 1120.2622243428834,
@@ -24152,7 +24152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Tompkins": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 97.86651008025056,
@@ -24162,7 +24162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Ulster": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 737.7247667156607,
@@ -24172,7 +24172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Warren": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 469.16051545101965,
@@ -24182,7 +24182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Washington": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 228.743219397425,
@@ -24192,7 +24192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Wayne": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 322.51607019729084,
@@ -24202,7 +24202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Westchester": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 1659.938026224127,
@@ -24212,7 +24212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Wyoming": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 376.3265510926015,
@@ -24222,7 +24222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - New York - Yates": {
-    medianAge: 35,
+    medianAge: 39,
     dataPoints: [
       {
         allDeathPerMillion: 361.2571749688917,
@@ -24232,7 +24232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Alamance": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 672.5306620887387,
@@ -24242,7 +24242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Alexander": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 693.3888044376883,
@@ -24252,7 +24252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Alleghany": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 179.58157493041216,
@@ -24262,7 +24262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Anson": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 777.2232676102432,
@@ -24272,7 +24272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Ashe": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 624.9310737786274,
@@ -24282,7 +24282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Avery": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 854.3600842968618,
@@ -24292,7 +24292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Beaufort": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1234.2001106524237,
@@ -24302,7 +24302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Bertie": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1425.027708872117,
@@ -24312,7 +24312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Bladen": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 733.4515005195282,
@@ -24322,7 +24322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Brunswick": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 490.1274331326145,
@@ -24332,7 +24332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Buncombe": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 543.6634493531554,
@@ -24342,7 +24342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Burke": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 806.7635519699398,
@@ -24352,7 +24352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Cabarrus": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 572.8726328579414,
@@ -24362,7 +24362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Caldwell": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 328.5550877363771,
@@ -24372,7 +24372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Camden": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 368.0868685009662,
@@ -24382,7 +24382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Carteret": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 230.30529846127274,
@@ -24392,7 +24392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Caswell": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 353.91966023712615,
@@ -24402,7 +24402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Catawba": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 802.2513177604654,
@@ -24412,7 +24412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Chatham": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 872.8346985363236,
@@ -24422,7 +24422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Cherokee": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 524.2555571089054,
@@ -24432,7 +24432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Chowan": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1362.6909560352865,
@@ -24442,7 +24442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Clay": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 445.1963315822277,
@@ -24452,7 +24452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Cleveland": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1337.4580130070344,
@@ -24462,7 +24462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Columbus": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1423.218274843266,
@@ -24472,7 +24472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Craven": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 773.4557808476685,
@@ -24482,7 +24482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Cumberland": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 390.4515229099667,
@@ -24492,7 +24492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Currituck": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 360.19162194287367,
@@ -24502,7 +24502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Dare": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 135.1022724202221,
@@ -24512,7 +24512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Davidson": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 429.57120441026433,
@@ -24522,7 +24522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Davie": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 303.4122205106661,
@@ -24532,7 +24532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Duplin": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1106.5524931478863,
@@ -24542,7 +24542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Durham": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 407.4802169909919,
@@ -24552,7 +24552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Edgecombe": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1534.8150450730495,
@@ -24562,7 +24562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Forsyth": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 523.1562013628219,
@@ -24572,7 +24572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Franklin": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 530.9607519552271,
@@ -24582,7 +24582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Gaston": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 966.467583252052,
@@ -24592,7 +24592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Gates": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1037.8827192527244,
@@ -24602,7 +24602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Graham": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1303.1631323302925,
@@ -24612,7 +24612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Granville": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 992.6707807355689,
@@ -24622,7 +24622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Greene": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1281.5036309269542,
@@ -24632,7 +24632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Guilford": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 545.4470990777661,
@@ -24642,7 +24642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Halifax": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 879.8240351929614,
@@ -24652,7 +24652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Harnett": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 654.5272695181501,
@@ -24662,7 +24662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Haywood": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 898.6311921305584,
@@ -24672,7 +24672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Henderson": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 757.9822342590937,
@@ -24682,7 +24682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Hertford": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1858.343540144444,
@@ -24692,7 +24692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Hoke": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 615.5628779375023,
@@ -24702,7 +24702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Hyde": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1012.7607859023695,
@@ -24712,7 +24712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Iredell": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 352.0235855802339,
@@ -24722,7 +24722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Jackson": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 364.1494833629205,
@@ -24732,7 +24732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Johnston": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 429.9246676443472,
@@ -24742,7 +24742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Jones": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1592.5257458328908,
@@ -24752,7 +24752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Lee": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 615.0957445086518,
@@ -24762,7 +24762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Lenoir": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1108.1520670610735,
@@ -24772,7 +24772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Lincoln": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 232.25836420434098,
@@ -24782,7 +24782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Macon": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 250.99001617491209,
@@ -24792,7 +24792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Madison": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 873.3624454148471,
@@ -24802,7 +24802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Martin": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1069.51871657754,
@@ -24812,7 +24812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - McDowell": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 830.4921758895009,
@@ -24822,7 +24822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Mecklenburg": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 456.6103123682855,
@@ -24832,7 +24832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Mitchell": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 334.1352579524191,
@@ -24842,7 +24842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Montgomery": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1692.8568799911677,
@@ -24852,7 +24852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Moore": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 723.6320380650277,
@@ -24862,7 +24862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Nash": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1230.142738976436,
@@ -24872,7 +24872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - New Hanover": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 302.8067197502485,
@@ -24882,7 +24882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Northampton": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1385.8235384694349,
@@ -24892,7 +24892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Onslow": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 287.96895997736664,
@@ -24902,7 +24902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Orange": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 417.57590452328986,
@@ -24912,7 +24912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Pamlico": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 392.89643250039285,
@@ -24922,7 +24922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Pasquotank": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 954.1984732824428,
@@ -24932,7 +24932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Pender": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 333.0161750713606,
@@ -24942,7 +24942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Perquimans": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 371.3882492757929,
@@ -24952,7 +24952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Person": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 531.7801975183592,
@@ -24962,7 +24962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Pitt": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 381.7596352812296,
@@ -24972,7 +24972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Polk": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 627.2920285659139,
@@ -24982,7 +24982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Randolph": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 758.6989357333279,
@@ -24992,7 +24992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Richmond": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 981.5075063017243,
@@ -25002,7 +25002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Robeson": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 888.0382775119618,
@@ -25012,7 +25012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Rockingham": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 274.69508845181855,
@@ -25022,7 +25022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Rowan": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1097.9111536512585,
@@ -25032,7 +25032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Rutherford": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1402.3780751614972,
@@ -25042,7 +25042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Sampson": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 897.1997922274164,
@@ -25052,7 +25052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Scotland": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1464.5492921345092,
@@ -25062,7 +25062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Stanly": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1241.9195618253036,
@@ -25072,7 +25072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Stokes": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 504.4855344256541,
@@ -25082,7 +25082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Surry": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 738.336374907708,
@@ -25092,7 +25092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Swain": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 420.4330460374186,
@@ -25102,7 +25102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Transylvania": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 290.82448742184096,
@@ -25112,7 +25112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Tyrrell": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 747.0119521912351,
@@ -25122,7 +25122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Union": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 371.0513259873509,
@@ -25132,7 +25132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Vance": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1481.980464802964,
@@ -25142,7 +25142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Wake": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 303.1227035307049,
@@ -25152,7 +25152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Warren": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 456.1350159647256,
@@ -25162,7 +25162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Washington": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 863.5578583765111,
@@ -25172,7 +25172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Watauga": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 249.2123110881678,
@@ -25182,7 +25182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Wayne": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1096.3932722060244,
@@ -25192,7 +25192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Wilkes": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 979.3603461381047,
@@ -25202,7 +25202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Wilson": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 1222.4789428002102,
@@ -25212,7 +25212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Yadkin": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 637.1625029866992,
@@ -25222,7 +25222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Carolina - Yancey": {
-    medianAge: 35,
+    medianAge: 38.9,
     dataPoints: [
       {
         allDeathPerMillion: 332.06043499916984,
@@ -25232,7 +25232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Adams": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 902.5270758122743,
@@ -25242,7 +25242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Barnes": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 2208.353336533846,
@@ -25252,7 +25252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Benson": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 2341.9203747072597,
@@ -25262,7 +25262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Bottineau": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 3024.5144858325375,
@@ -25272,7 +25272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Bowman": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 1322.751322751323,
@@ -25282,7 +25282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Burke": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 472.81323877068564,
@@ -25292,7 +25292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Burleigh": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 1673.1851170183843,
@@ -25302,7 +25302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Cass": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 879.4929723014685,
@@ -25312,7 +25312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Cavalier": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 1063.264221158958,
@@ -25322,7 +25322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Dickey": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 6568.14449917898,
@@ -25332,7 +25332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Divide": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 883.39222614841,
@@ -25342,7 +25342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Dunn": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 1582.2784810126582,
@@ -25352,7 +25352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Eddy": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 2623.5242675994755,
@@ -25362,7 +25362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Emmons": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 3085.4674483184194,
@@ -25372,7 +25372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Foster": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 5919.003115264798,
@@ -25382,7 +25382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Grand Forks": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 878.3170868669997,
@@ -25392,7 +25392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Grant": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 3078.2761653474054,
@@ -25402,7 +25402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Griggs": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 896.4589870013446,
@@ -25412,7 +25412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Hettinger": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 1200.4801920768307,
@@ -25422,7 +25422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Kidder": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 3225.8064516129025,
@@ -25432,7 +25432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - LaMoure": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 8.846807574194303,
@@ -25442,7 +25442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Logan": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 3783.783783783784,
@@ -25452,7 +25452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - McHenry": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 3307.22367275892,
@@ -25462,7 +25462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - McIntosh": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 2803.364036844213,
@@ -25472,7 +25472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - McKenzie": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 665.6017039403623,
@@ -25482,7 +25482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - McLean": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 2433.8624338624336,
@@ -25492,7 +25492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Mercer": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 1099.3037742762915,
@@ -25502,7 +25502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Morton": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 2678.2298176253025,
@@ -25512,7 +25512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Mountrail": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 1422.475106685633,
@@ -25522,7 +25522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Nelson": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 3473.428273706148,
@@ -25532,7 +25532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Oliver": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 1020.9290454313426,
@@ -25542,7 +25542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Pembina": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 1323.334803705338,
@@ -25552,7 +25552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Pierce": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 5283.018867924528,
@@ -25562,7 +25562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Ramsey": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 1389.009462626964,
@@ -25572,7 +25572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Ransom": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 2108.0873898045224,
@@ -25582,7 +25582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Renville": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 5156.854318865491,
@@ -25592,7 +25592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Richland": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 927.2423811584348,
@@ -25602,7 +25602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Rolette": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 1410.8352144469527,
@@ -25612,7 +25612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Sargent": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 1282.7090815802978,
@@ -25622,7 +25622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Sheridan": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 1520.9125475285173,
@@ -25632,7 +25632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Sioux": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 2364.066193853427,
@@ -25642,7 +25642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Stark": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 1429.070469052685,
@@ -25652,7 +25652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Steele": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 529.1005291005291,
@@ -25662,7 +25662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Stutsman": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 3380.9891808346215,
@@ -25672,7 +25672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Towner": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 4568.296025582458,
@@ -25682,7 +25682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Traill": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 2115.4803384768543,
@@ -25692,7 +25692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Walsh": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 1973.4987313222439,
@@ -25702,7 +25702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Ward": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 2439.3489155985267,
@@ -25712,7 +25712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Wells": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 1564.9452269170579,
@@ -25722,7 +25722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - North Dakota - Williams": {
-    medianAge: 35,
+    medianAge: 35.2,
     dataPoints: [
       {
         allDeathPerMillion: 718.2952459496129,
@@ -25732,7 +25732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Northern Mariana Islands": {
-    medianAge: 35,
+    medianAge: 33.6,
     dataPoints: [
       {
         allDeathPerMillion: 36.26867836936022,
@@ -25742,7 +25742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Adams": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 505.45165715936173,
@@ -25752,7 +25752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Allen": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1025.8815253392734,
@@ -25762,7 +25762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Ashland": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 673.0984967466907,
@@ -25772,7 +25772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Ashtabula": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 668.4423237111915,
@@ -25782,7 +25782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Athens": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 91.84563809757068,
@@ -25792,7 +25792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Auglaize": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1073.2433853162781,
@@ -25802,7 +25802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Belmont": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 477.5691729098887,
@@ -25812,7 +25812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Brown": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 230.24498065942163,
@@ -25822,7 +25822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Butler": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 467.1994654611703,
@@ -25832,7 +25832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Carroll": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 445.86460578137775,
@@ -25842,7 +25842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Champaign": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 514.3371480005143,
@@ -25852,7 +25852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Clark": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1282.787527128719,
@@ -25862,7 +25862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Clermont": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 314.8797643730502,
@@ -25872,7 +25872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Clinton": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 857.796416317194,
@@ -25882,7 +25882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Columbiana": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1138.5608982852882,
@@ -25892,7 +25892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Coshocton": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 409.8360655737705,
@@ -25902,7 +25902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Crawford": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 795.2957054031907,
@@ -25912,7 +25912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Cuyahoga": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 676.0739454865792,
@@ -25922,7 +25922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Darke": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1447.77258231761,
@@ -25932,7 +25932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Defiance": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1654.1077007902957,
@@ -25942,7 +25942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Delaware": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 262.93521754303777,
@@ -25952,7 +25952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Erie": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1225.3251824522663,
@@ -25962,7 +25962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Fairfield": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 444.23572416769275,
@@ -25972,7 +25972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Fayette": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 911.4811568799299,
@@ -25982,7 +25982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Franklin": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 526.2934059157506,
@@ -25992,7 +25992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Fulton": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 878.3174286663818,
@@ -26002,7 +26002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Gallia": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 602.0469596628536,
@@ -26012,7 +26012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Geauga": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 544.5867014063151,
@@ -26022,7 +26022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Greene": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 603.7753718841933,
@@ -26032,7 +26032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Guernsey": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 411.5755627009646,
@@ -26042,7 +26042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Hamilton": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 495.42920683618894,
@@ -26052,7 +26052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Hancock": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 910.4944380665848,
@@ -26062,7 +26062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Hardin": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 956.4801530368246,
@@ -26072,7 +26072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Harrison": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 199.46808510638303,
@@ -26082,7 +26082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Henry": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1296.0082944530845,
@@ -26092,7 +26092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Highland": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 417.0431639674706,
@@ -26102,7 +26102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Hocking": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 778.3753184262666,
@@ -26112,7 +26112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Holmes": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1137.3976342129208,
@@ -26122,7 +26122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Huron": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 635.0187073078639,
@@ -26132,7 +26132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Jackson": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 617.0363742942646,
@@ -26142,7 +26142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Jefferson": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 642.9391504018371,
@@ -26152,7 +26152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Knox": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 353.0053592631815,
@@ -26162,7 +26162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Lake": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 425.8111049798174,
@@ -26172,7 +26172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Lawrence": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 756.7731194187984,
@@ -26182,7 +26182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Licking": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 582.3749590075879,
@@ -26192,7 +26192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Logan": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 459.8003152916449,
@@ -26202,7 +26202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Lorain": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 461.538958083871,
@@ -26212,7 +26212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Lucas": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1176.6134077899278,
@@ -26222,7 +26222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Madison": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 469.4730723659207,
@@ -26232,7 +26232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Mahoning": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1359.9611689544042,
@@ -26242,7 +26242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Marion": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1428.7250549214202,
@@ -26252,7 +26252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Medina": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 506.26995871952647,
@@ -26262,7 +26262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Meigs": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 611.166892216353,
@@ -26272,7 +26272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Mercer": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1845.9146993102108,
@@ -26282,7 +26282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Miami": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 654.2851000588856,
@@ -26292,7 +26292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Monroe": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1757.7266735022704,
@@ -26302,7 +26302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Montgomery": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 613.1426948561841,
@@ -26312,7 +26312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Morgan": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1654.259718775848,
@@ -26322,7 +26322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Morrow": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 56.61231884057971,
@@ -26332,7 +26332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Muskingum": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 255.17601345473525,
@@ -26342,7 +26342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Noble": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 2079.866888519135,
@@ -26352,7 +26352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Ottawa": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 814.3121529919803,
@@ -26362,7 +26362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Paulding": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 964.0102827763495,
@@ -26372,7 +26372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Perry": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 415.1214922233907,
@@ -26382,7 +26382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Pickaway": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 855.3295584788818,
@@ -26392,7 +26392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Pike": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 180.03744778914012,
@@ -26402,7 +26402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Portage": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 547.8069257567737,
@@ -26412,7 +26412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Preble": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 709.3586419451102,
@@ -26422,7 +26422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Putnam": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1831.0150320427626,
@@ -26432,7 +26432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Richland": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 486.98350859237013,
@@ -26442,7 +26442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Ross": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 991.3129679388514,
@@ -26452,7 +26452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Sandusky": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 803.171673673058,
@@ -26462,7 +26462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Scioto": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 464.7210346018004,
@@ -26472,7 +26472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Seneca": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 525.5717858566819,
@@ -26482,7 +26482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Shelby": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 370.44659394937236,
@@ -26492,7 +26492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Stark": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 696.1571048498945,
@@ -26502,7 +26502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Summit": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 905.7083656030447,
@@ -26512,7 +26512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Trumbull": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1161.768717104266,
@@ -26522,7 +26522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Tuscarawas": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1206.692249991847,
@@ -26532,7 +26532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Union": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 305.1468095205804,
@@ -26542,7 +26542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Van Wert": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1273.2095490716179,
@@ -26552,7 +26552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Vinton": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 534.9636988918611,
@@ -26562,7 +26562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Warren": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 447.56651690948934,
@@ -26572,7 +26572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Washington": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 534.1256196691761,
@@ -26582,7 +26582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Wayne": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1149.4252873563219,
@@ -26592,7 +26592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Williams": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 953.886405756023,
@@ -26602,7 +26602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Wood": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1016.6874335904354,
@@ -26612,7 +26612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Ohio - Wyandot": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1240.1249311041704,
@@ -26622,7 +26622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Adair": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 585.7438947463278,
@@ -26632,7 +26632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Alfalfa": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 526.1311820413889,
@@ -26642,7 +26642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Atoka": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 218.05494984736154,
@@ -26652,7 +26652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Beaver": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 376.5769158350593,
@@ -26662,7 +26662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Beckham": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 914.9549384692804,
@@ -26672,7 +26672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Blaine": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 318.16735602927145,
@@ -26682,7 +26682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Bryan": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 562.5585998541515,
@@ -26692,7 +26692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Caddo": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 1355.9557749808775,
@@ -26702,7 +26702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Canadian": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 303.4266988523728,
@@ -26712,7 +26712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Carter": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 332.5642784394421,
@@ -26722,7 +26722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Cherokee": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 308.2804118626303,
@@ -26732,7 +26732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Choctaw": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 408.9422028353326,
@@ -26742,7 +26742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Cimarron": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 467.9457182966777,
@@ -26752,7 +26752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Cleveland": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 499.9753533276529,
@@ -26762,7 +26762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Coal": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 727.9344858962693,
@@ -26772,7 +26772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Comanche": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 414.08210419962074,
@@ -26782,7 +26782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Cotton": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 1588.4221673138013,
@@ -26792,7 +26792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Craig": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 353.5567812190638,
@@ -26802,7 +26802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Creek": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 796.9575794860324,
@@ -26812,7 +26812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Custer": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 930.9381788090884,
@@ -26822,7 +26822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Delaware": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 999.790741472715,
@@ -26832,7 +26832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Dewey": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 613.3714986710283,
@@ -26842,7 +26842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Garfield": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 671.514675052411,
@@ -26852,7 +26852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Garvin": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 649.5615459564792,
@@ -26862,7 +26862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Grady": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 608.9479528602643,
@@ -26872,7 +26872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Grant": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 1153.934918070621,
@@ -26882,7 +26882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Greer": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 1575.6302521008404,
@@ -26892,7 +26892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Harper": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 813.4490238611714,
@@ -26902,7 +26902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Haskell": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 554.3676249307041,
@@ -26912,7 +26912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Hughes": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 602.4550041418782,
@@ -26922,7 +26922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Jackson": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 1426.8242967794536,
@@ -26932,7 +26932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Jefferson": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 333.22225924691764,
@@ -26942,7 +26942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Johnston": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 451.05999097880016,
@@ -26952,7 +26952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Kay": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 643.1163581239379,
@@ -26962,7 +26962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Kingfisher": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 507.453219156359,
@@ -26972,7 +26972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Kiowa": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 1148.3693155718877,
@@ -26982,7 +26982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Latimer": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 397.10116152089745,
@@ -26992,7 +26992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Le Flore": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 561.6512546887851,
@@ -27002,7 +27002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Lincoln": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 860.1657252630674,
@@ -27012,7 +27012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Logan": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 124.97136072983277,
@@ -27022,7 +27022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Love": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 97.53242953281966,
@@ -27032,7 +27032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Major": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 524.3151133831433,
@@ -27042,7 +27042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Marshall": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 236.2530269919084,
@@ -27052,7 +27052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Mayes": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 535.2798053527981,
@@ -27062,7 +27062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - McClain": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 518.8516084399861,
@@ -27072,7 +27072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - McCurtain": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 1522.9044834307995,
@@ -27082,7 +27082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - McIntosh": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 714.4315166360482,
@@ -27092,7 +27092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Murray": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 426.3483265828181,
@@ -27102,7 +27102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Muskogee": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 705.9134961836552,
@@ -27112,7 +27112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Noble": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 449.195939268709,
@@ -27122,7 +27122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Nowata": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 793.9658594680429,
@@ -27132,7 +27132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Okfuskee": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 1250.7295922621527,
@@ -27142,7 +27142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Oklahoma": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 499.10086602778404,
@@ -27152,7 +27152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Okmulgee": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 649.9415052645262,
@@ -27162,7 +27162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Osage": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 511.04060643485315,
@@ -27172,7 +27172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Ottawa": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 803.1612426510746,
@@ -27182,7 +27182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Pawnee": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 549.5847581827063,
@@ -27192,7 +27192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Payne": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 305.68326322997166,
@@ -27202,7 +27202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Pittsburg": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 526.8703898840886,
@@ -27212,7 +27212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Pontotoc": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 444.0497335701599,
@@ -27222,7 +27222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Pottawatomie": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 358.1661891117479,
@@ -27232,7 +27232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Pushmataha": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 540.7354001441961,
@@ -27242,7 +27242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Roger Mills": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 1674.5743790120016,
@@ -27252,7 +27252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Rogers": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 865.2483803631881,
@@ -27262,7 +27262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Seminole": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 618.3527083848628,
@@ -27272,7 +27272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Sequoyah": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 384.90221078207315,
@@ -27282,7 +27282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Stephens": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 463.5746239250863,
@@ -27292,7 +27292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Texas": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 750.6380423359856,
@@ -27302,7 +27302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Tillman": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 1103.448275862069,
@@ -27312,7 +27312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Tulsa": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 537.1789204852414,
@@ -27322,7 +27322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Wagoner": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 516.6750728880907,
@@ -27332,7 +27332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Washington": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 1028.5869544122497,
@@ -27342,7 +27342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Washita": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 274.82594356907293,
@@ -27352,7 +27352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Woods": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 454.9073126350507,
@@ -27362,7 +27362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oklahoma - Woodward": {
-    medianAge: 35,
+    medianAge: 36.7,
     dataPoints: [
       {
         allDeathPerMillion: 494.7800702587699,
@@ -27372,7 +27372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Baker": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 248.0774001488464,
@@ -27382,7 +27382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Benton": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 96.71907407606419,
@@ -27392,7 +27392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Clackamas": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 255.8663946990223,
@@ -27402,7 +27402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Clatsop": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 49.721559268098645,
@@ -27412,7 +27412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Columbia": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 171.906635596134,
@@ -27422,7 +27422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Coos": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 93.04200846682275,
@@ -27432,7 +27432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Crook": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 245.86133420750699,
@@ -27442,7 +27442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Curry": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 87.24100327153762,
@@ -27452,7 +27452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Deschutes": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 96.1090990024887,
@@ -27462,7 +27462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Douglas": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 324.38277167057123,
@@ -27472,7 +27472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Gilliam": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 523.0125523012554,
@@ -27482,7 +27482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Grant": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 138.90818169190163,
@@ -27492,7 +27492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Harney": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 135.26308670363858,
@@ -27502,7 +27502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Hood River": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 342.1435292105038,
@@ -27512,7 +27512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Jackson": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 262.5099572742415,
@@ -27522,7 +27522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Jefferson": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 567.7670532889933,
@@ -27532,7 +27532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Josephine": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 205.7448535210946,
@@ -27542,7 +27542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Klamath": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 205.16427796828748,
@@ -27552,7 +27552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Lake": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 508.32380226204094,
@@ -27562,7 +27562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Lane": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 209.38735876168315,
@@ -27572,7 +27572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Lincoln": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 320.24338497257924,
@@ -27582,7 +27582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Linn": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 238.92284333597945,
@@ -27592,7 +27592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Malheur": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 1602.826207844035,
@@ -27602,7 +27602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Marion": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 560.63803483431,
@@ -27612,7 +27612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Morrow": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 603.2922520037922,
@@ -27622,7 +27622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Multnomah": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 449.03457566232606,
@@ -27632,7 +27632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Polk": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 278.79421502003834,
@@ -27642,7 +27642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Umatilla": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 692.7517639512507,
@@ -27652,7 +27652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Union": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 484.44196012670017,
@@ -27662,7 +27662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Wallowa": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 416.20421753607104,
@@ -27672,7 +27672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Wasco": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 749.5689978262499,
@@ -27682,7 +27682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Washington": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 222.7423237011131,
@@ -27692,7 +27692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Oregon - Yamhill": {
-    medianAge: 35,
+    medianAge: 39.4,
     dataPoints: [
       {
         allDeathPerMillion: 289.44911297852474,
@@ -27702,7 +27702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Adams": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 621.3049345202847,
@@ -27712,7 +27712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Allegheny": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 676.7841650596812,
@@ -27722,7 +27722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Armstrong": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 973.1984243454084,
@@ -27732,7 +27732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Beaver": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1323.7438159203068,
@@ -27742,7 +27742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Bedford": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1649.6825927163384,
@@ -27752,7 +27752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Berks": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1225.1759409636154,
@@ -27762,7 +27762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Blair": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1165.5681323822737,
@@ -27772,7 +27772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Bradford": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 828.8712431410905,
@@ -27782,7 +27782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Bucks": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1330.6381014531967,
@@ -27792,7 +27792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Butler": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 777.2034516350551,
@@ -27802,7 +27802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Cambria": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1520.8307730121667,
@@ -27812,7 +27812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Cameron": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 224.87069934787505,
@@ -27822,7 +27822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Carbon": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1339.9395469134645,
@@ -27832,7 +27832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Centre": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 763.617329186809,
@@ -27842,7 +27842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Chester": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 874.3040330368824,
@@ -27852,7 +27852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Clarion": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 780.477652323222,
@@ -27862,7 +27862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Clearfield": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 403.76001514100057,
@@ -27872,7 +27872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Clinton": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 465.9349761855457,
@@ -27882,7 +27882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Columbia": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 877.4090265377748,
@@ -27892,7 +27892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Crawford": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 720.7931087452292,
@@ -27902,7 +27902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Cumberland": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 994.5928878714924,
@@ -27912,7 +27912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Dauphin": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 980.9593279170965,
@@ -27922,7 +27922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Delaware": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1565.072245640471,
@@ -27932,7 +27932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Elk": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 434.63724506853896,
@@ -27942,7 +27942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Erie": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 600.6050539803059,
@@ -27952,7 +27952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Fayette": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 464.1304515989293,
@@ -27962,7 +27962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Forest": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 275.9762660411205,
@@ -27972,7 +27972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Franklin": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1206.2414934172757,
@@ -27982,7 +27982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Fulton": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 481.76187198898833,
@@ -27992,7 +27992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Greene": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 248.39234951563495,
@@ -28002,7 +28002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Huntingdon": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1683.5016835016838,
@@ -28012,7 +28012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Indiana": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1153.7592330474706,
@@ -28022,7 +28022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Jefferson": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 598.7334484743811,
@@ -28032,7 +28032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Juniata": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1373.0161935145177,
@@ -28042,7 +28042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Lackawanna": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1220.9429876856454,
@@ -28052,7 +28052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Lancaster": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1205.7376989100717,
@@ -28062,7 +28062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Lawrence": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1251.2863691645614,
@@ -28072,7 +28072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Lebanon": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 994.4073402777286,
@@ -28082,7 +28082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Lehigh": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1202.2159764755577,
@@ -28092,7 +28092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Luzerne": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1272.7736699672669,
@@ -28102,7 +28102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Lycoming": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 820.8369005904731,
@@ -28112,7 +28112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - McKean": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 295.38461538461536,
@@ -28122,7 +28122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Mercer": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 950.4313496125166,
@@ -28132,7 +28132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Mifflin": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1994.0179461615157,
@@ -28142,7 +28142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Monroe": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1092.3762707683634,
@@ -28152,7 +28152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Montgomery": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1278.1090725284776,
@@ -28162,7 +28162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Montour": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1042.2380691168403,
@@ -28172,7 +28172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Northampton": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1257.8410337880994,
@@ -28182,7 +28182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Northumberland": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 2157.56855233755,
@@ -28192,7 +28192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Perry": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 518.6721991701245,
@@ -28202,7 +28202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Philadelphia": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1400.1959516787201,
@@ -28212,7 +28212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Pike": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 519.6294504470604,
@@ -28222,7 +28222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Potter": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 605.1071039574006,
@@ -28232,7 +28232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Schuylkill": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1584.6178877892453,
@@ -28242,7 +28242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Snyder": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 817.3981967700387,
@@ -28252,7 +28252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Somerset": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 707.9935191362479,
@@ -28262,7 +28262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Sullivan": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 329.70656116056705,
@@ -28272,7 +28272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Susquehanna": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 917.4766911327117,
@@ -28282,7 +28282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Tioga": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1108.6201374688972,
@@ -28292,7 +28292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Union": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 578.768114328963,
@@ -28302,7 +28302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Venango": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 611.8260045788268,
@@ -28312,7 +28312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Warren": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 382.7409354188462,
@@ -28322,7 +28322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Washington": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 531.7477581997922,
@@ -28332,7 +28332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Wayne": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 292.0503884270166,
@@ -28342,7 +28342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Westmoreland": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 997.423323082038,
@@ -28352,7 +28352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - Wyoming": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 1082.3318653429876,
@@ -28362,7 +28362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Pennsylvania - York": {
-    medianAge: 35,
+    medianAge: 40.8,
     dataPoints: [
       {
         allDeathPerMillion: 759.3673868408979,
@@ -28372,7 +28372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Rhode Island - Bristol": {
-    medianAge: 35,
+    medianAge: 40.1,
     dataPoints: [
       {
         allDeathPerMillion: 1175.7668268734915,
@@ -28382,7 +28382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Rhode Island - Kent": {
-    medianAge: 35,
+    medianAge: 40.1,
     dataPoints: [
       {
         allDeathPerMillion: 998.2226766975873,
@@ -28392,7 +28392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Rhode Island - Newport": {
-    medianAge: 35,
+    medianAge: 40.1,
     dataPoints: [
       {
         allDeathPerMillion: 134.01232913428035,
@@ -28402,7 +28402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Rhode Island - Providence": {
-    medianAge: 35,
+    medianAge: 40.1,
     dataPoints: [
       {
         allDeathPerMillion: 1862.485933535859,
@@ -28412,7 +28412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Rhode Island - Washington": {
-    medianAge: 35,
+    medianAge: 40.1,
     dataPoints: [
       {
         allDeathPerMillion: 812.250650995007,
@@ -28422,7 +28422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Abbeville": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 937.742080156562,
@@ -28432,7 +28432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Aiken": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 696.4277353808701,
@@ -28442,7 +28442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Allendale": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1035.9116022099447,
@@ -28452,7 +28452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Anderson": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1303.3304041311624,
@@ -28462,7 +28462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Bamberg": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 2701.5498364851414,
@@ -28472,7 +28472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Barnwell": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1246.0461995590913,
@@ -28482,7 +28482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Beaufort": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 515.297571334881,
@@ -28492,7 +28492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Berkeley": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 478.2652573198717,
@@ -28502,7 +28502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Calhoun": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1305.5727341441627,
@@ -28512,7 +28512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Charleston": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 760.8056275309548,
@@ -28522,7 +28522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Cherokee": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1308.9005235602092,
@@ -28532,7 +28532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Chester": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1302.567919612951,
@@ -28542,7 +28542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Chesterfield": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1248.630887185104,
@@ -28552,7 +28552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Clarendon": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 2192.9174692547044,
@@ -28562,7 +28562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Colleton": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1406.693738885792,
@@ -28572,7 +28572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Darlington": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1260.9204719445195,
@@ -28582,7 +28582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Dillon": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1771.7116703303916,
@@ -28592,7 +28592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Dorchester": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 743.2021571289055,
@@ -28602,7 +28602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Edgefield": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 953.7784299339693,
@@ -28612,7 +28612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Fairfield": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 2282.1855282588267,
@@ -28622,7 +28622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Florence": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1706.5216605323483,
@@ -28632,7 +28632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Georgetown": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1132.7377153797065,
@@ -28642,7 +28642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Greenville": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 886.2708244992759,
@@ -28652,7 +28652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Greenwood": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1299.2331699877136,
@@ -28662,7 +28662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Hampton": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1820.830298616169,
@@ -28672,7 +28672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Horry": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 833.1426989869551,
@@ -28682,7 +28682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Jasper": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 798.0580587237721,
@@ -28692,7 +28692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Kershaw": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1081.877056693363,
@@ -28702,7 +28702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Lancaster": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 795.8209198873606,
@@ -28712,7 +28712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Laurens": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1081.5936467485517,
@@ -28722,7 +28722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Lee": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 2436.415497979558,
@@ -28732,7 +28732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Lexington": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 846.8619246861925,
@@ -28742,7 +28742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Marion": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1761.4247969468636,
@@ -28752,7 +28752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Marlboro": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 880.6187303775173,
@@ -28762,7 +28762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - McCormick": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 951.0725985416888,
@@ -28772,7 +28772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Newberry": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1821.0197710718005,
@@ -28782,7 +28782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Oconee": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 716.5665149724687,
@@ -28792,7 +28792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Orangeburg": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1671.0182767624021,
@@ -28802,7 +28802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Pickens": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1016.6766495381609,
@@ -28812,7 +28812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Richland": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 767.2714240701945,
@@ -28822,7 +28822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Saluda": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1318.8101401846338,
@@ -28832,7 +28832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Spartanburg": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1078.8498522444768,
@@ -28842,7 +28842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Sumter": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1040.0952015067326,
@@ -28852,7 +28852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Union": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1317.908917850344,
@@ -28862,7 +28862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - Williamsburg": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1844.0463645943098,
@@ -28872,7 +28872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Carolina - York": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 587.2324978023269,
@@ -28882,7 +28882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Aurora": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2908.033442384588,
@@ -28892,7 +28892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Beadle": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1842.5188316262938,
@@ -28902,7 +28902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Bennett": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2377.4145616641904,
@@ -28912,7 +28912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Bon Homme": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 3187.9437762643097,
@@ -28922,7 +28922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Brookings": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 684.2090258573996,
@@ -28932,7 +28932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Brown": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1313.1131079584957,
@@ -28942,7 +28942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Brule": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1132.7166320558808,
@@ -28952,7 +28952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Buffalo": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 5096.839959225282,
@@ -28962,7 +28962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Butte": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1534.1835267043818,
@@ -28972,7 +28972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Campbell": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2180.2325581395353,
@@ -28982,7 +28982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Charles Mix": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1076.1945759793368,
@@ -28992,7 +28992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Clark": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 535.3319057815846,
@@ -29002,7 +29002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Clay": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 781.8052594171995,
@@ -29012,7 +29012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Codington": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2356.385447534721,
@@ -29022,7 +29022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Corson": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1713.1669114047968,
@@ -29032,7 +29032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Custer": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 891.6629514043691,
@@ -29042,7 +29042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Davison": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2629.5828065739574,
@@ -29052,7 +29052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Day": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 3318.58407079646,
@@ -29062,7 +29062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Deuel": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1378.9933348655481,
@@ -29072,7 +29072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Dewey": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1697.2165648336734,
@@ -29082,7 +29082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Douglas": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2396.4395754878465,
@@ -29092,7 +29092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Edmunds": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1044.6591799425437,
@@ -29102,7 +29102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Fall River": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1489.6469536719796,
@@ -29112,7 +29112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Faulk": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 4349.717268377557,
@@ -29122,7 +29122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Grant": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2977.878615995462,
@@ -29132,7 +29132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Gregory": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 5973.715651135006,
@@ -29142,7 +29142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Haakon": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2632.964718272776,
@@ -29152,7 +29152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Hamlin": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 5191.434133679428,
@@ -29162,7 +29162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Hand": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 626.7627702914447,
@@ -29172,7 +29172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Hanson": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 868.8097306689837,
@@ -29182,7 +29182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Hughes": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1426.4521282665753,
@@ -29192,7 +29192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Hutchinson": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1920.1755589082431,
@@ -29202,7 +29202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Jackson": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2392.3444976076557,
@@ -29212,7 +29212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Jerauld": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 7451.56482861401,
@@ -29222,7 +29222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Kingsbury": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2632.1117635148817,
@@ -29232,7 +29232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Lake": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1015.8630929124014,
@@ -29242,7 +29242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Lawrence": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1044.7299179693546,
@@ -29252,7 +29252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Lincoln": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 981.5469179426775,
@@ -29262,7 +29262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Lyman": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2380.3226659613856,
@@ -29272,7 +29272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Marshall": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 810.5369807497466,
@@ -29282,7 +29282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - McCook": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 3759.3984962406016,
@@ -29292,7 +29292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - McPherson": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 420.34468263976447,
@@ -29302,7 +29302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Meade": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 741.2113511224056,
@@ -29312,7 +29312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Mellette": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 970.4027171276078,
@@ -29322,7 +29322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Miner": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2707.581227436823,
@@ -29332,7 +29332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Minnehaha": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1278.904801847422,
@@ -29342,7 +29342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Moody": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2128.9537712895376,
@@ -29352,7 +29352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Oglala Lakota": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2327.7139028003103,
@@ -29362,7 +29362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Pennington": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1081.0810810810813,
@@ -29372,7 +29372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Perkins": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 3141.3612565445023,
@@ -29382,7 +29382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Potter": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 928.9363678588015,
@@ -29392,7 +29392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Roberts": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2501.4431402732343,
@@ -29402,7 +29402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Sanborn": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1279.863481228669,
@@ -29412,7 +29412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Spink": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 3293.6010037641154,
@@ -29422,7 +29422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Stanley": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 645.5777921239509,
@@ -29432,7 +29432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Sully": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2156.721782890007,
@@ -29442,7 +29442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Todd": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1670.4333300579738,
@@ -29452,7 +29452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Tripp": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1837.8974453225512,
@@ -29462,7 +29462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Turner": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 5605.916030534349,
@@ -29472,7 +29472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Union": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1883.0027617373842,
@@ -29482,7 +29482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Walworth": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2575.896964121435,
@@ -29492,7 +29492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Yankton": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 1008.1528885771893,
@@ -29502,7 +29502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - South Dakota - Ziebach": {
-    medianAge: 35,
+    medianAge: 37.1,
     dataPoints: [
       {
         allDeathPerMillion: 2539.9129172714074,
@@ -29512,7 +29512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Anderson": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 623.5547818857335,
@@ -29522,7 +29522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Bedford": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1086.234988835918,
@@ -29532,7 +29532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Benton": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1608.910891089109,
@@ -29542,7 +29542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Bledsoe": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 464.6840148698885,
@@ -29552,7 +29552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Blount": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 646.1889877374368,
@@ -29562,7 +29562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Bradley": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 554.9902876699658,
@@ -29572,7 +29572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Campbell": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 803.1725314994228,
@@ -29582,7 +29582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Cannon": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 545.0333832947267,
@@ -29592,7 +29592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Carroll": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1656.6427773976304,
@@ -29602,7 +29602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Carter": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1347.7327942402158,
@@ -29612,7 +29612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Cheatham": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 467.2092851697936,
@@ -29622,7 +29622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Chester": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1503.1508354049831,
@@ -29632,7 +29632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Claiborne": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 375.48108514033606,
@@ -29642,7 +29642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Clay": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 2757.7150361129347,
@@ -29652,7 +29652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Cocke": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1027.6635929341185,
@@ -29662,7 +29662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Coffee": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 990.7997169143665,
@@ -29672,7 +29672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Crockett": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 2037.9479971890376,
@@ -29682,7 +29682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Cumberland": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 793.126239259749,
@@ -29692,7 +29692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Davidson": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 724.6335054397933,
@@ -29702,7 +29702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - DeKalb": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1317.715959004392,
@@ -29712,7 +29712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Decatur": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1457.6009603018092,
@@ -29722,7 +29722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Dickson": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 945.3547860903093,
@@ -29732,7 +29732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Dyer": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1749.2397534917513,
@@ -29742,7 +29742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Fayette": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1069.7007269102664,
@@ -29752,7 +29752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Fentress": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1457.6472493656534,
@@ -29762,7 +29762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Franklin": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1042.456406368461,
@@ -29772,7 +29772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Gibson": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1648.5864897319518,
@@ -29782,7 +29782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Giles": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1900.624490904154,
@@ -29792,7 +29792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Grainger": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 943.3962264150944,
@@ -29802,7 +29802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Greene": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1187.2185785229262,
@@ -29812,7 +29812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Grundy": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1117.152007149773,
@@ -29822,7 +29822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Hamblen": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1093.4179320540857,
@@ -29832,7 +29832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Hamilton": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 638.9272547334994,
@@ -29842,7 +29842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Hancock": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 604.2296072507554,
@@ -29852,7 +29852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Hardeman": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1596.8063872255489,
@@ -29862,7 +29862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Hardin": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1286.4493996569465,
@@ -29872,7 +29872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Hawkins": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 845.2787658930017,
@@ -29882,7 +29882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Haywood": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1964.8636153490522,
@@ -29892,7 +29892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Henderson": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1422.6268805349077,
@@ -29902,7 +29902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Henry": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 989.3337455557273,
@@ -29912,7 +29912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Hickman": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 992.9303360076259,
@@ -29922,7 +29922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Houston": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 2560.663333739788,
@@ -29932,7 +29932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Humphreys": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 591.9707243569046,
@@ -29942,7 +29942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Jackson": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1527.2357033768878,
@@ -29952,7 +29952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Jefferson": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 990.916597853014,
@@ -29962,7 +29962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Johnson": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1517.8772205981559,
@@ -29972,7 +29972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Knox": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 518.8034351591388,
@@ -29982,7 +29982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Lake": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1710.3762827822122,
@@ -29992,7 +29992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Lauderdale": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1053.329692193657,
@@ -30002,7 +30002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Lawrence": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1178.0164016129763,
@@ -30012,7 +30012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Lewis": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1548.7447016628626,
@@ -30022,7 +30022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Lincoln": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 785.660245591573,
@@ -30032,7 +30032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Loudon": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 536.3616187023747,
@@ -30042,7 +30042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Macon": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1463.2956670189417,
@@ -30052,7 +30052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Madison": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1439.010450685826,
@@ -30062,7 +30062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Marion": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 761.0613346248313,
@@ -30072,7 +30072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Marshall": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 814.5454545454545,
@@ -30082,7 +30082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Maury": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 985.6100926473486,
@@ -30092,7 +30092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - McMinn": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1115.3660259508495,
@@ -30102,7 +30102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - McNairy": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1362.1857242936092,
@@ -30112,7 +30112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Meigs": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1127.0326839478344,
@@ -30122,7 +30122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Monroe": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1095.7138253303253,
@@ -30132,7 +30132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Montgomery": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 507.1940208523729,
@@ -30142,7 +30142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Moore": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 616.5228113440199,
@@ -30152,7 +30152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Morgan": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 513.9466429939729,
@@ -30162,7 +30162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Obion": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 2228.2084538893882,
@@ -30172,7 +30172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Out of TN": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 0,
@@ -30182,7 +30182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Overton": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1753.5182770558874,
@@ -30192,7 +30192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Perry": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 2847.9445269935613,
@@ -30202,7 +30202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Pickett": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 3367.670364500792,
@@ -30212,7 +30212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Polk": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 891.1596958174905,
@@ -30222,7 +30222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Putnam": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1345.8782478659105,
@@ -30232,7 +30232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Rhea": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1326.6198329665028,
@@ -30242,7 +30242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Roane": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 824.2478738151439,
@@ -30252,7 +30252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Robertson": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 960.8288192945566,
@@ -30262,7 +30262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Rutherford": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 644.0254600719261,
@@ -30272,7 +30272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Scott": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 725.031720137756,
@@ -30282,7 +30282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Sequatchie": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 465.8591774257953,
@@ -30292,7 +30292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Sevier": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 590.3307888040712,
@@ -30302,7 +30302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Shelby": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 869.6431582024956,
@@ -30312,7 +30312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Smith": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1141.0428139108,
@@ -30322,7 +30322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Stewart": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1385.3445133065989,
@@ -30332,7 +30332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Sullivan": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1016.747922297724,
@@ -30342,7 +30342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Sumner": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 951.4698117449014,
@@ -30352,7 +30352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Tipton": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 795.4674588873196,
@@ -30362,7 +30362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Trousdale": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1063.4526763559022,
@@ -30372,7 +30372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Unicoi": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 2013.0850528434823,
@@ -30382,7 +30382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Union": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 350.49068696174646,
@@ -30392,7 +30392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Van Buren": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 851.4986376021799,
@@ -30402,7 +30402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Warren": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 702.5704387431258,
@@ -30412,7 +30412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Washington": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1113.0434782608697,
@@ -30422,7 +30422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Wayne": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 959.6353385713427,
@@ -30432,7 +30432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Weakley": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1200.1920307249159,
@@ -30442,7 +30442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - White": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 1316.5112452002195,
@@ -30452,7 +30452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Williamson": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 457.1917520930155,
@@ -30462,7 +30462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Tennessee - Wilson": {
-    medianAge: 35,
+    medianAge: 38.8,
     dataPoints: [
       {
         allDeathPerMillion: 774.2452836710288,
@@ -30472,7 +30472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Anderson": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 987.2694206287347,
@@ -30482,7 +30482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Andrews": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1176.1561079925154,
@@ -30492,7 +30492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Angelina": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1453.0358069538142,
@@ -30502,7 +30502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Aransas": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 935.7720119098253,
@@ -30512,7 +30512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Archer": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 467.67216181456797,
@@ -30522,7 +30522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Armstrong": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2649.7085320614733,
@@ -30532,7 +30532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Atascosa": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1036.107364181964,
@@ -30542,7 +30542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Austin": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 466.1694192860948,
@@ -30552,7 +30552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Bailey": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1571.4285714285716,
@@ -30562,7 +30562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Bandera": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 475.9432329525787,
@@ -30572,7 +30572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Bastrop": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 450.8413827305209,
@@ -30582,7 +30582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Baylor": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1709.8888572242804,
@@ -30592,7 +30592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Bee": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1351.143866113926,
@@ -30602,7 +30602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Bell": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 410.5542758263438,
@@ -30612,7 +30612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Bexar": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 813.5543139840506,
@@ -30622,7 +30622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Blanco": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 586.706897996815,
@@ -30632,7 +30632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Bosque": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 856.3018464008564,
@@ -30642,7 +30642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Bowie": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1265.4834039358682,
@@ -30652,7 +30652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Brazoria": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 598.5080050445675,
@@ -30662,7 +30662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Brazos": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 567.1630070110074,
@@ -30672,7 +30672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Brewster": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 760.6215364555037,
@@ -30682,7 +30682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Briscoe": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1293.6610608020699,
@@ -30692,7 +30692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Brooks": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 3806.5698576060904,
@@ -30702,7 +30702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Brown": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1267.694908092119,
@@ -30712,7 +30712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Burleson": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 704.8744781217806,
@@ -30722,7 +30722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Burnet": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 477.62433807496615,
@@ -30732,7 +30732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Caldwell": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 916.0864785635764,
@@ -30742,7 +30742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Calhoun": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 469.7040864255519,
@@ -30752,7 +30752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Callahan": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 932.3674962346697,
@@ -30762,7 +30762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Cameron": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2736.5341487795486,
@@ -30772,7 +30772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Camp": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1603.7879945012983,
@@ -30782,7 +30782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Carson": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 843.7394532568344,
@@ -30792,7 +30792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Cass": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1432.0921867714649,
@@ -30802,7 +30802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Castro": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1593.6254980079682,
@@ -30812,7 +30812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Chambers": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 250.9295800351302,
@@ -30822,7 +30822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Cherokee": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1310.640884397675,
@@ -30832,7 +30832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Childress": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 821.2428141253764,
@@ -30842,7 +30842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Clay": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 859.5167605768313,
@@ -30852,7 +30852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Cochran": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2103.049421661409,
@@ -30862,7 +30862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Coke": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2952.4653085326254,
@@ -30872,7 +30872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Coleman": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1590.2140672782878,
@@ -30882,7 +30882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Collin": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 315.0580344630967,
@@ -30892,7 +30892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Collingsworth": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1712.3287671232877,
@@ -30902,7 +30902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Colorado": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 558.3213139161587,
@@ -30912,7 +30912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Comal": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 800.2099750974656,
@@ -30922,7 +30922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Comanche": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1613.4946828016136,
@@ -30932,7 +30932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Concho": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1100.513573000734,
@@ -30942,7 +30942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Cooke": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 557.4811547131395,
@@ -30952,7 +30952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Coryell": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 368.65874050374583,
@@ -30962,7 +30962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Cottle": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 3576.53791130186,
@@ -30972,7 +30972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Crane": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1876.172607879925,
@@ -30982,7 +30982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Crockett": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2309.4688221709007,
@@ -30992,7 +30992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Crosby": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2963.2211957469062,
@@ -31002,7 +31002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Culberson": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1381.851681252879,
@@ -31012,7 +31012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Dallam": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2332.92164127899,
@@ -31022,7 +31022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Dallas": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 694.7406124645041,
@@ -31032,7 +31032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Dawson": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 3614.0791954745446,
@@ -31042,7 +31042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - DeWitt": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2281.746031746032,
@@ -31052,7 +31052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Deaf Smith": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2695.9991372802756,
@@ -31062,7 +31062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Delta": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 562.7462014631401,
@@ -31072,7 +31072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Denton": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 337.0126700984099,
@@ -31082,7 +31082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Dickens": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2713.7042062415203,
@@ -31092,7 +31092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Dimmit": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 987.7518767285657,
@@ -31102,7 +31102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Donley": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1830.3843807199514,
@@ -31112,7 +31112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Duval": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2420.0053777897283,
@@ -31122,7 +31122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Eastland": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 653.5947712418301,
@@ -31132,7 +31132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Ector": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1203.2029261895163,
@@ -31142,7 +31142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Edwards": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1035.1966873706,
@@ -31152,7 +31152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - El Paso": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1802.8258968254534,
@@ -31162,7 +31162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Ellis": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 773.7006698191815,
@@ -31172,7 +31172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Erath": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 632.3481193498524,
@@ -31182,7 +31182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Falls": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 925.0158987107591,
@@ -31192,7 +31192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Fannin": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1351.5796587261364,
@@ -31202,7 +31202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Fayette": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1262.5266314211315,
@@ -31212,7 +31212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Fisher": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1827.6762402088773,
@@ -31222,7 +31222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Floyd": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 3676.470588235294,
@@ -31232,7 +31232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Foard": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 3463.2034632034633,
@@ -31242,7 +31242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Fort Bend": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 445.98417125792173,
@@ -31252,7 +31252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Franklin": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1025.6410256410254,
@@ -31262,7 +31262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Freestone": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1115.7884059441092,
@@ -31272,7 +31272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Frio": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 492.4652811976756,
@@ -31282,7 +31282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Gaines": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1209.7524660338731,
@@ -31292,7 +31292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Galveston": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 584.5577382291991,
@@ -31302,7 +31302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Garza": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2568.6305988120084,
@@ -31312,7 +31312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Gillespie": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 592.8560841855639,
@@ -31322,7 +31322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Glasscock": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 709.7232079489,
@@ -31332,7 +31332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Goliad": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 914.0767824497258,
@@ -31342,7 +31342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Gonzales": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1151.7972836780725,
@@ -31352,7 +31352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Gray": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1370.7392853879192,
@@ -31362,7 +31362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Grayson": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1035.151088009867,
@@ -31372,7 +31372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Gregg": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1129.533260720481,
@@ -31382,7 +31382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Grimes": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1419.6675900277007,
@@ -31392,7 +31392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Guadalupe": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 599.3515016751875,
@@ -31402,7 +31402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Hale": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 3412.5606178530807,
@@ -31412,7 +31412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Hall": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1686.9095816464237,
@@ -31422,7 +31422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Hamilton": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1654.6507505023048,
@@ -31432,7 +31432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Hansford": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2222.6338210779772,
@@ -31442,7 +31442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Hardeman": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1779.8118484617341,
@@ -31452,7 +31452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Hardin": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 815.9438908371236,
@@ -31462,7 +31462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Harris": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 687.8371425692054,
@@ -31472,7 +31472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Harrison": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 871.4858834312505,
@@ -31482,7 +31482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Haskell": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1413.9271827500884,
@@ -31492,7 +31492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Hays": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 516.9620011208084,
@@ -31502,7 +31502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Hemphill": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 261.8486514794449,
@@ -31512,7 +31512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Henderson": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 821.881383178022,
@@ -31522,7 +31522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Hidalgo": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2479.54718909828,
@@ -31532,7 +31532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Hill": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 764.004474883353,
@@ -31542,7 +31542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Hockley": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 3040.7019677685594,
@@ -31552,7 +31552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Hood": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1070.6811803448893,
@@ -31562,7 +31562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Hopkins": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1806.7090928702405,
@@ -31572,7 +31572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Houston": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 957.8544061302681,
@@ -31582,7 +31582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Howard": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1445.559677067423,
@@ -31592,7 +31592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Hudspeth": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1432.6647564469915,
@@ -31602,7 +31602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Hunt": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 750.5527719739539,
@@ -31612,7 +31612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Hutchinson": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1910.4021396503965,
@@ -31622,7 +31622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Jack": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1007.2747621712368,
@@ -31632,7 +31632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Jackson": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1287.2628726287262,
@@ -31642,7 +31642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Jasper": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1125.840862394101,
@@ -31652,7 +31652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Jeff Davis": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 439.7537379067723,
@@ -31662,7 +31662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Jefferson": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 814.8987339256256,
@@ -31672,7 +31672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Jim Hogg": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1923.076923076923,
@@ -31682,7 +31682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Jim Wells": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1506.8425473049751,
@@ -31692,7 +31692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Johnson": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 784.9070340183258,
@@ -31702,7 +31702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Jones": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1095.453866454215,
@@ -31712,7 +31712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Karnes": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1217.8706493173515,
@@ -31722,7 +31722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Kaufman": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 785.8748182205443,
@@ -31732,7 +31732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Kendall": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 632.4977335497881,
@@ -31742,7 +31742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Kenedy": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 4950.49504950495,
@@ -31752,7 +31752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Kent": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1312.3359580052495,
@@ -31762,7 +31762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Kerr": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 608.3650190114068,
@@ -31772,7 +31772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Kimble": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1383.4447774959651,
@@ -31782,7 +31782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Kinney": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 818.1074447777474,
@@ -31792,7 +31792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Kleberg": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1857.887874837027,
@@ -31802,7 +31802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Knox": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 3275.109170305677,
@@ -31812,7 +31812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - La Salle": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1861.7021276595742,
@@ -31822,7 +31822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Lamar": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1724.8641168094025,
@@ -31832,7 +31832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Lamb": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 4886.3724501667575,
@@ -31842,7 +31842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Lampasas": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 653.3507560201606,
@@ -31852,7 +31852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Lavaca": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2431.279150540836,
@@ -31862,7 +31862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Lee": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1334.1841174082022,
@@ -31872,7 +31872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Leon": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1206.6191680073546,
@@ -31882,7 +31882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Liberty": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 952.1758351375555,
@@ -31892,7 +31892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Limestone": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 896.0191150744549,
@@ -31902,7 +31902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Lipscomb": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1855.8614290133,
@@ -31912,7 +31912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Live Oak": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 819.2020971573687,
@@ -31922,7 +31922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Llano": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 275.2924982794218,
@@ -31932,7 +31932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Lubbock": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1616.3879846346545,
@@ -31942,7 +31942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Lynn": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1848.4288354898335,
@@ -31952,7 +31952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Madison": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1120.1344161299355,
@@ -31962,7 +31962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Marion": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1725.1877410188754,
@@ -31972,7 +31972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Martin": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2079.3623288858084,
@@ -31982,7 +31982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Mason": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 467.94571829667757,
@@ -31992,7 +31992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Matagorda": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1746.581884671015,
@@ -32002,7 +32002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Maverick": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 3150.4376553932098,
@@ -32012,7 +32012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - McCulloch": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1252.5050100200401,
@@ -32022,7 +32022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - McLennan": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 946.9143451678141,
@@ -32032,7 +32032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - McMullen": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1345.8950201884252,
@@ -32042,7 +32042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Medina": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1046.8362282878413,
@@ -32052,7 +32052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Menard": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1403.1805425631433,
@@ -32062,7 +32062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Midland": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 972.6746290264206,
@@ -32072,7 +32072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Milam": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 402.8521935301937,
@@ -32082,7 +32082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Mills": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2052.123948286476,
@@ -32092,7 +32092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Mitchell": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1404.330017554125,
@@ -32102,7 +32102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Montague": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1614.6937127863562,
@@ -32112,7 +32112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Montgomery": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 403.36455429863133,
@@ -32122,7 +32122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Moore": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2053.486150907355,
@@ -32132,7 +32132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Morris": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 645.7862447529868,
@@ -32142,7 +32142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Motley": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2500,
@@ -32152,7 +32152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Nacogdoches": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1395.6199006195943,
@@ -32162,7 +32162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Navarro": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 937.8803903178817,
@@ -32172,7 +32172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Newton": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1250.4597278411181,
@@ -32182,7 +32182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Nolan": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1019.4372706266141,
@@ -32192,7 +32192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Nueces": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1446.339161012879,
@@ -32202,7 +32202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Ochiltree": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1118.340788938593,
@@ -32212,7 +32212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Oldham": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 946.9696969696969,
@@ -32222,7 +32222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Orange": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 779.4138807616672,
@@ -32232,7 +32232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Palo Pinto": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1473.157696392477,
@@ -32242,7 +32242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Panola": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1681.4693455203928,
@@ -32252,7 +32252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Parker": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 573.9162082335979,
@@ -32262,7 +32262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Parmer": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 3227.4856845393024,
@@ -32272,7 +32272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Pecos": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1327.1819503254756,
@@ -32282,7 +32282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Polk": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 934.706833096411,
@@ -32292,7 +32292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Potter": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2393.2206276881143,
@@ -32302,7 +32302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Presidio": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1939.1408114558476,
@@ -32312,7 +32312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Rains": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1118.7470033562413,
@@ -32322,7 +32322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Randall": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1125.5291802516829,
@@ -32332,7 +32332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Reagan": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1558.8464536243177,
@@ -32342,7 +32342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Real": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2896.871378910776,
@@ -32352,7 +32352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Red River": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1663.4783331947099,
@@ -32362,7 +32362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Reeves": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1564.8472709063599,
@@ -32372,7 +32372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Refugio": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2446.747265400115,
@@ -32382,7 +32382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Roberts": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1170.9601873536303,
@@ -32392,7 +32392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Robertson": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 702.8230057397215,
@@ -32402,7 +32402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Rockwall": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 447.98169947100035,
@@ -32412,7 +32412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Runnels": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1656.2743569758377,
@@ -32422,7 +32422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Rusk": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 882.2556335698268,
@@ -32432,7 +32432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Sabine": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1233.1625877442614,
@@ -32442,7 +32442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - San Augustine": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2549.4718951074424,
@@ -32452,7 +32452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - San Jacinto": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 623.7222356977027,
@@ -32462,7 +32462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - San Patricio": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1408.6617713172486,
@@ -32472,7 +32472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - San Saba": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1816.6804293971925,
@@ -32482,7 +32482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Schleicher": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1790.1897601145724,
@@ -32492,7 +32492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Scurry": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1616.476082140933,
@@ -32502,7 +32502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Shackelford": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 306.2787136294028,
@@ -32512,7 +32512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Shelby": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1582.6541109440534,
@@ -32522,7 +32522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Sherman": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1323.6267372600928,
@@ -32532,7 +32532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Smith": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1009.6626867338915,
@@ -32542,7 +32542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Somervell": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 657.3181419807186,
@@ -32552,7 +32552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Starr": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 3047.97858679003,
@@ -32562,7 +32562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Stephens": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1174.4608157164214,
@@ -32572,7 +32572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Sterling": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 774.5933384972889,
@@ -32582,7 +32582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Stonewall": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2222.2222222222217,
@@ -32592,7 +32592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Sutton": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1588.9830508474577,
@@ -32602,7 +32602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Swisher": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1622.2793024199002,
@@ -32612,7 +32612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Tarrant": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 604.0384967526987,
@@ -32622,7 +32622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Taylor": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1144.6455221177391,
@@ -32632,7 +32632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Terrell": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1288.6597938144332,
@@ -32642,7 +32642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Terry": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2836.994407068169,
@@ -32652,7 +32652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Throckmorton": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1998.6675549633576,
@@ -32662,7 +32662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Titus": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1312.9770992366414,
@@ -32672,7 +32672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Tom Green": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1384.2281879194632,
@@ -32682,7 +32682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Travis": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 405.03817249288437,
@@ -32692,7 +32692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Trinity": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 614.2925397583783,
@@ -32702,7 +32702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Tyler": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 415.28239202657807,
@@ -32712,7 +32712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Upshur": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 670.6104950542476,
@@ -32722,7 +32722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Upton": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1640.6890894175551,
@@ -32732,7 +32732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Uvalde": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1458.4346135148278,
@@ -32742,7 +32742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Val Verde": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2978.072412034676,
@@ -32752,7 +32752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Van Zandt": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1007.245096306768,
@@ -32762,7 +32762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Victoria": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1205.4211372225361,
@@ -32772,7 +32772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Walker": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1068.9177892587468,
@@ -32782,7 +32782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Waller": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 398.21887557470217,
@@ -32792,7 +32792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Ward": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 666.7777962993831,
@@ -32802,7 +32802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Washington": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1588.5402151496573,
@@ -32812,7 +32812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Webb": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1565.1432124112603,
@@ -32822,7 +32822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Wharton": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1756.6657041101164,
@@ -32832,7 +32832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Wheeler": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1384.4936708860762,
@@ -32842,7 +32842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Wichita": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1383.9522044921728,
@@ -32852,7 +32852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Wilbarger": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2036.181376771869,
@@ -32862,7 +32862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Willacy": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2856.0726659799607,
@@ -32872,7 +32872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Williamson": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 328.50676740874195,
@@ -32882,7 +32882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Wilson": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 587.4290189935383,
@@ -32892,7 +32892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Winkler": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1248.4394506866415,
@@ -32902,7 +32902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Wise": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 928.7837219935985,
@@ -32912,7 +32912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Wood": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1361.4703880190605,
@@ -32922,7 +32922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Yoakum": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2065.878572248364,
@@ -32932,7 +32932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Young": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 1499.1671293725703,
@@ -32942,7 +32942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Zapata": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 634.7415191480358,
@@ -32952,7 +32952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Texas - Zavala": {
-    medianAge: 35,
+    medianAge: 34.8,
     dataPoints: [
       {
         allDeathPerMillion: 2111.4864864864867,
@@ -32962,7 +32962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Utah - Bear River": {
-    medianAge: 35,
+    medianAge: 31,
     dataPoints: [
       {
         allDeathPerMillion: 224.8177370488925,
@@ -32972,7 +32972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Utah - Central Utah": {
-    medianAge: 35,
+    medianAge: 31,
     dataPoints: [
       {
         allDeathPerMillion: 353.8570417551309,
@@ -32982,7 +32982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Utah - Davis": {
-    medianAge: 35,
+    medianAge: 31,
     dataPoints: [
       {
         allDeathPerMillion: 219.42100984300154,
@@ -32992,7 +32992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Utah - Salt Lake": {
-    medianAge: 35,
+    medianAge: 31,
     dataPoints: [
       {
         allDeathPerMillion: 437.7661174195583,
@@ -33002,7 +33002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Utah - San Juan": {
-    medianAge: 35,
+    medianAge: 31,
     dataPoints: [
       {
         allDeathPerMillion: 2090.4102430101907,
@@ -33012,7 +33012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Utah - Southeast Utah": {
-    medianAge: 35,
+    medianAge: 31,
     dataPoints: [
       {
         allDeathPerMillion: 298.29227671580196,
@@ -33022,7 +33022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Utah - Southwest Utah": {
-    medianAge: 35,
+    medianAge: 31,
     dataPoints: [
       {
         allDeathPerMillion: 499.9166805532411,
@@ -33032,7 +33032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Utah - Summit": {
-    medianAge: 35,
+    medianAge: 31,
     dataPoints: [
       {
         allDeathPerMillion: 118.63803535413453,
@@ -33042,7 +33042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Utah - Tooele": {
-    medianAge: 35,
+    medianAge: 31,
     dataPoints: [
       {
         allDeathPerMillion: 152.2301720200944,
@@ -33052,7 +33052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Utah - TriCounty": {
-    medianAge: 35,
+    medianAge: 31,
     dataPoints: [
       {
         allDeathPerMillion: 229.59273780509346,
@@ -33062,7 +33062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Utah - Utah": {
-    medianAge: 35,
+    medianAge: 31,
     dataPoints: [
       {
         allDeathPerMillion: 304.9187800105308,
@@ -33072,7 +33072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Utah - Wasatch": {
-    medianAge: 35,
+    medianAge: 31,
     dataPoints: [
       {
         allDeathPerMillion: 439.9988266697955,
@@ -33082,7 +33082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Utah - Weber-Morgan": {
-    medianAge: 35,
+    medianAge: 31,
     dataPoints: [
       {
         allDeathPerMillion: 330.47290672953005,
@@ -33092,7 +33092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Vermont - Addison": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 108.7636294423145,
@@ -33102,7 +33102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Vermont - Bennington": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 56.385678037778405,
@@ -33112,7 +33112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Vermont - Caledonia": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 66.68222585269896,
@@ -33122,7 +33122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Vermont - Chittenden": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 348.0405925238438,
@@ -33132,7 +33132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Vermont - Franklin": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 384.5998137727217,
@@ -33142,7 +33142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Vermont - Lamoille": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 39.42906710827223,
@@ -33152,7 +33152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Vermont - Orange": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 34.61165720614702,
@@ -33162,7 +33162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Vermont - Orleans": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 110.95905610829604,
@@ -33172,7 +33172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Vermont - Rutland": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 137.47830420511764,
@@ -33182,7 +33182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Vermont - Washington": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 102.7238952901094,
@@ -33192,7 +33192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Vermont - Windham": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 118.42167590355736,
@@ -33202,7 +33202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Vermont - Windsor": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 54.48403617740003,
@@ -33212,7 +33212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virgin Islands": {
-    medianAge: 35,
+    medianAge: 41,
     dataPoints: [
       {
         allDeathPerMillion: 214.41622851176493,
@@ -33222,7 +33222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Accomack": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 773.6105953707145,
@@ -33232,7 +33232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Albemarle": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 265.2519893899204,
@@ -33242,7 +33242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Alexandria": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 520.6111849863262,
@@ -33252,7 +33252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Alleghany": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1345.8950201884254,
@@ -33262,7 +33262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Amelia": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 532.5218714340053,
@@ -33272,7 +33272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Amherst": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 253.12450561619997,
@@ -33282,7 +33282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Appomattox": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 377.0976054302055,
@@ -33292,7 +33292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Arlington": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 709.3336485927325,
@@ -33302,7 +33302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Augusta": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 291.16705047777873,
@@ -33312,7 +33312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Bedford": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 341.78513108092716,
@@ -33322,7 +33322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Bland": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 955.4140127388532,
@@ -33332,7 +33332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Botetourt": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 448.846464586014,
@@ -33342,7 +33342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Bristol": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 417.61126357236617,
@@ -33352,7 +33352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Brunswick": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 492.88398743145837,
@@ -33362,7 +33362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Buchanan": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1142.6394972386208,
@@ -33372,7 +33372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Buckingham": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 583.1583858175879,
@@ -33382,7 +33382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Buena Vista": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 617.4745291756714,
@@ -33392,7 +33392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Campbell": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 327.9584585952447,
@@ -33402,7 +33402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Caroline": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 260.3742880390562,
@@ -33412,7 +33412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Carroll": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1074.1499110469604,
@@ -33422,7 +33422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Charles City": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1148.9300588826657,
@@ -33432,7 +33432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Charlotte": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 505.0505050505051,
@@ -33442,7 +33442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Charlottesville": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 719.3331358693351,
@@ -33452,7 +33452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Chesapeake": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 383.932035860886,
@@ -33462,7 +33462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Chesterfield": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 442.1743640909065,
@@ -33472,7 +33472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Clarke": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 273.6165264381969,
@@ -33482,7 +33482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Colonial Heights": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1554.40414507772,
@@ -33492,7 +33492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Covington": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 722.2824124232575,
@@ -33502,7 +33502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Craig": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 194.89378288832586,
@@ -33512,7 +33512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Culpeper": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 342.1727972626176,
@@ -33522,7 +33522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Cumberland": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 402.7386226339106,
@@ -33532,7 +33532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Danville": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1448.406752572171,
@@ -33542,7 +33542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Dickenson": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 279.36862690319884,
@@ -33552,7 +33552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Dinwiddie": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 490.47085201793715,
@@ -33562,7 +33562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Emporia": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 5424.616535727648,
@@ -33572,7 +33572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Essex": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 182.59837487446364,
@@ -33582,7 +33582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Fairfax": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 569.918747363908,
@@ -33592,7 +33592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Fairfax City": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 416.3370664890295,
@@ -33602,7 +33602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Falls Church": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 410.4809468427174,
@@ -33612,7 +33612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Fauquier": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 393.13695206537307,
@@ -33622,7 +33622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Floyd": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1079.433614832688,
@@ -33632,7 +33632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Fluvanna": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 330.03300330033005,
@@ -33642,7 +33642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Franklin": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 356.8752007423003,
@@ -33652,7 +33652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Franklin City": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 2133.801932973516,
@@ -33662,7 +33662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Frederick": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 268.71787981592826,
@@ -33672,7 +33672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Fredericksburg": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 275.52004408320704,
@@ -33682,7 +33682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Galax": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 4884.197258547345,
@@ -33692,7 +33692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Giles": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 119.61722488038278,
@@ -33702,7 +33702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Gloucester": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 187.42636821248794,
@@ -33712,7 +33712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Goochland": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 294.699616890498,
@@ -33722,7 +33722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Grayson": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1414.7909967845658,
@@ -33732,7 +33732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Greene": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 201.82653009738127,
@@ -33742,7 +33742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Greensville": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1411.4326040931544,
@@ -33752,7 +33752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Halifax": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 825.6907788033383,
@@ -33762,7 +33762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Hampton": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 319.6788342874136,
@@ -33772,7 +33772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Hanover": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 603.1586956925189,
@@ -33782,7 +33782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Harrisonburg": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 754.4892108042854,
@@ -33792,7 +33792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Henrico": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 831.2727844313188,
@@ -33802,7 +33802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Henry": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 929.6437684198035,
@@ -33812,7 +33812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Hopewell": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 399.48510808291536,
@@ -33822,7 +33822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Isle of Wight": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 781.4815812875582,
@@ -33832,7 +33832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - James City": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 339.7671288370817,
@@ -33842,7 +33842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - King George": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 335.37039797287224,
@@ -33852,7 +33852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - King William": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 291.579192908794,
@@ -33862,7 +33862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - King and Queen": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 284.69750889679705,
@@ -33872,7 +33872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Lancaster": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 188.62586060548904,
@@ -33882,7 +33882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Lee": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1110.0200657473424,
@@ -33892,7 +33892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Lexington": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 402.90088638195004,
@@ -33902,7 +33902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Loudoun": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 374.814406414888,
@@ -33912,7 +33912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Louisa": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 239.4190098693836,
@@ -33922,7 +33922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Lunenburg": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 245.98228927517218,
@@ -33932,7 +33932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Lynchburg": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 547.6584558465582,
@@ -33942,7 +33942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Madison": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 301.63637734710807,
@@ -33952,7 +33952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Manassas": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 705.8537179019106,
@@ -33962,7 +33962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Manassas Park": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 457.7182744021056,
@@ -33972,7 +33972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Martinsville": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 2150.7089373904732,
@@ -33982,7 +33982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Mathews": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 226.39800769753222,
@@ -33992,7 +33992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Mecklenburg": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1242.3578644522183,
@@ -34002,7 +34002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Middlesex": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1039.5010395010395,
@@ -34012,7 +34012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Montgomery": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 324.7577003095347,
@@ -34022,7 +34022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Nelson": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 267.91694574681844,
@@ -34032,7 +34032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - New Kent": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 216.53458057251743,
@@ -34042,7 +34042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Newport News": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 357.09303947551956,
@@ -34052,7 +34052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Norfolk": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 416.07962363332257,
@@ -34062,7 +34062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Northampton": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 2647.309991460291,
@@ -34072,7 +34072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Northumberland": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 826.787928896238,
@@ -34082,7 +34082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Nottoway": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1575.63025210084,
@@ -34092,7 +34092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Orange": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 269.89824836036814,
@@ -34102,7 +34102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Page": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1380.6376035478202,
@@ -34112,7 +34112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Patrick": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1590.1862789641073,
@@ -34122,7 +34122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Petersburg": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 988.9619090155044,
@@ -34132,7 +34132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Pittsylvania": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 513.6362130099083,
@@ -34142,7 +34142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Poquoson": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 244.47885257925185,
@@ -34152,7 +34152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Portsmouth": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 794.5083582279285,
@@ -34162,7 +34162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Powhatan": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 202.34722784297855,
@@ -34172,7 +34172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Prince Edward": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 701.692833961933,
@@ -34182,7 +34182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Prince George": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 182.51505749224313,
@@ -34192,7 +34192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Prince William": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 525.1576004337334,
@@ -34202,7 +34202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Pulaski": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 793.4875246128073,
@@ -34212,7 +34212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Radford": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 383.5826620636747,
@@ -34222,7 +34222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Rappahannock": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 271.3704206241519,
@@ -34232,7 +34232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Richmond": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 554.139421478444,
@@ -34242,7 +34242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Richmond City": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 390.5639743790031,
@@ -34252,7 +34252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Roanoke": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 562.7163272673221,
@@ -34262,7 +34262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Roanoke City": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 867.4339085966736,
@@ -34272,7 +34272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Rockbridge": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 132.90213972444957,
@@ -34282,7 +34282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Rockingham": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 463.7086933177137,
@@ -34292,7 +34292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Russell": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 526.5929436545551,
@@ -34302,7 +34302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Salem": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 948.5791075451564,
@@ -34312,7 +34312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Scott": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1205.6014096262634,
@@ -34322,7 +34322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Shenandoah": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1581.9882611885544,
@@ -34332,7 +34332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Smyth": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1694.1270263087965,
@@ -34342,7 +34342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Southampton": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 2268.73121206965,
@@ -34352,7 +34352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Spotsylvania": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 484.5281356678781,
@@ -34362,7 +34362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Stafford": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 150.44282518543716,
@@ -34372,7 +34372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Staunton": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 882.4001283491097,
@@ -34382,7 +34382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Suffolk": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 944.5433621400964,
@@ -34392,7 +34392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Surry": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 778.5736530675803,
@@ -34402,7 +34402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Sussex": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1164.9789407653016,
@@ -34412,7 +34412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Tazewell": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 320.23648232540955,
@@ -34422,7 +34422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Virginia Beach": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 293.3502824607644,
@@ -34432,7 +34432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Warren": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 771.8354745543273,
@@ -34442,7 +34442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Washington": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 744.324525493115,
@@ -34452,7 +34452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Waynesboro": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 441.8912947414935,
@@ -34462,7 +34462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Westmoreland": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 499.58368026644473,
@@ -34472,7 +34472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Williamsburg": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 534.9739200213988,
@@ -34482,7 +34482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Winchester": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 213.69043379158063,
@@ -34492,7 +34492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Wise": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 1417.7567343444882,
@@ -34502,7 +34502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - Wythe": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 592.6649002928461,
@@ -34512,7 +34512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Virginia - York": {
-    medianAge: 35,
+    medianAge: 38.4,
     dataPoints: [
       {
         allDeathPerMillion: 146.45577035735212,
@@ -34522,7 +34522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Adams": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 800.6805784917179,
@@ -34532,7 +34532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Asotin": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 708.5289168364184,
@@ -34542,7 +34542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Benton": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 748.5689123734038,
@@ -34552,7 +34552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Chelan": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 427.461139896373,
@@ -34562,7 +34562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Clallam": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 51.72569862021699,
@@ -34572,7 +34572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Clark": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 278.55096151285943,
@@ -34582,7 +34582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Columbia": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1003.7641154328732,
@@ -34592,7 +34592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Cowlitz": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 171.80110856925845,
@@ -34602,7 +34602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Douglas": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 322.3652398167123,
@@ -34612,7 +34612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Ferry": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 131.1131506490101,
@@ -34622,7 +34622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Franklin": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 798.1348847955303,
@@ -34632,7 +34632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Garfield": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 449.43820224719104,
@@ -34642,7 +34642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Grant": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 409.27833996705317,
@@ -34652,7 +34652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Grays Harbor": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 266.4499540373829,
@@ -34662,7 +34662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Island": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 246.64967524459428,
@@ -34672,7 +34672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Jefferson": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 31.035659973309325,
@@ -34682,7 +34682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - King": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 424.3641861485044,
@@ -34692,7 +34692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Kitsap": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 121.5590500712778,
@@ -34702,7 +34702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Kittitas": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 479.8164180661312,
@@ -34712,7 +34712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Klickitat": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 133.77926421404683,
@@ -34722,7 +34722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Lewis": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 284.9814762040467,
@@ -34732,7 +34732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Lincoln": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 365.6641374897158,
@@ -34742,7 +34742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Mason": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 194.70404984423678,
@@ -34752,7 +34752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Okanogan": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 615.4865894941173,
@@ -34762,7 +34762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Pacific": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 133.5054069689822,
@@ -34772,7 +34772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Pend Oreille": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 291.46021568055954,
@@ -34782,7 +34782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Pierce": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 337.02402263033434,
@@ -34792,7 +34792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Skagit": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 255.4080724430169,
@@ -34802,7 +34802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Skamania": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 82.76090374906894,
@@ -34812,7 +34812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Snohomish": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 411.15069889536704,
@@ -34822,7 +34822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Spokane": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 587.2248937448115,
@@ -34832,7 +34832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Stevens": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 262.44997047437835,
@@ -34842,7 +34842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Thurston": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 172.09571275160397,
@@ -34852,7 +34852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Walla Walla": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 493.7458854509546,
@@ -34862,7 +34862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Whatcom": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 226.82957683197597,
@@ -34872,7 +34872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Whitman": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 498.9621587098834,
@@ -34882,7 +34882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Washington - Yakima": {
-    medianAge: 35,
+    medianAge: 37.7,
     dataPoints: [
       {
         allDeathPerMillion: 1215.7545849892174,
@@ -34892,7 +34892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Barbour": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 486.58840703120256,
@@ -34902,7 +34902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Berkeley": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 385.9999496521804,
@@ -34912,7 +34912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Boone": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 885.4919140606795,
@@ -34922,7 +34922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Braxton": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 71.64863509350147,
@@ -34932,7 +34932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Brooke": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 866.037649847304,
@@ -34942,7 +34942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Cabell": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 870.0853771276306,
@@ -34952,7 +34952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Clay": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 352.60930888575456,
@@ -34962,7 +34962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Doddridge": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 355.1136363636363,
@@ -34972,7 +34972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Fayette": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 990.4258831297458,
@@ -34982,7 +34982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Gilmer": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 127.82819890067749,
@@ -34992,7 +34992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Grant": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 1383.1258644536654,
@@ -35002,7 +35002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Greenbrier": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 634.7008251110728,
@@ -35012,7 +35012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Hampshire": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 345.1995685005394,
@@ -35022,7 +35022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Hancock": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 694.2034015966677,
@@ -35032,7 +35032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Hardy": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 435.5400696864111,
@@ -35042,7 +35042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Harrison": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 446.05685738075414,
@@ -35052,7 +35052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Jackson": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 979.8432250839867,
@@ -35062,7 +35062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Jefferson": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 384.9788261645609,
@@ -35072,7 +35072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Kanawha": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 1027.3741887673755,
@@ -35082,7 +35082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Lewis": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 188.5962155026089,
@@ -35092,7 +35092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Lincoln": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 342.98593757655937,
@@ -35102,7 +35102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Logan": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 1686.49864143165,
@@ -35112,7 +35112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Marion": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 178.34213154515626,
@@ -35122,7 +35122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Marshall": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 1572.1725459369165,
@@ -35132,7 +35132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Mason": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 452.5569467491325,
@@ -35142,7 +35142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - McDowell": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 226.96323195642304,
@@ -35152,7 +35152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Mercer": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 833.9289969025496,
@@ -35162,7 +35162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Mineral": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 2047.0448116718776,
@@ -35172,7 +35172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Mingo": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 853.8251366120219,
@@ -35182,7 +35182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Monongalia": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 123.09207287050714,
@@ -35192,7 +35192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Monroe": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 828.6252354048963,
@@ -35202,7 +35202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Morgan": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 447.32721986132856,
@@ -35212,7 +35212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Nicholas": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 244.9379490529066,
@@ -35222,7 +35222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Ohio": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 748.5933689116416,
@@ -35232,7 +35232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Pendleton": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 143.4926101305783,
@@ -35242,7 +35242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Pleasants": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 670.2412868632706,
@@ -35252,7 +35252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Pocahontas": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 606.2810719049351,
@@ -35262,7 +35262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Preston": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 568.3177793730557,
@@ -35272,7 +35272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Putnam": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 921.1691762621788,
@@ -35282,7 +35282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Raleigh": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 340.78052371150886,
@@ -35292,7 +35292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Randolph": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 139.39710751001917,
@@ -35302,7 +35302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Ritchie": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 628.0092108017584,
@@ -35312,7 +35312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Roane": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 365.28345996493283,
@@ -35322,7 +35322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Summers": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 954.4261512765452,
@@ -35332,7 +35332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Taylor": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 658.879904162923,
@@ -35342,7 +35342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Tucker": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 146.2202076326948,
@@ -35352,7 +35352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Tyler": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 232.8017692934466,
@@ -35362,7 +35362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Upshur": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 165.45334215751157,
@@ -35372,7 +35372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Wayne": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 456.82960255824577,
@@ -35382,7 +35382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Wetzel": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 1062.0643876535016,
@@ -35392,7 +35392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Wirt": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 171.79178835251676,
@@ -35402,7 +35402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Wood": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 443.0182715103331,
@@ -35412,7 +35412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - West Virginia - Wyoming": {
-    medianAge: 35,
+    medianAge: 42.8,
     dataPoints: [
       {
         allDeathPerMillion: 784.5444738648623,
@@ -35422,7 +35422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Adams": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 593.4718100890207,
@@ -35432,7 +35432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Ashland": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 899.6272972625627,
@@ -35442,7 +35442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Barron": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1171.4260454424896,
@@ -35452,7 +35452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Bayfield": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1064.1127959563714,
@@ -35462,7 +35462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Brown": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 627.4996030876006,
@@ -35472,7 +35472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Buffalo": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 460.44048806691745,
@@ -35482,7 +35482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Burnett": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1038.0173867912285,
@@ -35492,7 +35492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Calumet": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 638.862824172972,
@@ -35502,7 +35502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Chippewa": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1020.7553589656346,
@@ -35512,7 +35512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Clark": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1437.8558693276589,
@@ -35522,7 +35522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Columbia": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 486.6856705833275,
@@ -35532,7 +35532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Crawford": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 681.9168061496496,
@@ -35542,7 +35542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Dane": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 259.7426352902441,
@@ -35552,7 +35552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Dodge": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1354.7513063673312,
@@ -35562,7 +35562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Door": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 505.99971085730806,
@@ -35572,7 +35572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Douglas": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 672.0741599073002,
@@ -35582,7 +35582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Dunn": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 440.8393581378946,
@@ -35592,7 +35592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Eau Claire": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 754.9261319113964,
@@ -35602,7 +35602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Florence": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 2793.9464493597206,
@@ -35612,7 +35612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Fond du Lac": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 667.2920514878679,
@@ -35622,7 +35622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Forest": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 2554.4202576632606,
@@ -35632,7 +35632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Grant": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1574.6806897490233,
@@ -35642,7 +35642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Green": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 270.5627705627706,
@@ -35652,7 +35652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Green Lake": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 687.3579019721886,
@@ -35662,7 +35662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Iowa": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 253.39978038685695,
@@ -35672,7 +35672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Iron": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 3516.792685071215,
@@ -35682,7 +35682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Jackson": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 629.7534273119219,
@@ -35692,7 +35692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Jefferson": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 637.025327655157,
@@ -35702,7 +35702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Juneau": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 299.7714242889797,
@@ -35712,7 +35712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Kenosha": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1203.1068465036183,
@@ -35722,7 +35722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Kewaunee": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1125.57502202212,
@@ -35732,7 +35732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - La Crosse": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 440.6182212581345,
@@ -35742,7 +35742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Lafayette": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 360.03600360036006,
@@ -35752,7 +35752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Langlade": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 2084.527593934025,
@@ -35762,7 +35762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Lincoln": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1884.5359330264928,
@@ -35772,7 +35772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Manitowoc": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 696.3700130411112,
@@ -35782,7 +35782,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Marathon": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1201.2498894555313,
@@ -35792,7 +35792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Marinette": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 966.5427509293679,
@@ -35802,7 +35802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Marquette": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1284.191601386927,
@@ -35812,7 +35812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Menominee": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 2194.9078138718173,
@@ -35822,7 +35822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Milwaukee": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 973.8550066298274,
@@ -35832,7 +35832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Monroe": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 454.0246038094827,
@@ -35842,7 +35842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Oconto": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1080.9385710519377,
@@ -35852,7 +35852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Oneida": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1404.6916701783957,
@@ -35862,7 +35862,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Outagamie": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 809.0055086888258,
@@ -35872,7 +35872,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Ozaukee": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 560.4061824010042,
@@ -35882,7 +35882,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Pepin": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 686.1534239055853,
@@ -35892,7 +35892,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Pierce": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 701.688730878982,
@@ -35902,7 +35902,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Polk": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 502.47813078135346,
@@ -35912,7 +35912,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Portage": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 678.2343299610015,
@@ -35922,7 +35922,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Price": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 299.60302599056257,
@@ -35932,7 +35932,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Racine": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1253.1136818619434,
@@ -35942,7 +35942,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Richland": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 753.5358219336888,
@@ -35952,7 +35952,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Rock": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 685.627532842783,
@@ -35962,7 +35962,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Rusk": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 775.8499083086472,
@@ -35972,7 +35972,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Sauk": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 450.0170696129852,
@@ -35982,7 +35982,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Sawyer": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 603.9376736320812,
@@ -35992,7 +35992,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Shawano": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1491.4790092667304,
@@ -36002,7 +36002,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Sheboygan": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 745.6216403676088,
@@ -36012,7 +36012,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - St. Croix": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 264.6465314763969,
@@ -36022,7 +36022,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Taylor": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 884.8252470137149,
@@ -36032,7 +36032,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Trempealeau": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 944.3826098687981,
@@ -36042,7 +36042,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Vernon": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 713.7758743754462,
@@ -36052,7 +36052,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Vilas": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 1036.2694300518135,
@@ -36062,7 +36062,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Walworth": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 847.2291754919705,
@@ -36072,7 +36072,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Washburn": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 699.7455470737913,
@@ -36082,7 +36082,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Washington": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 713.0570298601822,
@@ -36092,7 +36092,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Waukesha": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 801.5873408576985,
@@ -36102,7 +36102,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Waupaca": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 2549.519513630124,
@@ -36112,7 +36112,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Waushara": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 613.6726261097247,
@@ -36122,7 +36122,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Winnebago": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 936.552903604856,
@@ -36132,7 +36132,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wisconsin - Wood": {
-    medianAge: 35,
+    medianAge: 39.6,
     dataPoints: [
       {
         allDeathPerMillion: 602.7479828490801,
@@ -36142,7 +36142,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Albany": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 231.4814814814815,
@@ -36152,7 +36152,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Big Horn": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 1272.2646310432572,
@@ -36162,7 +36162,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Campbell": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 474.74158952115846,
@@ -36172,7 +36172,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Carbon": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 810.8108108108107,
@@ -36182,7 +36182,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Converse": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 723.4843003906817,
@@ -36192,7 +36192,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Crook": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 791.1392405063292,
@@ -36202,7 +36202,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Fremont": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 1375.4107129212196,
@@ -36212,7 +36212,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Goshen": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 984.0284611308757,
@@ -36222,7 +36222,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Hot Springs": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 226.60321776569225,
@@ -36232,7 +36232,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Johnson": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 592.0663114268799,
@@ -36242,7 +36242,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Laramie": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 472.36180904522604,
@@ -36252,7 +36252,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Lincoln": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 504.28643469490663,
@@ -36262,7 +36262,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Natrona": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 926.6447945102557,
@@ -36272,7 +36272,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Niobrara": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 424.4482173174873,
@@ -36282,7 +36282,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Park": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 239.775296293759,
@@ -36292,7 +36292,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Platte": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 953.1752651018707,
@@ -36302,7 +36302,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Sheridan": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 492.0452681646711,
@@ -36312,7 +36312,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Sublette": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 508.5952598921778,
@@ -36322,7 +36322,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Sweetwater": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 354.2498169709279,
@@ -36332,7 +36332,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Teton": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 85.23695874531198,
@@ -36342,7 +36342,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Uinta": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 346.08919212894295,
@@ -36352,7 +36352,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Washakie": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 1409.3529788597054,
@@ -36362,7 +36362,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "US - Wyoming - Weston": {
-    medianAge: 35,
+    medianAge: 38,
     dataPoints: [
       {
         allDeathPerMillion: 288.72527789808004,
