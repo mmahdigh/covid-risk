@@ -1,1 +1,0 @@
-export const calcRegionName = (city: string) => city.replace('_', " ");

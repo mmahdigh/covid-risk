@@ -44,7 +44,7 @@ export interface CovidData {
 }
 
 export interface DataPoint {
-  updatedAt: string | number;
+  updatedAt: string;
   lastWeekAverageDeathPerMillionEachDay: number;
   allDeathPerMillion: number;
 }
