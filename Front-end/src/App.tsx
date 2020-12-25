@@ -149,10 +149,6 @@ function App() {
     selectRef.current?.blur();
   };
 
-  // useEffect(() => {
-  //   getAllData()
-  // }, [])
-
   const handleSliderChange = (size: number) => setEventSize(size);
 
   const handleButtonSubmit = async () => {
@@ -194,7 +190,7 @@ function App() {
                 <p id="result"> {`${(result[result.length - 1].risk * 100).toFixed(2)}%`} </p>
               </div>
             </div>
-            <RiskChart risks={result.map((item) => ({risk: parseFloat((item.risk * 100).toFixed(2)), time: item.time}))} />
+            <RiskChart risks={result.map((item) => ({risk: parseFloat((item.risk * 100).toFixed(2)), time: item.time.split(" ")[0]}))} />
           </div>
           <button onClick={startOver} className="startOver">
             Start Over!
@@ -204,8 +200,11 @@ function App() {
         {result === undefined && <> <div className={classes.rowContainer}>
              <div>
               <p> Event Size: </p>
-              <Slider max={250} className={classes.slider}   tooltipVisible value={eventSize} 
-              onChange={handleSliderChange} defaultValue={DefaultEventSize} />
+              <Slider max={250} className={classes.slider}  
+               tooltipVisible 
+               defaultValue={DefaultEventSize}
+               onAfterChange={handleSliderChange}
+               />
             </div>
             <img src={people} width={50} />
           </div>
