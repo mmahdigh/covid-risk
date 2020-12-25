@@ -1,17 +1,19 @@
 import React, { useEffect, useRef, useState } from "react";
 import people from "./icons/people.svg";
+import Axios from 'axios'
 import locationIcon from "./icons/location.svg";
 import "./App.css";
 import "antd/dist/antd.css";
 import { Select, Slider } from "antd";
-import { RegionData } from "./logic/data";
-import { calcRegionName } from "./utils/index";
+// import { RegionData } from "./logic/data";
+// import { calcRegionName } from "./utils/index";
 import { RefSelectProps } from "antd/lib/select";
-import { contractionChanceRegion } from "./logic/main";
-import { trivia, TriviaPercentage,  } from './logic/trivia'; 
+// import { contractionChanceRegion } from "./logic/main";
+// import { trivia, TriviaPercentage,  } from './logic/trivia'; 
 import { createUseStyles } from "react-jss";
 import { RiskChart, timeStampToDate } from "./RiskChart";
-import { RegionCovidData } from "./logic/regionData";
+import { availableRegions } from "./regions";
+// import { RegionCovidData } from "./logic/regionData";
 // import { getAllData } from "./logic/data/index";
 
 const { Option } = Select;
@@ -123,32 +125,16 @@ const useStyles = createUseStyles({
   },
 })
 
-// const getTrivia = (result: number) => {
-//   if (result < 5 && result > 1) return trivia['1'][0]
-//   else return trivia[`${Math.min(50, (Math.floor(result / 5) + 1) * 5)}` as TriviaPercentage][0]
-// }
-
-// const getLastWeekDeaths = (location: string) => {
-//   return RegionCovidData[location].lastWeekAverageDeathPerMillionEachDay
-// }
-
-// const getAllDeaths = (location: string) => {
-//   return RegionCovidData[location].allDeathPerMillion
-// }
-
-// const getLastUpdateDate = (location: string) => {
-//   const timeStamp = RegionCovidData[location].updatedAt;
-//   console.log(Date.now() - timeStamp)
-//   console.log(timeStamp)
-//   const dt = new Date(timeStamp);
-//   return dt.toLocaleString().split(',')[0]
-// }
+type Result = {
+  risk: number;
+  time: string;
+}[]
 
 const DefaultEventSize = 5;
 function App() {
   const [location, setLocation] = useState<string[]>([]);
   const [eventSize, setEventSize] = useState(DefaultEventSize)
-  const [result, setResult] = useState<ReturnType<typeof contractionChanceRegion>>();
+  const [result, setResult] = useState<Result>();
 
   const selectRef = useRef<RefSelectProps | null>();
 
@@ -169,8 +155,12 @@ function App() {
 
   const handleSliderChange = (size: number) => setEventSize(size);
 
-  const handleButtonSubmit = () => {
-    setResult(contractionChanceRegion(location[0], eventSize))
+  const handleButtonSubmit = async () => {
+    const newResult = await Axios.post<Result>('http://localhost:7070', {
+      number: eventSize,
+      location: location[0]
+    })
+    setResult(newResult.data)
   }
 
   const startOver = () => {
@@ -204,7 +194,7 @@ function App() {
                 <p id="result"> {`${(result[result.length - 1].risk * 100).toFixed(2)}%`} </p>
               </div>
             </div>
-            <RiskChart risks={result.map((item) => ({risk: parseFloat((item.risk * 100).toFixed(2)), time: timeStampToDate(item.time as number)}))} />
+            <RiskChart risks={result.map((item) => ({risk: parseFloat((item.risk * 100).toFixed(2)), time: item.time}))} />
           </div>
           <button onClick={startOver} className="startOver">
             Start Over!
@@ -231,20 +221,19 @@ function App() {
                 onChange={handleChange}
                 optionLabelProp="label"
               >
-                {Object.keys(RegionCovidData).sort().map((key) => {
-                  const region = RegionCovidData[key];
+                {availableRegions.map((region) => {
                   return (
-                    <Option key={key} value={key}>
+                    <Option key={region} value={region}>
                       <div
                         style={{
                           display: "flex",
                           justifyContent: "space-between",
                         }}
                       >
-                        {calcRegionName(key)}
-                        <span role="img" aria-label="China">
+                        {region}
+                        {/* <span role="img" aria-label="China">
                           <img width={25} src={region.flag} />
-                        </span>
+                        </span> */}
                       </div>
                     </Option>
                   );

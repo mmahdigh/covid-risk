@@ -3,8 +3,7 @@ import { contractionChanceRegion } from './../logic/main';
 
 export let router = express.Router()
 
-// define the home page route
-router.get('/', function (req, res) {
+router.post('/', function (req, res) {
   const {number, location} = req.body
-  return contractionChanceRegion(location, number)
+  res.json(contractionChanceRegion(location, Number(number)))
 })
