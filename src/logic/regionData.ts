@@ -36372,7 +36372,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   Uganda: {
-    medianAge: 35,
+    medianAge: 15.8,
     dataPoints: [
       {
         allDeathPerMillion: 5.050173804682888,
@@ -36382,7 +36382,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Cherkasy Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 251.99962531634662,
@@ -36392,7 +36392,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Chernihiv Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 299.28063276476644,
@@ -36402,7 +36402,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Chernivtsi Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 817.1398116266058,
@@ -36412,7 +36412,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Crimea Republic*": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 219.46658124887983,
@@ -36422,7 +36422,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Dnipropetrovsk Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 389.524078919013,
@@ -36432,7 +36432,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Donetsk Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 156.268715939241,
@@ -36442,7 +36442,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Ivano-Frankivsk Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 562.1692158467638,
@@ -36452,7 +36452,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Kharkiv Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 365.1520146150506,
@@ -36462,7 +36462,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Kherson Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 352.72348791488366,
@@ -36472,7 +36472,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Khmelnytskyi Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 467.30265160650106,
@@ -36482,7 +36482,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Kiev": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 580.5205368035787,
@@ -36492,7 +36492,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Kiev Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 498.32007873570365,
@@ -36502,7 +36502,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Kirovohrad Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 239.01458306232675,
@@ -36512,7 +36512,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Luhansk Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 111.06809868609693,
@@ -36522,7 +36522,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Lviv Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 650.2721428568597,
@@ -36532,7 +36532,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Mykolaiv Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 172.87722822292122,
@@ -36542,7 +36542,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Odessa Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 380.6230118119168,
@@ -36552,7 +36552,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Poltava Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 474.85110026213226,
@@ -36562,7 +36562,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Rivne Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 409.57365456350607,
@@ -36572,7 +36572,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Sevastopol*": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 442.22729129015295,
@@ -36582,7 +36582,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Sumy Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 457.7323477138349,
@@ -36592,7 +36592,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Ternopil Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 418.78649442239487,
@@ -36602,7 +36602,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Vinnytsia Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 227.50664255309871,
@@ -36612,7 +36612,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Volyn Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 464.5861705929509,
@@ -36622,7 +36622,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Zakarpattia Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 481.3805197636541,
@@ -36632,7 +36632,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Zaporizhia Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 278.4558421794358,
@@ -36642,7 +36642,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "Ukraine - Zhytomyr Oblast": {
-    medianAge: 35,
+    medianAge: 40.6,
     dataPoints: [
       {
         allDeathPerMillion: 496.6427442216108,
@@ -36652,7 +36652,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "United Arab Emirates": {
-    medianAge: 35,
+    medianAge: 30.3,
     dataPoints: [
       {
         allDeathPerMillion: 64.40588853838065,
@@ -36662,7 +36662,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "United Kingdom - Bermuda": {
-    medianAge: 35,
+    medianAge: 40.5,
     dataPoints: [
       {
         allDeathPerMillion: 144.5249144894256,
@@ -36672,7 +36672,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "United Kingdom - British Virgin Islands": {
-    medianAge: 35,
+    medianAge: 40.5,
     dataPoints: [
       {
         allDeathPerMillion: 33.07206402751596,
@@ -36682,7 +36682,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "United Kingdom - Cayman Islands": {
-    medianAge: 35,
+    medianAge: 40.5,
     dataPoints: [
       {
         allDeathPerMillion: 30.432136335970785,
@@ -36692,7 +36692,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "United Kingdom - Channel Islands": {
-    medianAge: 35,
+    medianAge: 40.5,
     dataPoints: [
       {
         allDeathPerMillion: 304.98712602419954,
@@ -36702,7 +36702,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "United Kingdom - England": {
-    medianAge: 35,
+    medianAge: 40.5,
     dataPoints: [
       {
         allDeathPerMillion: 1050.5527250380512,
@@ -36712,7 +36712,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "United Kingdom - Gibraltar": {
-    medianAge: 35,
+    medianAge: 40.5,
     dataPoints: [
       {
         allDeathPerMillion: 178.08910391499214,
@@ -36722,7 +36722,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "United Kingdom - Isle of Man": {
-    medianAge: 35,
+    medianAge: 40.5,
     dataPoints: [
       {
         allDeathPerMillion: 294.0069620848622,
@@ -36732,7 +36732,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "United Kingdom - Montserrat": {
-    medianAge: 35,
+    medianAge: 40.5,
     dataPoints: [
       {
         allDeathPerMillion: 200.0400080016003,
@@ -36742,7 +36742,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "United Kingdom - Northern Ireland": {
-    medianAge: 35,
+    medianAge: 40.5,
     dataPoints: [
       {
         allDeathPerMillion: 635.6292517006802,
@@ -36752,7 +36752,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "United Kingdom - Scotland": {
-    medianAge: 35,
+    medianAge: 40.5,
     dataPoints: [
       {
         allDeathPerMillion: 783.9584134131385,
@@ -36762,7 +36762,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "United Kingdom - Turks and Caicos Islands": {
-    medianAge: 35,
+    medianAge: 40.5,
     dataPoints: [
       {
         allDeathPerMillion: 154.96668216333487,
@@ -36772,7 +36772,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "United Kingdom - Wales": {
-    medianAge: 35,
+    medianAge: 40.5,
     dataPoints: [
       {
         allDeathPerMillion: 992.4807238896324,
@@ -36792,7 +36792,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   Uzbekistan: {
-    medianAge: 35,
+    medianAge: 28.6,
     dataPoints: [
       {
         allDeathPerMillion: 18.28546897701376,
@@ -36802,7 +36802,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   Venezuela: {
-    medianAge: 35,
+    medianAge: 28.3,
     dataPoints: [
       {
         allDeathPerMillion: 34.744759475710026,
@@ -36812,7 +36812,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   Vietnam: {
-    medianAge: 35,
+    medianAge: 30.5,
     dataPoints: [
       {
         allDeathPerMillion: 0.359569647731568,
@@ -36822,7 +36822,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   "West Bank and Gaza": {
-    medianAge: 35,
+    medianAge: 21.1,
     dataPoints: [
       {
         allDeathPerMillion: 223.6633907134803,
@@ -36832,7 +36832,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   Yemen: {
-    medianAge: 35,
+    medianAge: 19.5,
     dataPoints: [
       {
         allDeathPerMillion: 20.3178652910779,
@@ -36842,7 +36842,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   Zambia: {
-    medianAge: 35,
+    medianAge: 16.8,
     dataPoints: [
       {
         allDeathPerMillion: 20.28943063179655,
@@ -36852,7 +36852,7 @@ export const RegionCovidData: CovidData = {
     ],
   },
   Zimbabwe: {
-    medianAge: 35,
+    medianAge: 20,
     dataPoints: [
       {
         allDeathPerMillion: 21.530079505873914,
