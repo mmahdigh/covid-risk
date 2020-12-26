@@ -190,10 +190,10 @@ function App() {
           <div className={classes.resultAndChart}>
             <div className={classes.resultContainer}>
               <div style={{color: `rgb(${Math.min(256, Number(result[result.length - 1]) * 5)}, 0, 0)`}} className="result">
-                <p id="result"> {`${(result[result.length - 1].risk * 100).toFixed(2)}%`} </p>
+                <p id="result"> {`${(result[0].risk * 100).toFixed(2)}%`} </p>
               </div>
             </div>
-            <RiskChart risks={result.map((item) => ({risk: parseFloat((item.risk * 100).toFixed(2)), time: item.time.split(" ")[0]}))} />
+            <RiskChart risks={result.reverse().map((item) => ({risk: parseFloat((item.risk * 100).toFixed(2)), time: item.time.split(" ")[0]}))} />
           </div>
           <button onClick={startOver} className="startOver">
             Start Over!

@@ -36,7 +36,7 @@ const calcPopulationInMillion = (allCases: number, incideneRate: number) => {
   return (allCases / (incideneRate / 100000)) / 1000000
 }
 
-export const updateData = async (time: string, weekAgo: string) => {
+const updateData = async (time: string, weekAgo: string) => {
 
   const results1 = await readData("./covid-jhu-data/" + time + ".csv")
   const results2 = await readData("./covid-jhu-data/" + weekAgo + ".csv")
@@ -87,5 +87,3 @@ export const updateData = async (time: string, weekAgo: string) => {
     console.log('Hello World > helloworld.txt');
   });
 };
-
-updateData("11-29-2020", "11-22-2020");
