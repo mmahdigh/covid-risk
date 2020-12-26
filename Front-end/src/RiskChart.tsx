@@ -4,6 +4,7 @@ import {
 } from 'recharts';
 import { scaleOrdinal } from 'd3-scale';
 import { schemeCategory10 } from 'd3-scale-chromatic';
+import { useTheme } from 'react-jss';
 
 export const timeStampToDate = (timeStamp: number) => {
   const dt = new Date(timeStamp);
@@ -41,9 +42,10 @@ const TriangleBar : FC<TriangleBarProps> = (props) => {
 
 export const RiskChart : FC<Props> = (props) => {
 
+    const isMobile = window.innerWidth < 500
     return (
       <BarChart
-        width={450}
+        width={isMobile ? 380 : 450}
         height={300}
         data={props.risks}
         margin={{
@@ -63,25 +65,3 @@ export const RiskChart : FC<Props> = (props) => {
       </BarChart>
     );
 }
-
-// export const RiskChart: FC<Props> = (props) => {
-
-//   return (
-//     <LineChart
-//         width={450}
-//         height={300}
-//         data={props.risks}
-//         margin={{
-//           top: 5, right: 30, left: 20, bottom: 5,
-//         }}
-//       >
-//         <CartesianGrid strokeDasharray="3 3" />
-//         <XAxis dataKey="time" />
-//         <YAxis />
-//         <Tooltip />
-//         <Legend />
-//         <Line type="monotone" dataKey="risk" stroke="#8884d8" activeDot={{ r: 8 }} />
-//         {/* <Line type="monotone" dataKey="uv" stroke="#82ca9d" /> */}
-//       </LineChart>
-//   )
-// }
