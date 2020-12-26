@@ -135,6 +135,7 @@ function App() {
   const [location, setLocation] = useState<string[]>([]);
   const [eventSize, setEventSize] = useState(DefaultEventSize)
   const [result, setResult] = useState<Result>();
+  const [loading, setLoading] = useState(false)
 
   const selectRef = useRef<RefSelectProps | null>();
 
@@ -152,10 +153,12 @@ function App() {
   const handleSliderChange = (size: number) => setEventSize(size);
 
   const handleButtonSubmit = async () => {
+    setLoading(true)
     const newResult = await Axios.post<Result>('https://api-covid.iran.liara.run', {
       number: eventSize,
       location: location[0]
     })
+    setLoading(false)
     setResult(newResult.data)
   }
 
@@ -241,7 +244,7 @@ function App() {
             </div>
             <img src={locationIcon} width={50} />
           </div>
-          <button onClick={handleButtonSubmit} className="riskButton"> Calculate </button> </>}
+          <button onClick={handleButtonSubmit} className="riskButton"> {loading ? "Loading..." : "Calculate"} </button> </>}
           </div>
       <div className="info">
         <p style={{fontWeight: 700}}> This calculator predicts the chance that there's already at least one
