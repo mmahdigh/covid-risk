@@ -1,7 +1,7 @@
 import express from 'express'
 import cors from 'cors'
 import bodyParser from 'body-parser'
-import { router } from './src/root/index';
+import { router } from './root/index';
 
 const app = express()
 const port = 7070
