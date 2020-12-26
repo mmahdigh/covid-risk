@@ -152,7 +152,7 @@ function App() {
   const handleSliderChange = (size: number) => setEventSize(size);
 
   const handleButtonSubmit = async () => {
-    const newResult = await Axios.post<Result>('http://localhost:7070', {
+    const newResult = await Axios.post<Result>('https://api-covid.iran.liara.run', {
       number: eventSize,
       location: location[0]
     })
