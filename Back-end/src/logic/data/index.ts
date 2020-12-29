@@ -50,11 +50,6 @@ const updateData = async (time: string, weekAgo: string) => {
     const averageDeathLastWeek = (!item.Deaths || Number(item.Deaths) === 0) ? 0 :(Number(item.Deaths) -
      Number(itemLastWeek.Deaths)) / 7
 
-     if (item.Country_Region === "Iran") {
-       console.log(item)
-       console.log(itemLastWeek)
-       console.log(averageDeathLastWeek);
-     }
     const population = calcPopulationInMillion(Number(item.Confirmed),
     Number(item.Incident_Rate));
     
@@ -77,7 +72,7 @@ const updateData = async (time: string, weekAgo: string) => {
     const regionData = RegionCovidData[key];
     let newObj : RegionData;
     if (final[key])
-      newObj = {...regionData, dataPoints: [...regionData.dataPoints, final[key]]}
+      newObj = {...regionData, dataPoints: [final[key], ...regionData.dataPoints]}
     else newObj = regionData
     newData = {...newData, [key]: newObj};
   })
@@ -87,3 +82,5 @@ const updateData = async (time: string, weekAgo: string) => {
     console.log('Hello World > helloworld.txt');
   });
 };
+
+updateData("12-27-2020", "12-20-2020")
