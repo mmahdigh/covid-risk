@@ -1,4 +1,7 @@
 # Covid Event Risk Calculator
+
+Available at: https://mmahdigh.github.io/covid-risk/
+
 It's very likely that there's an indoor event or party you don't want to miss 
 but you also can't shrug off the possibility of contracting Covid19.
 
