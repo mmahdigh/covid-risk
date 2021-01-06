@@ -83,4 +83,4 @@ const updateData = async (time: string, weekAgo: string) => {
   });
 };
 
-updateData("12-27-2020", "12-20-2020")
+updateData("01-03-2021","12-27-2020")
