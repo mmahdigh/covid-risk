@@ -1,6 +1,6 @@
 # Covid Event Risk Calculator
 
-<b> THIS TOOL IS NOT LONGER MAINTAINED AND UPDATED WITH NEW DATA. </b>
+<b> THIS TOOL IS NO LONGER MAINTAINED AND UPDATED WITH NEW DATA. </b>
 
 Available at: https://mmahdigh.github.io/covid-risk/
 
