@@ -248,17 +248,17 @@ function App() {
           </div>
       <div className="info">
         <p style={{fontWeight: 700}}> This calculator predicts the chance that there's already at least one
-          person infected with Covid19 in an event or party.
+          person infected with Covid19 at an event or party.
         </p>
-        <p> Since testing capacity isn't the same all over the world,
-          number of cases reported by different governments isn't accurate,
-          hospitalization and death counts are better indicator of how Covid 
+        <p> Since testing capacity isn't the same worldwide,
+          the number of cases reported by different governments isn't accurate.
+          Hospitalization and death counts are a better indicator of how Covid 
           is harming a region. in this calculator, we use death count to predict 
           the number of cases in a region </p>
         <p> We've presumed that 40% of cases are asymptomatic and symptomatic
           cases refrain from participating in events and parties. 
         <p> IFR of different countries and regions are predicted 
-        using their median age and IFR of the US published by CDC. </p>
+        using their median age and the IFR of the US published by the CDC. </p>
         </p>
       </div>
       </div>
