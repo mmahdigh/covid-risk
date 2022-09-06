@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "351c678b8f71891e90b50c7b4949cc60",
+    "revision": "ab05971bf8cb9eb9f44f4e8b43136c84",
     "url": "/covid-risk/index.html"
   },
   {
-    "revision": "4b0de8489eee2ccafbdb",
+    "revision": "91da075c3afb42eeb0c2",
     "url": "/covid-risk/static/css/2.e10cf4f1.chunk.css"
   },
   {
-    "revision": "1bd7e58b0b8a3ed569a9",
+    "revision": "afae1b16627d2fa94e5f",
     "url": "/covid-risk/static/css/main.9c788821.chunk.css"
   },
   {
-    "revision": "4b0de8489eee2ccafbdb",
-    "url": "/covid-risk/static/js/2.98c522d3.chunk.js"
+    "revision": "91da075c3afb42eeb0c2",
+    "url": "/covid-risk/static/js/2.c6387bc1.chunk.js"
   },
   {
     "revision": "09e0c273c10010dff352",
     "url": "/covid-risk/static/js/3.1b604460.chunk.js"
   },
   {
-    "revision": "1bd7e58b0b8a3ed569a9",
-    "url": "/covid-risk/static/js/main.5727813e.chunk.js"
+    "revision": "afae1b16627d2fa94e5f",
+    "url": "/covid-risk/static/js/main.393412d0.chunk.js"
   },
   {
     "revision": "b275ab64e353d4197bbb",
